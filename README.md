@@ -8,8 +8,8 @@ Bienvenido al repositorio de documentación del proyecto **Camyo**. Este reposit
 ## 📌 Sobre Camyo
 Nuestra aplicación simplifica y agiliza la búsqueda de empleo en el sector del transporte. Conectamos de manera rápida y eficiente a empresas y transportistas de toda España, centralizando todas las ofertas en un solo lugar. Encuentra lo que necesitas con facilidad y en solo unos clics.
 
-🌐 **Landing Page**: [Camyo Landing Page](https://sites.google.com/view/camyo-landing-page/)
-✉️ **Contacto**: camyo.team@gmail.com
+- 🌐 **Landing Page**: [Camyo Landing Page](https://sites.google.com/view/camyo-landing-page/)
+- ✉️ **Contacto**: camyo.team@gmail.com
 
 ## 📂 Contenido del Repositorio
 Cada carpeta de este repositorio corresponde a un **entregable**, en el que se pueden encontrar los diferentes documentos y recursos relacionados con el proyecto.
