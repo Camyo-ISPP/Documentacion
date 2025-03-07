@@ -1,45 +1,39 @@
-# <center>Camyo</center>
+<h1 align="center">
+  Camyo
+</h1>
 
-<center>
+<p align="center">
   <img src="https://i.imgur.com/C72nY4p.png" alt="Logo de Camyo" width="150">
-</center>
+</p>
 
-## <center>Grupo 5</center>
+<h3 align="center">
+  <strong>Grupo 5</strong>
+</h3>
 
-### **<center>[Título del Documento]</center>** 
-<center>
+<h1 align="center">
+  <strong>[Título del Documento]</strong>
+</h1>
 
-**Nombre del Entregable:** [Placeholder]  
+<p align="center">
+  <strong>Nombre del Entregable:</strong> [Placeholder]  
+</p>
+<p align="center">
+  <strong>Asignatura:</strong> Ingeniería del Software y Práctica Profesional  
+</p>
+<p align="center">
+  <strong>Curso:</strong> 2024-2025  
+</p>
 
-**Asignatura:** Ingeniería del Software y Práctica Profesional  
-**Curso:** 2024-2025  
+### Miembros del Grupo
 
-</center>
-
-### <center>Miembros del Grupo</center>
-
-<center>
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <div>José Ramón Baños Botón</div>
-  <div>Isabel X. Cantero Corchero</div>
-  <div>Sheng Chen</div>
-  <div>Carlos García Martónez</div>
-  <div>Carlos García Ortiz</div>
-  <div>Raúl Heras Pérez</div>
-  <div>Pedro Jiménez Guerrero</div>
-  <div>Claudia Meana Iturri</div>
-  <div>Rubén Pérez Garrido</div>
-  <div>Lucía Pérez Gutiérrez</div>
-  <div>Francisco Pérez Manzano</div>
-  <div>Diego José Pérez Vargas</div>
-  <div>María C. Rodríguez Millán</div>
-  <div>Sonia María Rus Morales</div>
-  <div>Adriana Vento Conesa</div>
-  <div>Jun Yao</div>
-</div>
-
-</center>
+| Nombre Completo               | Nombre Completo               | Nombre Completo               |
+|-------------------------------|-------------------------------|-------------------------------|
+| José Ramón Baños Botón        | Sheng Chen                    | Pedro Jiménez Guerrero        |
+| Isabel X. Cantero Corchero    | Carlos García Martónez        | Claudia Meana Iturri          |
+| Carlos García Ortiz           | Raúl Heras Pérez              | Rubén Pérez Garrido           |
+| Lucía Pérez Gutiérrez         | Francisco Pérez Manzano       | Diego José Pérez Vargas       |
+| María C. Rodríguez Millán     | Sonia María Rus Morales       | Adriana Vento Conesa          |
+| Jun Yao                       |                               |                               |
 
 ## Tabla de Contenidos
 
