@@ -16,8 +16,6 @@
 
 </center>
 
----
-
 ### <center>Miembros del Grupo</center>
 
 <center>
@@ -43,16 +41,12 @@
 
 </center>
 
----
-
 ## Tabla de Contenidos
 
 1. [Apartado](#apartado)
     - [Subapartado](#subapartado)
 2. [Apartado](#apartado)
 3. [Apartado](#apartado)
-
----
 
 ## Apartado
 
@@ -111,5 +105,3 @@ A continuación, se muestra un ejemplo de cómo insertar una imagen:
 ### Notas Adicionales:
 
 > **Nota:** Este es un ejemplo de cómo resaltar información importante o añadir notas adicionales.
-
----
