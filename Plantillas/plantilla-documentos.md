@@ -24,16 +24,18 @@
   <strong>Curso:</strong> 2024-2025  
 </p>
 
-### Miembros del Grupo
+### Contribuciones del Equipo
 
-| Nombre Completo               | Nombre Completo               | Nombre Completo               |
-|-------------------------------|-------------------------------|-------------------------------|
-| José Ramón Baños Botón        | Sheng Chen                    | Pedro Jiménez Guerrero        |
-| Isabel X. Cantero Corchero    | Carlos García Martónez        | Claudia Meana Iturri          |
-| Carlos García Ortiz           | Raúl Heras Pérez              | Rubén Pérez Garrido           |
-| Lucía Pérez Gutiérrez         | Francisco Pérez Manzano       | Diego José Pérez Vargas       |
-| María C. Rodríguez Millán     | Sonia María Rus Morales       | Adriana Vento Conesa          |
-| Jun Yao                       |                               |                               |
+| Nombre(s) y Apellido(s)       | Tipo de Contribución          |
+|-------------------------------|-------------------------------|
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
+| [Nombre Apellido]             | [Tipo de Contribución]        |
 
 ## Tabla de Contenidos
 
