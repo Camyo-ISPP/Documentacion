@@ -48,8 +48,6 @@ Este documento representa la **versión 2** del Compromiso de Participación. La
 
 A continuación, se presentan las imágenes escaneadas de los compromisos firmados por cada uno de los miembros del equipo.
 
-<div align="center">
-
 ![Compromiso 1](compromisos/Compromiso%20(1).jpg)
 ![Compromiso 2](compromisos/Compromiso%20(2).jpg)
 ![Compromiso 3](compromisos/Compromiso%20(3).jpg)
@@ -98,5 +96,3 @@ A continuación, se presentan las imágenes escaneadas de los compromisos firmad
 ![Compromiso 46](compromisos/Compromiso%20(46).jpg)
 ![Compromiso 47](compromisos/Compromiso%20(47).jpg)
 ![Compromiso 48](compromisos/Compromiso%20(48).jpg)
-
-</div>
