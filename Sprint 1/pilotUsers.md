@@ -185,4 +185,4 @@ Todo el feedback obtenido durante el proceso de pruebas de los usuarios piloto s
 | Juan García Carballo        |      Estudiante ISPP G9      | 618 078 578 |            juagarcar4@alum.us.es |
 | Luis Giraldo Santiago        |      Estudiante ISPP G8      | 688 909 822 |            luigirsan1@alum.us.es |
 | Manuel Velez López          |      Estudiante ISPP G7      | 695 037 570 |            manvellop2@alum.us.es |
-| Yesica Leydi Garate Fuentes  |      Estudiante ISPP G11      |      -      |             yesgarfue@alum.us.es |
+| Yesica Leydi Garate Fuentes  |      Estudiante ISPP G11      | 634 412 997 |             yesgarfue@alum.us.es |
