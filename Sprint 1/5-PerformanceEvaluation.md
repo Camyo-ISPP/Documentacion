@@ -256,8 +256,21 @@
 **Rus Morales, Sonia María:**  
 - Student contribution
 
-**Vento Conesa, Adriana:**  
-- Student contribution
+**Vento Conesa, Adriana:**    
+- Actualizó y adaptó el *Commitment Agreement* al formato MD.  
+- Creó una plantilla general para documentos MD. 
+- Redactó el informe de contribuciones del Sprint 1.  
+- Proporcionó feedback a la BCC correspondiente a la Semana 4.  
+- Proporcionó feedback a la BCC correspondiente a la Semana 3.  
+- Implementó un buzón de sugerencias para recopilar ideas y mejoras del equipo.  
+- Hizo la implementación y mejora de la autenticación de usuario (codificación, pruebas y depuración).  
+- Resolvió errores críticos relacionados con la autenticación de usuario.  
+- Participó en la preparación y ejecución del *deployment* (backend y frontend).  
+- Documentó los controladores.
+- Realizó testing informal de mejoras implementadas para asegurar calidad y funcionalidad.  
+- Participó en la expansión del diagrama de clases.  
+- Participó en reuniones de planificación y retrospectivas del equipo como parte del equipo de coordinación.  
+- Participó activamente en todas las reuniones del equipo.
 
 **Yao, Jun:**  
 - Student contribution
