@@ -81,14 +81,26 @@ Líder de Gestión de Usuarios Piloto - Carlos García Ortiz - 10/03/2025
 
 ### Firmas por Usuarios Piloto
 
-Estudiante G9 - Isaac Solis Padilla -
+Estudiante G9 - Isaac Solis Padilla - 11/03/2025
 
-Estudiante G 8 - Jose Maria Morgado Prudencio -
+![](images/firmaISP.png "firmaISP")
 
-Estudiante G9 - Juan García Carballo -
+Estudiante G8 - Jose Maria Morgado Prudencio - 10/03/2025
 
-Estudiante G8 - Luis Giraldo Santiago -
+![](images/firmaJMP.png "firmaJMP")
 
-Estudiante G7 - Manuel Velez López -
+Estudiante G9 - Juan García Carballo - 11/03/2025
 
-Estudiante G11 - Yesica Leydi Garate Fuentes -
+![](images/firmaJGC.png "firmaJGC")
+
+Estudiante G8 - Luis Giraldo Santiago - 10/03/2025
+
+![](images/firmaLGS.png "firmaLGS")
+
+Estudiante G7 - Manuel Velez López - 10/03/2025
+
+![](images/firmaMVL.png "firmaMVL")
+
+Estudiante G11 - Yesica Leydi Garate Fuentes - 10/03/2025
+
+![](images/firmaYGF.png "firmaYGF")
