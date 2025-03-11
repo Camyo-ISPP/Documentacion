@@ -1,6 +1,41 @@
-# Agreed Individual Performance Evaluation
+<h1 align="center">
+  Camyo
+</h1>
 
-## Devising a Project (#DP)
+<p align="center">
+  <img src="https://i.imgur.com/C72nY4p.png" alt="Logo de Camyo" width="150">
+</p>
+
+<h3 align="center">
+  <strong>Grupo 5</strong>
+</h3>
+
+<h1 align="center">
+  <strong>Agreed Individual Performance Evaluation</strong>
+</h1>
+
+<p align="center">
+  <strong>Nombre del Entregable:</strong> [Placeholder]  
+</p>
+<p align="center">
+  <strong>Asignatura:</strong> Ingeniería del Software y Práctica Profesional  
+</p>
+<p align="center">
+  <strong>Curso:</strong> 2024-2025  
+</p>
+
+### Contribuciones del Equipo
+
+| Nombre(s) y Apellido(s)       | Tipo de Contribución          |
+|-------------------------------|-------------------------------|
+| Todos los Miembros             | Redacción de sus Contribuciones        |
+
+## Tabla de Contenidos
+
+1. [Agreed Individual Performance Evaluation ](#agreed-individual-performance-evaluation)
+2. [Individual Contribution Summary](#individual-contribution-summary)
+    - [Devising a Project (#DP1)](#devising-a-project-dp1)
+    - [Sprint 1 (#S1)](#sprint-1-s1)
 
 ### Agreed Individual Performance Evaluation  
 **Date:** 18/02/2025  
@@ -275,7 +310,3 @@
 **Yao, Jun:**  
 - Student contribution
 
----
-
-
-_ISPP 2024-2025_
