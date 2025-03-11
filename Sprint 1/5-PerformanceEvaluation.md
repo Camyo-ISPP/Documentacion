@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <strong>Nombre del Entregable:</strong> [Placeholder]  
+  <strong>Nombre del Entregable:</strong> Sprint 1 
 </p>
 <p align="center">
   <strong>Asignatura:</strong> Ingeniería del Software y Práctica Profesional  
