@@ -28,7 +28,7 @@
 
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-|-|
-| Francisco Pérez Manzano       | Analisis de Uso de IA         |
+| Francisco Pérez Manzano       | Analisis de Uso de IA, Alucinaciones de IA        |
 | Isabel Cantero Corchero       | Primera iteración del reporte |
 
 
@@ -102,6 +102,8 @@ Se utilizó la herramienta Deepseek para la generación de un guion base para el
 
 ### Sprint 1 
 
+Esta sección contendrá los usos de IA en el entregable del sprint 1 además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable.
+
 #### Usos genéricos
 
 Aquí vendrán algunos de los usos generales no destacables, principalmente por pertenecer a usos muy genéricos del uso de IA, como por ejemplo la refactorización de código o ayuda para solucionar errores en la aplicación, ya sea por backend o frontend. 
@@ -114,20 +116,34 @@ Se usaron las herramientas de Copilot y ChatGPT para encontrar aquellos iconos d
 
 Se utilizó ChatGPT para obtener una base para los seeders iniciales de la aplicación, dando como input el modelo de las entidades en java. Una vez desarrollada la base del SQL se modificaron manualmente los datos para encajar con la información que requería el equipo. 
 
+#### Encuesta Sprint 1
+
+Para detallar mejor el uso de IA durante el sprint, se desarrolló una encuesta que pregunte a los integrantes del proyecto algunas preguntas sobre su uso de herramientas IA durante el proyecto, y las alucinaciones que estas mismas herramientas pueden tener a la hora de buscar respuestas a un problema.
+
+En los resultados, solo 2 personas en el proyecto no han requerido de la IA en ningún estado del desarrollo, con el resto del equipo utilizando las herramientas una media estimada del 50%, con las restricciones de no utilizar la IA como base para construir sino para la refactorización y resolución de errores.
+
+En las herramientas más utilizadas se destaca ChatGPT con 11 personas utilizandola, con otras opciones con menor uso, incluyendo Deepseek, Copilot y Qwen AI. Los usos varían entre muchos destacando suo de herramientas IA para refactorización y arreglo de errores.
+
 ## 5. Alucinaciones de IA 
 
-Para ver la eficacia de la IA, se hará una encuesta en cada sprint para analizar el análisis de uso y el porcentaje estimado que el equipo haya tenido utilizando las herramientas IA. Una alucinación de IA se considera como aquel dato que una IA muestra con confianza como correcto, en el caso de que este dato sea claramente un error. 
+Dado el impacto que puede tener la fiabilidad de la IA en el desarrollo del proyecto, hemos decidido analizar la tasa de alucinaciones observadas durante los sprints. Este análisis nos permite comprender mejor la precisión de las respuestas de la IA y tomar decisiones sobre su uso en el futuro.
 
- 
+Una alucinación de una IA se considera como aquella respuesta que una IA muestra con confianza como correct<>, en el caso de que dicha respuesta sea claramente un error.
+
+Algunos de los errores que tuvo el equipo de proyecto con el uso de IA incluyen:
+
+- Generación de código erróneo (Java, Json, JavaScript, etc.)
+- Desajuste de elementos en el código, destacando un cambio del bot de pull request que modificó la estructura del modelo Usuario, haciendo que fallará la tabla y el sistema de login.
+- Repetición de errores tras informe del error.
 
 ### Sprint 1 
 
 Al no establecer una clara definición sobre el uso de IA antes y sus alucinaciones, se hará uso de porcentajes estimados por el equipo para establecer la cantidad de alucinaciones que el equipo encontró a lo largo del sprint 1, de los cuales se sacarán dos conclusiones. 
 
-Se calculará el **porcentaje de alucinación "general"**, que consistirá en calcular la media de porcentajes de fallo de cada miembro del proyecto y, **porcentaje de alucinación "ponderada"**, que tendrá en cuenta los fallos y 
+Se calculará la **media de alucinación "general"**, que consistirá en calcular la media de porcentajes de fallo de cada miembro del proyecto y, la **media de alucinación "ponderada"**, que tendrá en cuenta los fallos y 
 el uso de IA utilizado por cada miembro.
 
-- Respuestas de Miembros que hayan usado IA sobre el % de alucinaciones
+- Respuestas de Miembros que hayan usado IA sobre el porcentaje de alucinaciones
 
 | Uso | Errores (%) |
 |----|-------------|
@@ -139,7 +155,7 @@ el uso de IA utilizado por cada miembro.
 | 5  | 40%       |
 | 6  | 60%       |
 | 2  | 20%       |
-| 5  | 0%        | 
+| 6  | 0%        | 
 | 7  | 60%       | 
 | 7  | 40%       | 
 | 6  | 60%       | 
@@ -147,7 +163,7 @@ el uso de IA utilizado por cada miembro.
 
 
 **Media de alucinaciones general**
-Computando la media de los errores sin considerar el uso de IA utilizado por cada miembro, se obtiene un total de un 32% de alucinaciones estimadas.
+Computando la media de los errores sin considerar el uso de IA utilizado por cada miembro, se obtiene un total de un 32% de alucinaciones estimadas. Este porcentaje al ser bastante grande debe ser tomado en cuenta, aunque al no considerar el uso de IA de cada miembro no refleja una imagen fiel a la verdadera cantidad de fallos que tiene el equipo.
 
 **Media de alucinaciones ponderada**
-Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 35% de errores medio. Este valor que se aproxima mejor que la media general al total de fallos que ha tenido la IA en nuestro proyecto durante el primer sprint.
+Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 35% de errores medio. Este valor que se aproxima mejor que la media general al total de fallos que ha tenido la IA en nuestro proyecto durante el primer sprint. Aun así debemos tener en cuenta de que un 35% es un porcentaje que debe ser estudiado para evitar una falta de productividad en el equipo, ya que alucinaciones que de la IA puede resultar en más trabajo de un miembro para la resolución de un problema.
