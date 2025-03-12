@@ -11,7 +11,7 @@
 </h3>
 
 <h1 align="center">
-  <strong>Agreed Individual Performance Evaluation</strong>
+  <strong>Sprint Planning</strong>
 </h1>
 
 <p align="center">
@@ -28,26 +28,9 @@
 
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-------------------------------|-------------------------------|
-| Carlos García Martínez             | Redacción de Sprint 2        |
-| Lucía Pérez Gutiérrez             | Redacción de Sprint 1        |
-| Adriana Vento Conesa             | Redacción de Sprint 3 y organización de documento        |
-
-## Tabla de Contenidos 
-
-1. [Contribuciones del Equipo](#contribuciones-del-equipo)  
-2. [Planificación de Sprints](#planificación-de-sprints)  
-3. [Sprint 1 (#S1)](#sprint-1-s1)  
-   - [Objetivo Principal](#objetivo-principal)  
-   - [Objetivos Mid-Sprint](#objetivos-mid-sprint)  
-   - [Casos de Uso](#casos-de-uso)  
-4. [Sprint 2 (#S2)](#sprint-2-s2)  
-   - [Objetivo Principal](#objetivo-principal-2)  
-   - [Objetivos Mid-Sprint](#objetivos-mid-sprint-2)  
-   - [Casos de Uso](#casos-de-uso-2)  
-5. [Sprint 3 (#S3)](#sprint-3-s3)  
-   - [Objetivo Principal](#objetivo-principal-3)  
-   - [Objetivos Mid-Sprint](#objetivos-mid-sprint-3)  
-   - [Casos de Uso](#casos-de-uso-3)  
+| Carlos García Martínez             | Redacción del Documento    |
+| Lucía Pérez Gutiérrez             | Redacción del Documento        |
+| Adriana Vento Conesa             | Redacción del Documento       |
 
 ## Planificación de Sprints
 
