@@ -293,7 +293,14 @@
 - Student contribution
 
 **Pérez Manzano, Francisco:**  
-- Student contribution
+- Realizó la creación de modelo, repositorio y servicio de Oferta y sus subclases.
+- Modificó el reporte de IA, añadiendo porcentaje de alucinaciones (haciendo una encuesta) y mejor explicacón del uso de IA.
+- Modificó el reporte de IA a markdown.
+- Desarrollo la primera iteración de seeders iniciales.
+- Revisó pull requests.
+- Participó en el desarrollo de la iteración de seeders para pilotos.
+- Participó en la investigación de pasarela de pago.
+- Participó en todas las reuniones de equipo.
 
 **Pérez Vargas, Diego José:**  
 - Participó en la elaboración del Diagrama de Clases.
