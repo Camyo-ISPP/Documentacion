@@ -308,7 +308,13 @@
 - Student contribution
 
 **Pérez Gutiérrez, Lucía:**  
-- Student contribution
+- Configuró Expo y apoyó en la instalación del proyecto backend 
+- Participó en el Frontend en la barra de Navegación 
+- Participó en el Froontend en la elaboración de la pantalla de lista de ofertas
+- Participó activamente en la resolución de problemas de Frontend
+- Cordinó y organizó las tareas de Frontend
+- Inició el Frontend del repositorio, la organización de Github y el repositorio común 
+- Hizó review de pull requests
 
 **Pérez Manzano, Francisco:**  
 - Realizó la creación de modelo, repositorio y servicio de Oferta y sus subclases.
