@@ -239,7 +239,13 @@
 #### Sprint 1 (#S1)
 
 **Baños Botón, José Ramón:**  
-- Student contribution
+- Creó la pantalla de Perfil de Empresa.
+- Creó la lista de todas las empresas.
+- Ayudó en la pantalla de creación de ofertas.
+- Ayudó en la pantalla de edición de ofertas.
+- Revisó pr y las aceptó.
+- Participó en todas las reuniones del equipo.
+
 
 **Bruni, Martina:**  
 - N/A
