@@ -11,7 +11,7 @@
 </h3>
 
 <h1 align="center">
-  <strong>Listado de Usuarios Piloto</strong>
+  <strong>Plan y Listado de Usuarios Piloto</strong>
 </h1>
 
 <p align="center">
@@ -135,7 +135,6 @@ En su lugar, se ha implementado un enfoque más sencillo y ampliamente reconocid
 Para recopilar feedback de manera eficiente, se utilizarán encuestas periódicas, diseñadas para ser simples y accesibles. Estas encuestas se alinearán con los planes de seguimiento y evaluación detallados en secciones anteriores del documento, garantizando que se capturen las opiniones, sugerencias y necesidades de los usuarios de forma estructurada y efectiva. Este enfoque asegura una comunicación clara, inclusiva y adaptada a las capacidades de los usuarios, fomentando su participación en el proyecto.
 
 ## Beneficios de ser Usuario **Piloto**
-
 
 Los usuarios piloto contarán con un código exclusivo y de uso único que les permitirá eliminar anuncios en la página web y la aplicación, siempre y cuando accedan a la plataforma con su cuenta personal. Este beneficio está diseñado para reconocer su esfuerzo y participación en el proyecto, ofreciéndoles una experiencia más fluida y libre de interrupciones en la versión final de la aplicación. Sin embargo, este beneficio no afectará el modelo de negocio principal del proyecto, que se basa en planes de suscripción para acceder a funcionalidades premium junto con las micro transacciones para promocionar ofertas.
 
