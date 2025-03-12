@@ -283,7 +283,14 @@
 - Student contribution
 
 **Pérez Vargas, Diego José:**  
-- Student contribution
+- Participó en la elaboración del Diagrama de Clases.
+- Realizó la implementación y la depuración del controlador de Empresa en el backend.
+- Realizó pruebas informales del servicio y controlador de Empresa para asegurar su calidad y funcionalidad.
+- Propuso e investigó la instalación de Swagger en el proyecto.
+- Revisó dos *pull requests* del equipo de backend, proponiendo mejoras y ayudando con su búsqueda.
+- Participó en la depuración del controlador de Camionero.
+- Participó en la investigación de la implementación de la pasarela de pago.
+- Participó en todas las reuniones del equipo.
 
 **Rodríguez Millán, María Cristina:**  
 - Student contribution
