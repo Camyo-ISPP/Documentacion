@@ -268,7 +268,17 @@
 - Participó en el deployment del proyecto (destacando el apartado de base de datos)
 
 **García Ortíz, Carlos:**  
-- Student contribution
+- Preparó la primera prueba de usuarios pilotos.
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
+- Redactó el documento de *Acuerdo de Compromiso con Usuarios Piloto*.
+- Actualizó y adaptó el *Plan y Listado de Usuarios Piloto* a formato markdown.
+- Implementó Swagger para la documentación dinámica de los controladores.
+- Revisó 2 pull requests.
+- Apoyó a compañeros en la instalación del sistema y en el diseño de la entidad camionero.
+- Integró el workflow CI de Conventional Commits.
+- Diseñó el modelo, repositorio y servicio de la entidad Empresa.
+- Contactó con los usuarios piloto de ISPP.
+- Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**  
 - Student contribution
