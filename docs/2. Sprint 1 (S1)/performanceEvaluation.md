@@ -243,7 +243,7 @@
 - Creó la lista de todas las empresas.
 - Ayudó en la pantalla de creación de ofertas.
 - Ayudó en la pantalla de edición de ofertas.
-- Revisó pr y las aceptó.
+- Revisó pull requests y las aceptó.
 - Participó en todas las reuniones del equipo.
 
 
@@ -340,7 +340,12 @@
 - Student contribution
 
 **Rus Morales, Sonia María:**  
-- Student contribution
+- Realizó la pantalla de creación de ofertas.
+- Realizó la pantalla de edición de ofertas.
+- Implementó el componente para eliminar ofertas.
+- Ayudó en la pantalla de perfil de empresa.
+- Revisó pull requests y las aceptó.
+- Participó en todas las reuniones del equipo.
 
 **Vento Conesa, Adriana:**    
 - Actualizó y adaptó el *Commitment Agreement* al formato MD.  
