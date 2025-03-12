@@ -353,5 +353,11 @@
 - Participó activamente en todas las reuniones del equipo.
 
 **Yao, Jun:**  
-- Student contribution
+- Implementó el controlador de camionero.
+- Realizó testing informal de mejoras implementadas para comprobar el correcto funcionamiento del controlador y servicio de camionero.
+- Participó en la depuración del controlador de camionero.
+- Documentó los controladores.
+- Revisó pull requests.
+- Participó en la investigación de la Sistema de suscripciones.
+- Participó en todas las reuniones del equipo.
 
