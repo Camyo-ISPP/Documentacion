@@ -254,7 +254,15 @@
 - Student contribution
 
 **Chen, Sheng:**  
-- Student contribution
+- Implementó el controlador de ofertas.
+- Realizó testing informal de mejoras implementadas para comprobar el correcto funcionamiento del controlador y servicio de ofertas.
+- Participó en la depuración del controlador de ofertas.
+- Desarrolló la gráfica para la estimación de costes.
+- Modificó el análisis de costes, añadiendo el desglose de CAPEX y OPEX.
+- Documentó los controladores.
+- Participó en la resolución de problemas de bases de datos.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
 
 **García Martínez, Carlos:**  
 - Configuró SonarQube
