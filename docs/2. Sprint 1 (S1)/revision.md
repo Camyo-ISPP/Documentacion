@@ -140,12 +140,42 @@ La primera desde la barra de navegación, en ella se encuentra un botón de inic
 
 ### 5.2 Registro
 
-Cuando se va a la pantalla de iniciar sesión desde la barra de navegación, si no hay 
+Cuando se va a la pantalla de iniciar sesión desde la barra de navegación, si no hay sesión iniciada al haacer clic sobre inicio de sesión. 
 
+![image](https://github.com/user-attachments/assets/b8c69672-07b0-44f1-aed0-8e648e39d302)
+
+Cuando se hace clic sobre regístrate, le llevará a la siguiente pantalla, donde podrá elegir si hacer perfil de transportista o de empresa.
+
+![image](https://github.com/user-attachments/assets/3bac4b08-92d8-433d-ba5b-1372181e0562)
+
+Explicación más detallada de cada perfil en los puntos: 6.1 y 7.1
 
 ## 6. Transportista
 
-### 6.1 Perfil de Transportista
+### 6.1 Crear perfil de Transportista
+De la pantalla de registro, al seleccionar en camionero (del punto 5.2), podrá rellenar todos los datos para finalmente registrarse con el botón de regístrate.
+
+![image](https://github.com/user-attachments/assets/b1b9a685-20d0-442a-80fc-7dd5dd95d2f5)
+
+Si selecciona sobre seleccionar foto, le abrirá la carpeta de archivos para seleccionar una foto:
+
+![image](https://github.com/user-attachments/assets/350c7220-3c0e-458a-a27f-3331e96cc8a9)
+
+Una vez elegida la foto, puede decidir si cambiarla o borrarla
+![image](https://github.com/user-attachments/assets/eb4d0fc3-790e-4f60-adc2-d530982b29d5)
+
+Y de aquí puede seguir rellenando el resto de campos para registrarse correctamente como transportista.
+
+![image](https://github.com/user-attachments/assets/eb9a4a43-6afb-4f4b-8459-babd59deef81)
+
+![image](https://github.com/user-attachments/assets/e1f42623-3449-436e-80d6-82aeed63d4bb)
+
+Si no se hace correctamente el siguiente mensaje aparecerá:
+
+![image](https://github.com/user-attachments/assets/84d19e3a-0ddf-4643-ab83-f86c4b1f9d80)
+
+
+### 6.2 Perfil de Transportista
 
 Una vez registrado e iniciado sesión, el camionero puede acceder a su perfil.
 
@@ -161,7 +191,29 @@ En la pantalla de edición de perfil se podrán cambiar distintos datos del usua
 
 ## 7. Empresas
 
-### 7.1 Perfil de Empresa
+### 7.1 Crear de Perfil de Empresa
+De la pantalla de registro, al seleccionar en camionero (del punto 5.2), podrá rellenar todos los datos para finalmente registrarse con el botón de regístrate.
+
+![image](https://github.com/user-attachments/assets/17fedda7-f089-47ed-9536-383891cb333e)
+
+Si selecciona sobre seleccionar foto, le abrirá la carpeta de archivos para seleccionar una foto:
+
+![image](https://github.com/user-attachments/assets/2b8fa7ed-a979-474e-803b-45e484572ef7)
+
+Una vez elegida la foto, puede decidir si cambiarla o borrarla
+
+![image](https://github.com/user-attachments/assets/7d37c541-a8dc-4fc8-9d85-0947560e5b62)
+
+Y de aquí puede seguir rellenando el resto de campos para registrarse correctamente como empresa.
+
+![image](https://github.com/user-attachments/assets/5ce96e72-08e0-4f2f-b08e-bd32b51c6288)
+
+Si no se hace correctamente el siguiente mensaje aparecerá:
+
+![image](https://github.com/user-attachments/assets/dff94e9c-b92b-468a-9e89-52c28963a9f1)
+
+
+### 7.2 Perfil de Empresa
 
 La página de perfil de empresa permite a los usuarios registrados como empresa visualizar y gestionar la información de su empresa dentro de la aplicación. Desde esta pantalla, se pueden actualizar los datos en el botón “Editar Perfil”, visualizar el estado de las “Ofertas aceptadas”, “Ofertas pendientes” y “Ofertas rechazadas” y crear y publicar ofertas en el botón “Publicar nueva oferta”.
 
