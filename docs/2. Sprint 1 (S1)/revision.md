@@ -136,6 +136,14 @@ Desde esta pantalla podrá revisar sus datos, acceder a la edición de perfil y 
 
 <img src="images/ofertas_perfil_cam_camyo.png">
 
+<img src ="images/editar_camionero.png">
+
+En la pantalla de edición de perfil se podrán cambiar distintos datos del usuario y guardar los cambios.
+
 ## 7. Empresas
 
 Explica aquí cómo interactúan las empresas con la aplicación. Incluye ejemplos o casos de uso específicos.
+
+
+<img src ="images/editar_empresa.png">
+En la pantalla de edición de perfil de empresa se podrán cambiar distintos datos del usuario y guardar los cambios.
