@@ -32,10 +32,8 @@
 | Claudia Meana Iturri | Redacción de Detalles de Oferta y Registro de Transportistas y Empresas, Capturas Edición/Creación de ofertas |
 | José Ramón Baños Botón | Redacción Perfil de Empresa y Listado de Empresas |
 | Sonia María Rus Morales | Texto de Edición/Creación de ofertas|
-| [Nombre Apellido] | [Tipo de Contribución] |
-| [Nombre Apellido] | [Tipo de Contribución] |
-| [Nombre Apellido] | [Tipo de Contribución] |
-| [Nombre Apellido] | [Tipo de Contribución] |
+| Raúl Heras Pérez | Redacción y capturas de perfil de transportista |
+
 
 # Tabla de Contenidos
 
