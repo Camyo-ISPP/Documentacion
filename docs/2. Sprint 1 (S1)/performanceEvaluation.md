@@ -246,10 +246,6 @@
 - Revisó pull requests y las aceptó.
 - Participó en todas las reuniones del equipo.
 
-
-**Bruni, Martina:**  
-- N/A
-
 **Cantero Corchero, Isabel:**  
 - Documento de instalación.
 - Reestructuración del proyecto y dependencias.
