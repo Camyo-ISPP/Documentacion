@@ -239,7 +239,13 @@
 #### Sprint 1 (#S1)
 
 **Baños Botón, José Ramón:**  
-- Student contribution
+- Creó la pantalla de Perfil de Empresa.
+- Creó la lista de todas las empresas.
+- Ayudó en la pantalla de creación de ofertas.
+- Ayudó en la pantalla de edición de ofertas.
+- Revisó pull requests y las aceptó.
+- Participó en todas las reuniones del equipo.
+
 
 **Bruni, Martina:**  
 - N/A
@@ -248,7 +254,15 @@
 - Student contribution
 
 **Chen, Sheng:**  
-- Student contribution
+- Implementó el controlador de ofertas.
+- Realizó testing informal de mejoras implementadas para comprobar el correcto funcionamiento del controlador y servicio de ofertas.
+- Participó en la depuración del controlador de ofertas.
+- Desarrolló la gráfica para la estimación de costes.
+- Modificó el análisis de costes, añadiendo el desglose de CAPEX y OPEX.
+- Documentó los controladores.
+- Participó en la resolución de problemas de bases de datos.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
 
 **García Martínez, Carlos:**  
 - Configuró SonarQube
@@ -262,7 +276,17 @@
 - Participó en el deployment del proyecto (destacando el apartado de base de datos)
 
 **García Ortíz, Carlos:**  
-- Student contribution
+- Preparó la primera prueba de usuarios pilotos.
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
+- Redactó el documento de *Acuerdo de Compromiso con Usuarios Piloto*.
+- Actualizó y adaptó el *Plan y Listado de Usuarios Piloto* a formato markdown.
+- Implementó Swagger para la documentación dinámica de los controladores.
+- Revisó 2 pull requests.
+- Apoyó a compañeros en la instalación del sistema y en el diseño de la entidad camionero.
+- Integró el workflow CI de Conventional Commits.
+- Diseñó el modelo, repositorio y servicio de la entidad Empresa.
+- Contactó con los usuarios piloto de ISPP.
+- Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**  
 - Diseñó e implementó la pantalla de camionero en el frontend
@@ -274,7 +298,14 @@
 
 
 **Jiménez Guerrero, Pedro:**  
-- Student contribution
+- Contactó e informó a los usuarios piloto de la metodología
+- Participó en la elaboración del diagrama de clases
+- Realizó la implementación de las entidades Camionero, Autónomo y Camión, así como los enumerados Licencia, Tarjetas y Disponibilidad.
+- Realizó la implementación de los repositorios y servicios de las entidades Camionero, Autónomo y Camión.
+- Revisó pull request
+- Pasó el documento "5-pilots" a markdown
+- Redactó la primera versión del documento "estudioMapas"
+- Participó en todas las reuniones del equipo salvo la inicial
 
 **Meana Iturri, Claudia:**  
 - Student contribution
@@ -283,10 +314,23 @@
 - Student contribution
 
 **Pérez Gutiérrez, Lucía:**  
-- Student contribution
+- Configuró Expo y apoyó en la instalación del proyecto backend 
+- Participó en el Frontend en la barra de Navegación 
+- Participó en el Froontend en la elaboración de la pantalla de lista de ofertas
+- Participó activamente en la resolución de problemas de Frontend
+- Cordinó y organizó las tareas de Frontend
+- Inició el Frontend del repositorio, la organización de Github y el repositorio común 
+- Hizó review de pull requests
 
 **Pérez Manzano, Francisco:**  
-- Student contribution
+- Realizó la creación de modelo, repositorio y servicio de Oferta y sus subclases.
+- Modificó el reporte de IA, añadiendo porcentaje de alucinaciones (haciendo una encuesta) y mejor explicacón del uso de IA.
+- Modificó el reporte de IA a markdown.
+- Desarrollo la primera iteración de seeders iniciales.
+- Revisó pull requests.
+- Participó en el desarrollo de la iteración de seeders para pilotos.
+- Participó en la investigación de pasarela de pago.
+- Participó en todas las reuniones de equipo.
 
 **Pérez Vargas, Diego José:**  
 - Participó en la elaboración del Diagrama de Clases.
@@ -302,7 +346,12 @@
 - Student contribution
 
 **Rus Morales, Sonia María:**  
-- Student contribution
+- Realizó la pantalla de creación de ofertas.
+- Realizó la pantalla de edición de ofertas.
+- Implementó el componente para eliminar ofertas.
+- Ayudó en la pantalla de perfil de empresa.
+- Revisó pull requests y las aceptó.
+- Participó en todas las reuniones del equipo.
 
 **Vento Conesa, Adriana:**    
 - Actualizó y adaptó el *Commitment Agreement* al formato MD.  
@@ -321,5 +370,11 @@
 - Participó activamente en todas las reuniones del equipo.
 
 **Yao, Jun:**  
-- Student contribution
+- Implementó el controlador de camionero.
+- Realizó testing informal de mejoras implementadas para comprobar el correcto funcionamiento del controlador y servicio de camionero.
+- Participó en la depuración del controlador de camionero.
+- Documentó los controladores.
+- Revisó pull requests.
+- Participó en la investigación de la Sistema de suscripciones.
+- Participó en todas las reuniones del equipo.
 
