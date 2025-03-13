@@ -251,7 +251,17 @@
 - N/A
 
 **Cantero Corchero, Isabel:**  
-- Student contribution
+- Estructuración del proyecto y dependencias.
+- Arreglar la configuración del proyecto.
+- Documento de instalación.
+- Rutas React y layout.
+- Implementó la pantalla de inicio sesión de usuario.
+- Implementó la pantalla de registro de usuario.
+- Resolución de problemas de Frontend.
+- Implementó el AuthContext.
+- Revisó pull requests.
+- Aseguró la calidad y mejoras finales del frontend.
+- Participó en todas las reuniones del equipo.
 
 **Chen, Sheng:**  
 - Implementó el controlador de ofertas.
