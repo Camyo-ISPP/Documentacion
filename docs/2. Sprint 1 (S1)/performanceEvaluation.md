@@ -251,9 +251,9 @@
 - N/A
 
 **Cantero Corchero, Isabel:**  
-- Estructuración del proyecto y dependencias.
-- Arreglar la configuración del proyecto.
 - Documento de instalación.
+- Reestructuración del proyecto y dependencias.
+- Arreglar la configuración del proyecto.
 - Rutas React y layout.
 - Implementó la pantalla de inicio sesión de usuario.
 - Implementó la pantalla de registro de usuario.
