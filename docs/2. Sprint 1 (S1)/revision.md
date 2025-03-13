@@ -80,6 +80,34 @@ Al acceder a la URL de despliegue, lo primero que verás será la página princi
 
 ![{7B2B6C51-1DF2-4FBC-8EF6-DBFC2F0E7B97}](https://github.com/user-attachments/assets/386a59f1-c2ef-4458-8a0c-1ba23f575886)
 
+### 4.2 Detalles de Oferta
+
+Al entrar en ver detalles desde la pantalla de ofertas principal, que está disponible sin iniciar sesión. Para aplicar a una oferta necesitará iniciar sesión, para ello el botón te redirige a la pantalla de inicio de sesión. 
+
+![image](https://github.com/user-attachments/assets/d9ed9fba-9e45-4950-a6cd-9bdbf7f01d28)
+
+Una vez iniciado sesión como transportista, verá el botón de poder aplicar a una oferta.
+
+![image](https://github.com/user-attachments/assets/fc5e9372-bef2-4b04-b63c-a45b51b96d98)
+
+Si le diera a aplicar a una oferta, le saldrá esta notificación que se iría tras 2,5 segundos.
+
+![image](https://github.com/user-attachments/assets/4273db13-3ae5-4760-8c07-2dc47fc0d758)
+
+Y ahora en la pantalla saldría:
+
+![image](https://github.com/user-attachments/assets/db50466f-afd0-4179-b09a-d8801eec5450)
+
+Que si lo deseara podría cancelar la solicitud y volvería a aparecer la opción de aplicar a una oferta.
+
+Si estuviera iniciado sesión como empresa y no fuera su oferta, la pantalla saldría de la siguiente manera:
+
+![image](https://github.com/user-attachments/assets/9b00f316-e94f-43ff-8aef-e602e0d4edda)
+
+Si fuera la oferta de la empresa, entonces saldría un botón para editar la oferta:
+
+![image](https://github.com/user-attachments/assets/9c9a827b-289d-49ce-b5a4-2265129d81d8)
+
 
 ## 5. Autentificación
 
@@ -108,6 +136,14 @@ Desde esta pantalla podrá revisar sus datos, acceder a la edición de perfil y 
 
 <img src="images/ofertas_perfil_cam_camyo.png">
 
+<img src ="images/editar_camionero.png">
+
+En la pantalla de edición de perfil se podrán cambiar distintos datos del usuario y guardar los cambios.
+
 ## 7. Empresas
 
 Explica aquí cómo interactúan las empresas con la aplicación. Incluye ejemplos o casos de uso específicos.
+
+
+<img src ="images/editar_empresa.png">
+En la pantalla de edición de perfil de empresa se podrán cambiar distintos datos del usuario y guardar los cambios.
