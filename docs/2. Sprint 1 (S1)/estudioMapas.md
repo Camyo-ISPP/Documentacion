@@ -29,7 +29,7 @@
 
 | Nombre(s) y Apellido(s) | Tipo de Contribución                             |
 | ------------------------- | --------------------------------------------------- |
-| Pedro Jiménez Guerrero | Estudio previo, estructura general y análisis de 6 opciones. |
+| Pedro Jiménez Guerrero | Estudio previo, estructura general y análisis |
 
 ## Tabla de Contenidos
 
@@ -140,6 +140,101 @@ El objetivo es contar con una funcionalidad que muestre a los usuarios un mapa c
 - Una vez se pasan los límites de la versión gratuita, los precios escalan rápido.
 
 ## Posibles implementaciones
+Se estudiarán las implementaciones de las opciones más interesantes: [Leaflet](#leaflet) y [TomTom](#tomtom).
+
+### [Leaflet](https://leafletjs.com/examples/quick-start/)
+
+Es una implementación sencilla, sólo hay que escribir unas líneas de código en el HTML de la página para incluirlo:
+```html
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+<style>
+    #map {
+      width: 100vw;
+      height: 100vh;
+    }
+</style>
+<div id="map"></div>
+```
+
+Una vez hecho eso, trabajando ahora en JS, se crea un mapa con unas coordenadas concretas gracias a las tiles proporcionadas por [OpenStreetMap](https://www.openstreetmap.org/):
+
+```javascript
+var map = L.map('map').setView([51.505, -0.09], 13);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+```
+Para el plugin de rutas, se sigue la siguiente [guía](https://www.liedman.net/leaflet-routing-machine/#getting-started). En dicha guía hay una nota indicando que depende del servidor demostración de OSRM que ya no es mantenido, por lo que habría que buscar otro proveedor. Una forma de superar este obstáculo es implementar una [extensión que soporte la API de enrutamiento de TomTom](https://github.com/mrohnstock/lrm-tomtom).
+
+Un problema de esta solución es que mientras que los datos de OpenStreetMap son de uso libre, no lo son así su servidor de tiles, por lo que hay que investigar si nuestro uso de su servicio está contemplado en la [política de uso](https://operations.osmfoundation.org/policies/tiles/)
+
+
+
+### [TomTom](https://developer.tomtom.com/documentation)
+La empresa proporciona tanto un SDK para implementar mapas visualmente, como una enorme variedad de APIs.
+
+La implementación del [SDK de mapas](https://developer.tomtom.com/maps-sdk-web-js/tutorials/basic/display-vector-map) es algo más larga que la de [leaflet](#leaflet-1):
+
+1. Instalar la librería de mapas: `npm i @tomtom-international/web-sdk-maps`
+1. Crear un documento HTML con el siguiente script: 
+```html
+<!DOCTYPE html>
+<html class="use-all-space">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta charset="UTF-8" />
+    <title>My Map</title>
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <!-- Replace version in the URL with desired library version -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/<version>/maps/maps.css"
+    />
+    <style>
+      #map {
+        width: 100vw;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <!-- Replace version in the URL with desired library version -->
+    <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/<version>/maps/maps-web.min.js"></script>
+    <script>
+      tt.setProductInfo("<your-product-name>", "<your-product-version>")
+      tt.map({
+        key: "<your-tomtom-API-key>",
+        container: "map",
+      })
+    </script>
+  </body>
+</html>
+ ```
+
+La [librería de APIs](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction#api-explorer-page-links) es muy completa y proporciona URLs para tiles de mapas, rutas, puntos de interés, búsqueda, geocodificación... Un ejemplo es la siguiente ruta para obtener una tile de mapa rasterizada:
+`https://{baseURL}/map/{versionNumber}/tile/{layer}/{style}/{zoom}/{X}/{Y}.{format}?key={Your_API_Key}&tileSize={tileSize}&view={geopoliticalView}&language={language}`
+
+Hay que tener en cuenta el [pricing](https://developer.tomtom.com/pricing) del servicio, ya que cuanto más llamadas se hagan más aumentará el precio. Sin embargo, el tier "freemium" nos proporciona suficientes llamadas diarias para satisfacer a nuestros usuarios sin pasarnos de la cuota, ya que el volumen que manejamos ahora mismo no es muy elevado.
+
 
 
 ## Conclusión
+
+La implementación de Leaflet es sencilla pero tiene deficiencias, como el uso no libre de las tiles de OSM o la dependencia del enrutado de un servidor que ya no es mantenido. Esto se complementa perfectamente con la API que ofrece TomTom, pudiendo usar su API de tiles, enrutado, o las que se crean necesarias.
+
+Otra opción es implementar el SDK de mapas ofrecido por TomTom en vez de Leaflet, lo que eliminará la dependencia de plugins comunitarios.
+
+El contenido de este documento se presentará al resto del grupo para llegar a un consenso a la hora de tomar la decisión final de qué método implementar. 
