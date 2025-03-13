@@ -108,6 +108,23 @@ Si fuera la oferta de la empresa, entonces saldría un botón para editar la ofe
 
 ![image](https://github.com/user-attachments/assets/9c9a827b-289d-49ce-b5a4-2265129d81d8)
 
+### 4.3 Editar oferta
+Una vez que la empresa ha accedido a los detalles de alguna de sus ofertas, podrá actualizar los datos si lo desea con el botón “Editar oferta”. Desde la pantalla de edición de oferta se podrá o bien eliminar o, una vez realizados los cambios deseados, actualizar la oferta con los nuevos datos.
+
+![image](https://github.com/user-attachments/assets/5e65cc67-dffc-49c0-9b9c-8fca24c06262)
+
+![image](https://github.com/user-attachments/assets/9152ada5-3178-4d09-98c8-2e2f504744d9)
+
+
+### 4.4 Crear oferta
+Una vez iniciada sesión como empresa, puede ver su perfil. Aquí tiene la opción de publicar una oferta nueva. Para hacerlo, hay que rellenar los campos requeridos según el tipo de oferta que se quiera publicar, ya sea de carga o de trabajo. Tras publicarla, esta oferta será visible para el resto de usuarios.
+
+![image](https://github.com/user-attachments/assets/ce7c3e40-bf89-4426-aece-e9d97d3abd44)
+
+![image](https://github.com/user-attachments/assets/d5df324c-3581-4abf-ad5d-58ccbef870d9)
+
+![image](https://github.com/user-attachments/assets/e462f392-3de6-483f-8b16-dae71c8f0e91)
+
 
 ## 5. Autentificación
 
@@ -123,10 +140,12 @@ La primera desde la barra de navegación, en ella se encuentra un botón de inic
 
 ### 5.2 Registro
 
-Aquí puedes escribir más contenido del documento, que tenga que ver con el subapartado.
+Cuando se va a la pantalla de iniciar sesión desde la barra de navegación, si no hay 
 
 
-## 6. Camioneros
+## 6. Transportista
+
+### 6.1 Perfil de Transportista
 
 Una vez registrado e iniciado sesión, el camionero puede acceder a su perfil.
 
@@ -142,8 +161,17 @@ En la pantalla de edición de perfil se podrán cambiar distintos datos del usua
 
 ## 7. Empresas
 
-Explica aquí cómo interactúan las empresas con la aplicación. Incluye ejemplos o casos de uso específicos.
+### 7.1 Perfil de Empresa
+
+La página de perfil de empresa permite a los usuarios registrados como empresa visualizar y gestionar la información de su empresa dentro de la aplicación. Desde esta pantalla, se pueden actualizar los datos en el botón “Editar Perfil”, visualizar el estado de las “Ofertas aceptadas”, “Ofertas pendientes” y “Ofertas rechazadas” y crear y publicar ofertas en el botón “Publicar nueva oferta”.
+
+![image](https://github.com/user-attachments/assets/b15119a7-856b-4da1-b2de-825d139ead8c)
 
 
-<img src ="images/editar_empresa.png">
-En la pantalla de edición de perfil de empresa se podrán cambiar distintos datos del usuario y guardar los cambios.
+### 7.2 Listado de Empresas
+
+Esta pantalla muestra un listado de las empresas que hay en la aplicación, proporcionando información clave sobre cada una de ellas.
+
+![image](https://github.com/user-attachments/assets/15330774-a809-4a93-bdd8-1f4b2c0472b8)
+
+
