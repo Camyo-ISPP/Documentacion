@@ -42,23 +42,23 @@
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
 |---------|------|----|----|----|-----|-----|--------------|
-| Baños Botón, José Ramón | 10 | | | | | | 10 |
-| Bruni, Martina | 10 | | | | | | 10 |
-| Cantero Corchero, Isabel | 10 | | | | | | 10 |
-| Chen, Sheng | 10 | | | | | | 10 |
-| García Martínez, Carlos | 10 | | | | | | 10 |
-| García Ortíz, Carlos | 10 | | | | | | 10 |
-| Heras Pérez, Raúl | 10 | | | | | | 10 |
-| Jiménez Guerrero, Pedro | 10 | | | | | | 10 |
-| Meana Iturri, Claudia | 10 | | | | | | 10 |
-| Pérez Garrido, Rubén | 10 | | | | | | 10 |
-| Pérez Gutiérrez, Lucía | 10 | | | | | | 10 |
-| Pérez Manzano, Francisco | 10 | | | | | | 10 |
-| Pérez Vargas, Diego José | 10 | | | | | | 10 |
-| Rodríguez Millán, María Cristina | 10 | | | | | | 10 |
-| Rus Morales, Sonia María | 10 | | | | | | 10 |
-| Vento Conesa, Adriana | 10 | | | | | | 10 |
-| Yao, Jun | 10 | | | | | | 10 |
+| Baños Botón, José Ramón | 10 | 10 | | | | | 10 |
+| Bruni, Martina | 10 | 10 | | | | | 10 |
+| Cantero Corchero, Isabel | 10 | 10 | | | | | 10 |
+| Chen, Sheng | 10 | 10 | | | | | 10 |
+| García Martínez, Carlos | 10 | 10 | | | | | 10 |
+| García Ortíz, Carlos | 10 | 10 | | | | | 10 |
+| Heras Pérez, Raúl | 10 | 10 | | | | | 10 |
+| Jiménez Guerrero, Pedro | 10 | 10 | | | | | 10 |
+| Meana Iturri, Claudia | 10 | 10 | | | | | 10 |
+| Pérez Garrido, Rubén | 10 | 10 | | | | | 10 |
+| Pérez Gutiérrez, Lucía | 10 | 10 | | | | | 10 |
+| Pérez Manzano, Francisco | 10 | 10 | | | | | 10 |
+| Pérez Vargas, Diego José | 10 | 10 | | | | | 10 |
+| Rodríguez Millán, María Cristina | 10 | 10 | | | | | 10 |
+| Rus Morales, Sonia María | 10 | 10 | | | | | 10 |
+| Vento Conesa, Adriana | 10 | 10 | | | | | 10 |
+| Yao, Jun | 10 | 10 | | | | | 10 |
 
 ### Individual Contribution Summary  
 #### Devising a Project (#DP1)
