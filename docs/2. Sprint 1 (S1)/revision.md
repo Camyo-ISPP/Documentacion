@@ -50,9 +50,7 @@
 
 Este documento proporciona una guía detallada para revisar la aplicación web de *matchmaking* de camioneros. Incluye un mapeo explícito de los casos de uso (UC) a las interacciones en el software, datos necesarios para la revisión, requisitos del sistema y un enlace a la demostración.
 
-## 2. Herramienta de Seguimiento
-
-## 3. Datos para la Revisión
+## 2. Datos para la Revisión
 
 En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 
@@ -60,25 +58,26 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | --- | --- |
 | Url de la Organización de Github | https://github.com/Camyo-ISPP |
 | Url del repositorio de Github | https://github.com/Camyo-ISPP/CamyoApp |
-| Url del repositorio de Documentación | https://github.com/Camyo-ISPP/Documentacion y en la carpeta docs del repo de la Aplicación |
+| Url del repositorio de Documentación | https://github.com/Camyo-ISPP/Documentacion |
 | Url de la Landing Page | https://sites.google.com/view/camyo-landing-page/ |
 | Url del despliegue Frontend | https://ispp-2425-g5.web.app/ |
 | Url de la herramienta de seguimiento  | https://app.clockify.me/login |
-| Credenciales para la herramienta de seguimiento  | Email: [profesores.camyo@gmail.com](mailto:profesores.camyo@gmail.com)<br>Contraseña de la cuenta de google: Profesores.camyo!01 |
-| Requisitos potenciales para usar el sistema | Ninguno |
+| Credenciales para la herramienta de seguimiento  | Email: [profesores.camyo@gmail.com](mailto:profesores.camyo@gmail.com)<br>Contraseña de la cuenta de google: Profesores.camyo!01 <br> Para acceder, hagan login con este email y recibirán un correo al correo con el código para acceder. |
+| Requisitos potenciales para usar el sistema | Ninguno. |
 | Url de la demo | https://www.youtube.com/watch?v=Xx2AAzWgkCY |
 | Usuario de Empresa (Camyo) | **Usuario:** emp_etsii1  **Contraseña:** etsiipass<br>**Usuario:** emp_etsii2  **Contraseña:** etsiipass |
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |
-## 4. Ofertas
 
-### 4.1 Pantalla principal de Ofertas
+## 3. Ofertas
+
+### 3.1 Pantalla principal de Ofertas
 
 Al acceder a la URL de despliegue, lo primero que verás será la página principal de ofertas para camioneros, la cual está disponible para todos los usuarios sin necesidad de registro. Desde esta pantalla, podrás explorar las ofertas disponibles y acceder a los detalles de cada una de ellas.
 
 ![{7B2B6C51-1DF2-4FBC-8EF6-DBFC2F0E7B97}](https://github.com/user-attachments/assets/386a59f1-c2ef-4458-8a0c-1ba23f575886)
 
-### 4.2 Detalles de Oferta
+### 3.2 Detalles de Oferta
 
 Al entrar en ver detalles desde la pantalla de ofertas principal, que está disponible sin iniciar sesión. Para aplicar a una oferta necesitará iniciar sesión, para ello el botón te redirige a la pantalla de inicio de sesión. 
 
@@ -106,15 +105,14 @@ Si fuera la oferta de la empresa, entonces saldría un botón para editar la ofe
 
 ![image](https://github.com/user-attachments/assets/9c9a827b-289d-49ce-b5a4-2265129d81d8)
 
-### 4.3 Editar oferta
+### 3.3 Editar oferta
 Una vez que la empresa ha accedido a los detalles de alguna de sus ofertas, podrá actualizar los datos si lo desea con el botón “Editar oferta”. Desde la pantalla de edición de oferta se podrá o bien eliminar o, una vez realizados los cambios deseados, actualizar la oferta con los nuevos datos.
 
 ![image](https://github.com/user-attachments/assets/5e65cc67-dffc-49c0-9b9c-8fca24c06262)
 
 ![image](https://github.com/user-attachments/assets/9152ada5-3178-4d09-98c8-2e2f504744d9)
 
-
-### 4.4 Crear oferta
+### 3.4 Crear oferta
 Una vez iniciada sesión como empresa, puede ver su perfil. Aquí tiene la opción de publicar una oferta nueva. Para hacerlo, hay que rellenar los campos requeridos según el tipo de oferta que se quiera publicar, ya sea de carga o de trabajo. Tras publicarla, esta oferta será visible para el resto de usuarios.
 
 ![image](https://github.com/user-attachments/assets/ce7c3e40-bf89-4426-aece-e9d97d3abd44)
@@ -123,10 +121,9 @@ Una vez iniciada sesión como empresa, puede ver su perfil. Aquí tiene la opci�
 
 ![image](https://github.com/user-attachments/assets/e462f392-3de6-483f-8b16-dae71c8f0e91)
 
+## 4. Autentificación
 
-## 5. Autentificación
-
-### 5.1 LogIn
+### 4.1 LogIn
 
 Para acceder al login se podrá hacer de varias maneras.
 
@@ -136,7 +133,7 @@ La primera desde la barra de navegación, en ella se encuentra un botón de inic
 
 ![{DF17CA08-63A9-45AD-92BB-2CC77F9D1C25}](https://github.com/user-attachments/assets/0594eb93-9baa-4a83-b230-89468dcc5ee3)
 
-### 5.2 Registro
+### 4.2 Registro
 
 Cuando se va a la pantalla de iniciar sesión desde la barra de navegación, si no hay sesión iniciada al haacer clic sobre inicio de sesión. 
 
@@ -148,9 +145,9 @@ Cuando se hace clic sobre regístrate, le llevará a la siguiente pantalla, dond
 
 Explicación más detallada de cada perfil en los puntos: 6.1 y 7.1
 
-## 6. Transportista
+## 5. Transportista
 
-### 6.1 Crear perfil de Transportista
+### 5.1 Crear perfil de Transportista
 De la pantalla de registro, al seleccionar en camionero (del punto 5.2), podrá rellenar todos los datos para finalmente registrarse con el botón de regístrate.
 
 ![image](https://github.com/user-attachments/assets/b1b9a685-20d0-442a-80fc-7dd5dd95d2f5)
@@ -172,8 +169,7 @@ Si no se hace correctamente el siguiente mensaje aparecerá:
 
 ![image](https://github.com/user-attachments/assets/84d19e3a-0ddf-4643-ab83-f86c4b1f9d80)
 
-
-### 6.2 Perfil de Transportista
+### 5.2 Perfil de Transportista
 
 Una vez registrado e iniciado sesión, el camionero puede acceder a su perfil.
 
@@ -187,9 +183,9 @@ Desde esta pantalla podrá revisar sus datos, acceder a la edición de perfil y 
 
 En la pantalla de edición de perfil se podrán cambiar distintos datos del usuario y guardar los cambios.
 
-## 7. Empresas
+## 6. Empresas
 
-### 7.1 Crear de Perfil de Empresa
+### 6.1 Crear de Perfil de Empresa
 De la pantalla de registro, al seleccionar en camionero (del punto 5.2), podrá rellenar todos los datos para finalmente registrarse con el botón de regístrate.
 
 ![image](https://github.com/user-attachments/assets/17fedda7-f089-47ed-9536-383891cb333e)
@@ -210,18 +206,14 @@ Si no se hace correctamente el siguiente mensaje aparecerá:
 
 ![image](https://github.com/user-attachments/assets/dff94e9c-b92b-468a-9e89-52c28963a9f1)
 
-
-### 7.2 Perfil de Empresa
+### 6.2 Perfil de Empresa
 
 La página de perfil de empresa permite a los usuarios registrados como empresa visualizar y gestionar la información de su empresa dentro de la aplicación. Desde esta pantalla, se pueden actualizar los datos en el botón “Editar Perfil”, visualizar el estado de las “Ofertas aceptadas”, “Ofertas pendientes” y “Ofertas rechazadas” y crear y publicar ofertas en el botón “Publicar nueva oferta”.
 
 ![image](https://github.com/user-attachments/assets/b15119a7-856b-4da1-b2de-825d139ead8c)
 
-
-### 7.2 Listado de Empresas
+### 6.2 Listado de Empresas
 
 Esta pantalla muestra un listado de las empresas que hay en la aplicación, proporcionando información clave sobre cada una de ellas.
 
 ![image](https://github.com/user-attachments/assets/15330774-a809-4a93-bdd8-1f4b2c0472b8)
-
-
