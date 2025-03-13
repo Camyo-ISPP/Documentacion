@@ -265,7 +265,13 @@
 - Student contribution
 
 **Heras Pérez, Raúl:**  
-- Student contribution
+- Diseñó e implementó la pantalla de camionero en el frontend
+- Ayudó a diseñar la barra de navegación
+- Ayudó a diseñar el aspecto general del frontend
+- Supervisó la calidad de algunas pantallas del frontend
+- Supervisó la calidad de la presentación
+- Contribuyó a arreglar diversos errores en frontend
+
 
 **Jiménez Guerrero, Pedro:**  
 - Student contribution

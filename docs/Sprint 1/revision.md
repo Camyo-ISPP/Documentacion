@@ -78,6 +78,10 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 
 Añade aquí todas las pantallas como subapartados con una explicación del funcionamiento de la aplicación.
 
+Una vez inciada la sesión se podrá ver en la barra de navegación el icono de perfil, desde donde podrá cerrar sesión o acceder al perfil
+
+<img src="images/navbar_camionero_camyo.png">
+
 ### 3.2 Registro
 
 Aquí puedes escribir más contenido del documento, que tenga que ver con el subapartado.
@@ -89,8 +93,18 @@ Describe aquí cómo funcionan las ofertas dentro de la aplicación. Asegúrate 
 
 
 ## 5. Camioneros
+Una vez registrado e iniciado sesión, el camionero puede acceder a su perfil.
 
-Detalla aquí la funcionalidad relacionada con los camioneros. Puedes incluir capturas de pantalla o diagramas si es necesario.
+<img src="images/perfil_camionero_camyo.png">
+
+Desde esta pantalla podrá revisar sus datos, acceder a la edición de perfil y ver las ofertas acepptadas, pendientes y rechazadas.
+
+
+
+<img src="images/ofertas_perfil_cam_camyo.png">
+
+
+
 
 
 ## 6. Empresas
