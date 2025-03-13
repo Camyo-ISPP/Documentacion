@@ -316,7 +316,7 @@
 - Realizó la implementación de los repositorios y servicios de las entidades Camionero, Autónomo y Camión.
 - Revisó pull request
 - Pasó el documento "5-pilots" a markdown
-- Redactó la primera versión del documento "estudioMapas"
+- Redactó el documento "estudioMapas"
 - Participó en todas las reuniones del equipo salvo la inicial
 
 **Meana Iturri, Claudia:**  
