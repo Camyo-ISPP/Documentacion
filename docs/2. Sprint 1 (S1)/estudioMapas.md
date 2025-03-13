@@ -11,7 +11,7 @@
 </h3>
 
 <h1 align="center">
-  <strong>Estudio APIs de mapas</strong>
+  <strong>Estudio APIs de Mapas</strong>
 </h1>
 
 <p align="center">
@@ -29,8 +29,7 @@
 
 | Nombre(s) y Apellido(s) | Tipo de Contribución                             |
 | ------------------------- | --------------------------------------------------- |
-| Pedro Jiménez Guerrero | Estudio previo, estructura general y análisis de 6 opciones |
-|                         |                                                   |
+| Pedro Jiménez Guerrero | Estudio previo, estructura general y análisis de 6 opciones. |
 
 ## Tabla de Contenidos
 
@@ -63,7 +62,7 @@ El objetivo es contar con una funcionalidad que muestre a los usuarios un mapa c
 **Pros**:
 - Permite personalizar la apariencia del mapa.
 - Se puede implementar las rutas se por un plugin comunitario.
-- 
+
 **Cons**:
 - No cuenta con puntos de interés
 - Las implementaciones son en Typescript para web y C++ para Android, lenguajes que no usamos.
