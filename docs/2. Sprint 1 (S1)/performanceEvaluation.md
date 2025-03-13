@@ -309,6 +309,7 @@
 
 
 **Jiménez Guerrero, Pedro:**  
+- Preparó la primera prueba de usuarios pilotos
 - Contactó e informó a los usuarios piloto de la metodología
 - Participó en la elaboración del diagrama de clases
 - Realizó la implementación de las entidades Camionero, Autónomo y Camión, así como los enumerados Licencia, Tarjetas y Disponibilidad.
