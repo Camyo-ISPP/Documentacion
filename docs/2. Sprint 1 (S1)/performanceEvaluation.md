@@ -295,6 +295,7 @@
 - Supervisó la calidad de algunas pantallas del frontend
 - Supervisó la calidad de la presentación
 - Contribuyó a arreglar diversos errores en frontend
+- Participó en todas las reuniones.
 
 
 **Jiménez Guerrero, Pedro:**  
