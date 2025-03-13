@@ -372,7 +372,12 @@
 - Participó en todas las reuniones del equipo.
 
 **Rodríguez Millán, María Cristina:**  
-- Student contribution
+- Realizó la pantalla de edición de perfil de camioneros.
+- Realizó la pantalla de edición de perfil de empresa.
+- Revisó pull request.
+- Presentó 2 semanas.
+- Ayudó con algunos problemas surgidos en Frontend.
+- Realizó algunos cambios en servicios para solucionar problemas.
 
 **Rus Morales, Sonia María:**  
 - Realizó la pantalla de creación de ofertas.
