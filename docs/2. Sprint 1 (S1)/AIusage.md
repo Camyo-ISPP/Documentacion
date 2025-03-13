@@ -11,7 +11,7 @@
 </h3>
 
 <h1 align="center">
-  <strong>REPORTE DE IA</strong>
+  <strong>Informe de IA</strong>
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-|-|
 | Francisco Pérez Manzano       | Analisis de Uso de IA, Alucinaciones de IA        |
-| Isabel Cantero Corchero       | Primera iteración del reporte |
+| Isabel Cantero Corchero       | Primera iteración del reporte. |
 
 
 ## Tabla de Contenidos
