@@ -323,7 +323,17 @@
 - Student contribution
 
 **Pérez Garrido, Rubén:**  
-- Student contribution
+- Colaboró en la elaboración y revisión de presentaciones.
+- Presentó la semana de evaluación.
+- Participó en las reuniones del equipo haciendo el rol de secretario.
+- Creó actas de reuniones para tener recogida la información que se trató.
+- Investigó a cerca de herramientas de testing para el frontend.
+- Investigó en la implementación de un selector de fechas funcional para versión web y móvil.
+- Implementó la conversión de imágenes en la pantalla de registro a base64 para concortar con el backend. 
+- Revisó pull request.
+- Realizó el diseño de la pantalla de registro.
+- Realizó el diseño de la pantalla de inicio de sesión.
+- Creo el video de demo de la aplicación.
 
 **Pérez Gutiérrez, Lucía:**  
 - Configuró Expo y apoyó en la instalación del proyecto backend 
