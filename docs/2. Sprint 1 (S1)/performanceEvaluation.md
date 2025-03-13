@@ -320,7 +320,14 @@
 - Participó en todas las reuniones del equipo salvo la inicial
 
 **Meana Iturri, Claudia:**  
-- Student contribution
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Realizó la pantalla de detalles de oferta.
+- Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Presentó 1/2 semanas.
+- Revisó pull requests.
+- Participó en 2/3 de las reuniones del equipo.
+- Ayudó a arreglar algunos errores en frontend.
 
 **Pérez Garrido, Rubén:**  
 - Colaboró en la elaboración y revisión de presentaciones.
