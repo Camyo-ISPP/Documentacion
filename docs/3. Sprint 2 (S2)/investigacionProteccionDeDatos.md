@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <strong>Nombre del Entregable:</strong> Sprint 1
+  <strong>Nombre del Entregable:</strong> Sprint 2
 </p>
 <p align="center">
   <strong>Asignatura:</strong> Ingeniería del Software y Práctica Profesional  
@@ -37,6 +37,7 @@
 3. [Tratamiento](#tratamiento)
 4. [Derechos de los Usuarios](#derechos-de-los-usuarios)
 5. [Seguridad](#seguridad)
+6. [¿Cómo puede cumplir Camyo con la ley?](#cómo-puede-cumplir-camyo-con-la-ley)
 
 ## Introducción
 
@@ -46,13 +47,22 @@ Al desarrollar una aplicación que maneja datos de personas físicas, esta debe 
 
 El RGPD se aplica a Camyo, ya que se trata de una organización con sede en la UE que lleva a cabo una actividad profesional. Según la Comisión Europea, "los datos personales son cualquier información relacionada con un individuo, ya sea que se refiera a su vida privada, profesional o pública. Puede ser cualquier cosa desde un nombre, domicilio, foto, dirección de correo electrónico, detalles bancarios, publicaciones en sitios web de redes sociales, información médica o la dirección IP de un ordenador".
 
+Principios: los datos personales serán: (Artículo 5 del RGPD)
+
+- Tratados de manera lícita, leal y transparente.
+- Recogidos con fines determinados, explícitos y legítimos.
+- Adecuados, pertinentes y limitados.
+- Exactos y, si fuese necesario, actualizados. Si se obtuvieron datos inexactos directamente del afectado, de un mediador o del registro público, el responsable del tratamiento no será imputable siempre que los datos se puedan suprimir o rectificar sin dilación. (Apartado 2 del artículo 4 de la LOPDGDD)
+- Mantenidos de forma que se permita la identificación de los interesados durante no más tiempo del necesario para los fines del tratamiento de los datos personales.
+- Tratados de tal manera que se garantice una seguridad adecuada de los datos personales, incluida la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental, mediante la aplicación de medidas técnicas u organizativas apropiadas.
+
 Categorías de datos: Según el artículo 9 del RGPD, el cual es referenciado en el artículo 9 de la LOPDGDD, con el fin de evitar discriminación, "quedan prohibidos el tratamiento de datos personales que revelen el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, o la afiliación sindical, y el tratamiento de datos genéticos, datos biométricos dirigidos a identificar de manera unívoca a una persona física, datos relativos a la salud o datos relativos a la vida sexual o las orientación sexuales de una persona física". Se aplican ciertas excepciones definidas en el apartado 2 del mismo artículo. Debido a la finalidad de Camyo, tampoco se podrán tratar datos personales de naturaleza penal, como condenas e infracciones (artículo 10 del RGPD).
 
 ## Tratamiento
 
 Consentimiento: Los datos solo se pueden tratar si existe una base legal para ello. Una de estas bases legales es el consentimiento explícito e inequívoco del usuario, indicando qué datos son recopilados y con qué fines serán usados. Este consentimiento podrá ser retirado por el interesado en cualquier momento, y la retirada será tán fácil como la aceptación. (Apartado 1 del artículo 6 de la LOPDGDD, artículo 7 del RGPD.)
 
-Menores: Según el apartado 1 del artículo 7 de la LOPDGDD, "el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años". Debido a que Camyo es un servicio dirigido a personas en el mercado laboral, no existe la posibilidad de tratar con los datos de menores de catorce años.
+Menores: Según el apartado 1 del artículo 7 de la LOPDGDD, "el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años".
 
 Confidencialidad: Según el apartado 1 del artículo 5 de la LOPDGDD, "los responsables y encargados del tratamiento de datos así como todas las personas que intervengan en cualquier fase de este estarán sujetas al deber de confidencialidad al que se refiere el artículo 5.1.f) del Reglamento (UE) 2016/679".
 
@@ -66,6 +76,8 @@ El ejercicio de los derechos se realizará, ya sea directamente o por medio de u
 - **Derecho a la limitación del tratamiento**: El interesado tendrá derecho a obtener del responsable del tratamiento la limitación del tratamiento de los datos cuando el interesado impugne la exactitud de los datos personales, el tratamiento sea ilícito y el interesado se oponga a la supresión de los datos personales y solicite en su lugar la limitación de su uso, el responsable ya no necesite los datos personales para los fines del tratamiento, pero el interesado los necesite para la formulación, el ejercicio o la defensa de reclamaciones, o el interesado se haya opuesto al tratamiento. (Artículo 18 del RGPD)
 - **Derecho a la portabilidad**: El interesado tendrá derecho a recibir los datos personales que le incumban, que haya facilitado a un responsable del tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado, cuando el tratamiento esté basado en el consentimiento, o en un contrato con arreglo al artículo 6, apartado 1, letra b), y el tratamiento se efectúe por medios automatizados. (Artículo 20 del RGPD)
 - **Derecho de oposición**: El interesado tendrá derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernan sean objeto de un tratamiento basado en lo dispuesto en el artículo 6, apartado 1, letras e) o f), incluida la elaboración de perfiles sobre la base de dichas disposiciones. El responsable del tratamiento dejará de tratar los datos personales, salvo que acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre los intereses, los derechos y las libertades del interesado, o para la formulación, el ejercicio o la defensa de reclamaciones. (Artículo 21 del RGPD)
+
+Si los datos personales pertenecen a una persona fallecida, las personas vinculadas a ella (familiares, herederos o de hecho) podrán ejercer el derecho de acceso, rectificación y supresión, excepto si la persona fallecida lo prohibió explícitamente o si otra ley lo impide. (Artículo 3 de la LOPDGDD)
 
 ## Seguridad
 
@@ -82,3 +94,14 @@ En el caso de una violación de la seguridad de los datos personales, de acuerdo
 - Si esta violación supone un alto riesgo para los derechos y libertades de las personas físicas, estas deberán ser comunicadas sin dilación indebida, utilizando lenguaje claro y conteniendo la misma información mínima que la comunicación a la Agencia Española de Protección de Datos.
   - Esta comunicación no será necesaria si ya se han adoptado medidas de protección aprobadas o si se va a realizar una comunicación pública debido al gran esfuerzo de informar a cada interesado individualmente.
 
+## ¿Cómo puede cumplir Camyo con la ley?
+
+Tras un análisis de los puntos fundamentales de las leyes de protección de datos que se aplican a Camyo, el cumplimiento de estos se puede resumir en los siguientes procesos o medidas:
+
+- **Obtener el consentimiento explícito**:
+- **Permitir el ejercicio de los derechos**:
+- **Encriptar datos personales**:
+- **Seudonimización**:
+- **Realizar copias de seguridad**:
+- **Establecer protocolos de respuesta**:
+- **Notificar de violaciones de seguridad**:
