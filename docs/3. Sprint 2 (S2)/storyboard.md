@@ -59,7 +59,7 @@ Este documento presenta el Storyboard para la aplicación Camyo, que abarca las 
 
 **Escena 4: Aplicación sencilla a una oferta**
 
-- **Imagen:** Camionero tocando el botón "Aplicar" para aplicar a una oferta, en la pantalla del móvil, mostrando sencillez y rapidez.
+- **Imagen:** Camionero tocando el botón "Solicitar" para solicitar una oferta, en la pantalla del móvil, mostrando sencillez y rapidez.
 
 **Escena 5: Recepción de múltiples respuestas de empresas**
 
