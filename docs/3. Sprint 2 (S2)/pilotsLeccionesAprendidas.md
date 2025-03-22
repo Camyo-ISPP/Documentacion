@@ -176,23 +176,117 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
 
 ### Caso de uso: Solicitar una oferta
 
+#### Feedback de prioridad crítica:
 
+- No es intuitivo volver al listado desde la pantalla
+    - Sugerencias de los usuarios:
+        - Añadir un botón para volver al listado
+- Se debe mejorar el boton de solicitar y cancelar oferta
+    - Sugerencias de usuarios:
+        - Bloquear el boton de solicitar y cancelar oferta hasta que se complete la petición
+        - Cambiar el estado del botón inmediatamente sin esperar al backend
+        - Añadir confirmación al botón
+        - Añadir notificación a cancelar
+- Es muy difuso el proceso de solicitar oferta
+    - Sugerencias de usuarios:
+        - Poder solicitar ofertas desde el listado
+
+#### Feedback de prioridad media:
+
+- La notificación al solicitar una oferta podría ser mejor (dando como recomendación de librería de terceros toastr)
+- Algunos de los iconos no cargaban (mostrando un cuadrado)
+- Añadir a las aplicaciones un mensaje que el camionero pueda personalizar
+
+#### Feedback de prioridad baja:
+
+- El botón de cancelar oferta debería ser otro color
+
+#### Feedback positivo:
+
+- Buen uso de la paleta de colores en los botones para solicitar la oferta
+- La información esta bien posicionada.
 
 ### Caso de uso: Registro de camionero
 
+#### Feedback de prioridad crítica:
 
+- Mejor Validación
+    - Sugerencias de usuarios:
+        - Validación en frontend como en backend
+        - Poner mejores restriciones a contraseña.
+        - Mínimo de carácteres
+        - Hacer que te informe que datos están mal en la pantalla
+        - Hacer una rueda de carga mientras
+        - Poner placeholders para los campos
+
+#### Feedback de prioridad media:
+
+- Añadir una opción para poder poner currículum
+- Checkbox de acpetación de Política de Datos
+
+#### Feedback de prioridad baja:
+
+- El botón de mostrar contraseña no se muestra bien la foto.
+- En las opciones de ¿Tiene Cap?' o ¿Eres autónomo?, el botón debe ser del mismo color para las dos opciones.
+
+#### Feedback positivo:
+
+- Bastantes usos de caso contemplados
 
 ### Caso de uso: Publicar una oferta de empleo
 
- 
+#### Feedback de prioridad crítica:
+
+- Mejor Valicdación
+    - Sugerencias de usuarios:
+        - Añadir información sobre restricciones
+        - Usar el tag type para los inputs para mejorar los formularios
+        - Usar calendario para selección de fechas
+        - Revisar máximos y minimos de atributos
+- Fecha de incorporación puede ponerse en el pasado
+- No especifica que datos son obligatorios en el formulario
+- Al cambiar de 'TRABAJO' a 'CARGA' el valor de 'Fecha de incorporación' se pasa a 'Mercancía' y viceversa
+
+#### Feedback de prioridad media:
+
+- Al crear una oferta, no aparece en el apartado 'Tus Ofertas'
+- Datos no coinciden entre pantallas
+
+#### Feedback de prioridad baja:
+
+- El botón de publicar oferta no coincide con su tamaño visual
+
+#### Feedback positivo:
+
+La oferta tienen suficientes datos para poder definirse bien
 
 ### Caso de uso: Gestión (editar/eliminar) de ofertas publicadas
 
+#### Feedback de prioridad crítica:
 
+- Mismos errores de validación que en publicación de ofertas, se aplican las mismas sugerencias.
+- A algunos usuarios las ofertas creadas no le aparecian en 'Tus Ofertas', por lo que han tenido que buscarlas en el listado.
+- Sugerencias:
+    - Añadir un botón de volver atras en la pantalla de editar/eliminar
+    - Añadir confirmación a las dos acciones
+
+#### Feedback positivo:
+
+- Buen diseño para la gestión de ofertas
+- Interfaz sencilla para la gestión
+- LAs dos acciones funcionan sin problemas
 
 ### Caso de uso: Registro de empresa 
 
- 
+ #### Feedback de prioridad crítica:
+
+- Errores similares de validación que en registro de camionero (Más restricciones, validación en backend y frontend, etc)
+- Definir claramente en que campos falla el formulario
+- La imagen de perfil no parece cargar al haber elegido una
+
+#### Feedback positivo:
+
+- Bien visualmente
 
  
 
