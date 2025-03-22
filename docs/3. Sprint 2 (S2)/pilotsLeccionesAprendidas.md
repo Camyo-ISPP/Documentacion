@@ -28,7 +28,7 @@
 
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-------------------------------|-------------------------------|
-| Pedro Jiménez Guerrero        | Conversión de word a MD y estructura feedback Sprint 1        |
+| Pedro Jiménez Guerrero        | Conversión de word a MD, estructura feedback Sprint 1 y caso de uso "ver listado oferta" (Sprint 1)         |
 | [Nombre Apellido]             | [Tipo de Contribución]        |
 | [Nombre Apellido]             | [Tipo de Contribución]        |
 
