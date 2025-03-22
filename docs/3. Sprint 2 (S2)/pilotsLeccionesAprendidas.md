@@ -28,7 +28,7 @@
 
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-------------------------------|-------------------------------|
-| Pedro Jiménez Guerrero            | Conversión de word a MD y estructura feedback Sprint 1        |
+| Pedro Jiménez Guerrero        | Conversión de word a MD y estructura feedback Sprint 1        |
 | [Nombre Apellido]             | [Tipo de Contribución]        |
 | [Nombre Apellido]             | [Tipo de Contribución]        |
 
@@ -122,21 +122,57 @@ De forma adicional, uno de los encuestados sugirió añadir un sistema de valora
 
  
 
- 
- 
 
- 
- 
-
- 
 
 ## Sprint 1 
 
-
+A fecha de la redacción de este documento, se han recibido 23 respuestas de lo usuarios piloto, y una puntuación media de 6,91
 
 ### Caso de uso: Ver listado de ofertas
 
+#### Feedback de prioridad crítica:
 
+- Las ofertas tardan mucho en cargar
+    - Sugerencias de los usuarios: 
+        - Crear una landing page inicial y cargar las ofertas en segundo plano para que el usuario no se percate
+        - Guardar las ofertas en localStorage/sessionStorage o usando React Query (que sería la mejor práctica)
+        - Añadir paginación
+- La licencia mostrada en la preview no coincide con la que se muestra en los detalles de la oferta
+    - Sugerencias de los usuarios:
+        - Se ha dado en un caso en el que la licencia era "C+E" y mostraba "C". Sugiere que esto se debe a que internamente la licencia se trata como "C_E" y esa "_" corte la vista de la licencia a mostrar.
+
+#### Feedback de prioridad media:
+
+- Hay un nicho bastante importante de trabajo en las furgonetas, tanto reparto diario como transporte de paquetería urgente.
+    - Añadir los tipos de furgoneta al vehículo requerido en oferta
+- No se señalan las ofertas que ya se han solicitado
+    - Añadir algún marcador o icono que lo indique
+- Uno de los usuarios piloto no sabía qué es Camyo
+    - Añadir landing page para presentar e invitar a probar el producto
+- No quedaba claro qué indicaba el apartado de las licencias ya que sólo aparecía la letra
+    - Añadir el nombre de cada parámetro. P.ej: "Licencia mínima requerida: C"
+- Indicar al lado del sueldo si es por mes, por día, por carga...
+- Las imágenes e iconos no aparecen
+- Sugerencias: 
+    - Vista de mosaico para ver más ofertas sin tener que scrollear tanto
+    - Añadir a la preview de oferta la jornada y la fecha de incorporación
+    - Añadir en la preview un desplegable con los detalles de la oferta (para las cargas)
+    - Añadir en la preview un botón para solicitar la oferta directamente, evitando así tiempos de carga innecesarios.
+
+#### Feedback de prioridad baja:
+
+- Que sea más atractivo visualmente
+    - Añadir un fondo al listado o a la página
+    - No se debe tener muy en cuenta ya que al resto de usuarios les ha parecido correcto el diseño
+-  Referirnos a "territorio nacional" en vez de "nivel nacional"
+- Que el dinero y el botón de solicitar no estén en el extremo derecho de la línea puede generar incomodidad visual.
+- En los chips donde se muestra información de la oferta (p.ej: "trabajo/carga", licencia "C") no está bien  centrado el texto.
+
+#### Feedback positivo:
+
+- Funcionamiento correcto, claro e intuitivo.
+- Buena paleta de colores
+- Tamaño de letra adecuado, si acaso aumentar un poco la fuente del nombre de la oferta, p. ej. "Conductor de carga pesada"
 
 ### Caso de uso: Solicitar una oferta
 
