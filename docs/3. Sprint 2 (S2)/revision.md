@@ -38,10 +38,10 @@
 1. [Resumen Ejecutivo](#1-resumen-ejecutivo)
 2. [Datos para la Revisión](#2-datos-para-la-revisión)
 3. [Ofertas](#3-ofertas)
-  - [Comportamiento de las Suscripciones](#311-comportamiento-de-las-suscripciones)
+    - [Comportamiento de las Suscripciones](#311-comportamiento-de-las-suscripciones)
 4. [Autentificación](#4-autentificación)
-  - [Log-in](#41-login)
-  - [Registro](#42-registro)
+    - [Log-in](#41-login)
+    - [Registro](#42-registro)
 5. [Transportistas](#5-transportista)
 6. [Empresas](#6-empresas)
 
