@@ -45,6 +45,8 @@
 5. [Transportistas](#5-transportista)
 6. [Empresas](#6-empresas)
 7. [Reseñas](#7-reseñas)
+8. [Suscripciones](#8-suscripciones)
+
 
 ## 1. Resumen Ejecutivo
 
@@ -178,6 +180,14 @@ Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña.
 <img src="images/resena_editar.png">
 </p>
 
+
+## 8. Suscripciones
+
+Al acceder a la plataforma como empresa, se podrá acceder a la pantalla de planes de suscripción, donde se podrá cambiar de suscripción pulsando en el botón indicado según el tipo de plan al que se desee cambiar.
+
+<p align="center">
+<img src="images/suscripcion.png">
+</p>
 
 
 
