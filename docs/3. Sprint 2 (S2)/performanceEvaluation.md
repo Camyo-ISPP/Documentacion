@@ -412,20 +412,53 @@
 #### Sprint 2 (#S2)
 
 **Baños Botón, José Ramón:**  
+- Participó en la búsqueda de implementación de los mapas.
+- Participó en la implementación del frontend de Reseñas.
+- Participó en la implementación del frontend de Valoraciones.
+- Participó en la implementación del frontend de crear, editar y eliminar Reseñas.
+- Participó en el documento revision.md.
+- Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**  
 
 **Chen, Sheng:**  
 
 **García Martínez, Carlos:**  
+- Participó activamente en la resolución de problemas de Backend
+- Cordinó y organizó las tareas de Backend
+- Participó en todas las reuniones de equipo
+- Organizó la presentación de una semana
+- Preparó una presentación
+- Implemento la lógica de reseña en Backend
+- Pariticipó en la encripción de datos sensibles
 
 **García Ortíz, Carlos:**  
+- Preparó la segunda prueba de usuarios pilotos.
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
+- Revisó 1 pull request.
+- Arregló y terminó de implementar la edición de perfil.
+- Añadió validadores en formularios de registros y creación de oferta.
+- Creó la primera versión de perfil público de empresa.
+- Remodeló la entidad oferta para el listado, aceptación y rechazo de transportistas.
+- Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**  
+- Implementó el chat en frontend.
+- Implementó la conexión con la API de Firebase para el chat.
+- Diseñó la interfaz del chat.
+- Implementó la navegación al chat dentro de la aplicación.
+- Participó en todas las reuniones del equipo.
 
 **Jiménez Guerrero, Pedro:**  
 
-**Meana Iturri, Claudia:**  
+**Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Realizó la pantalla de buscar de oferta.
+- Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Ayudó a arreglar algunos errores en frontend.
 
 **Pérez Garrido, Rubén:**  
 
@@ -436,8 +469,21 @@
 **Pérez Vargas, Diego José:**  
 
 **Rodríguez Millán, María Cristina:**  
+- Participó en las reuniones del equipo.
+- Planteó el sistema de reseñas y buscó herramientas para ello.
+- Ayudó con la elaboración de una de las presentaciones.
+- Revisó pull request.
+- Presentó una de las semanas.
 
 **Rus Morales, Sonia María:**  
+- Participó en la implementación del frontend de Reseñas.
+- Participó en la implementación del frontend de Valoraciones.
+- Participó en la implementación del frontend de crear, editar y eliminar Reseñas.
+- Participó en el documento revision.md.
+- Realizó la pantalla de planes de suscripción.
+- Realizó el storyboard.
+- Ayudó a preparar la presentación.
+- Participó en todas las reuniones del equipo.
 
 **Vento Conesa, Adriana:**    
 

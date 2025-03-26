@@ -44,6 +44,9 @@
     - [Registro](#42-registro)
 5. [Transportistas](#5-transportista)
 6. [Empresas](#6-empresas)
+7. [Reseñas](#7-reseñas)
+8. [Suscripciones](#8-suscripciones)
+
 
 ## 1. Resumen Ejecutivo
 
@@ -104,4 +107,91 @@ En la pantalla de creación de ofertas, verás un botón para crear una nueva of
 
 ## 5. Transportista
 
+### 5.1 Chat
+Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
+
+<p align="center">
+<img src="images/barrachat.png">
+</p>
+
+En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
+
+<p align="center">
+<img src="images/chatcam.png">
+</p>
+
+
 ## 6. Empresas
+
+### 6.1 Chat
+Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
+
+<p align="center">
+<img src="images/barrachat2.png">
+</p>
+
+En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
+
+<p align="center">
+<img src="images/chatemp.png">
+</p>
+
+## 7. Reseñas
+### 7.1 Reseñas empresas
+Una vez registrado como empresa, en su perfil, podemos ver si dicha empresa tiene o no alguna reseña y su valoración media.
+
+<p align="center">
+<img src="images/resena_miperfilempresa.png">
+</p>
+
+También pueden ver las reseñas de la empresa cualquier otro usuario.
+
+<p align="center">
+<img src="images/resena_publicempresa.png">
+</p>
+
+### 7.2 Reseñas camioneros
+Una vez registrado como camionero, en su perfil, podemos ver si dicho camionero tiene o no alguna reseña y su valoración media.
+
+<p align="center">
+<img src="images/resena_miperfilcamionero.png">
+</p>
+
+También pueden ver las reseñas del camionero cualquier otro usuario.
+
+<p align="center">
+<img src="images/resena_publiccamionero.png">
+</p>
+
+### 7.3 Crear y editar reseñas
+Un usuario podrá crear una reseña pulsando en el botón "Escribir reseña".
+
+<p align="center">
+<img src="images/resena_crear.png">
+</p>
+
+<p align="center">
+<img src="images/resena_creada.png">
+</p>
+
+Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña. 
+
+<p align="center">
+<img src="images/resena_editar.png">
+</p>
+
+
+## 8. Suscripciones
+
+Al acceder a la plataforma como empresa, se podrá acceder a la pantalla de planes de suscripción, donde se podrá cambiar de suscripción pulsando en el botón indicado según el tipo de plan al que se desee cambiar.
+
+<p align="center">
+<img src="images/suscripcion.png">
+</p>
+
+
+
+
+
+
+
