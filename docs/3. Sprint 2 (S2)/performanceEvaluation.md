@@ -469,6 +469,11 @@
 **Pérez Vargas, Diego José:**  
 
 **Rodríguez Millán, María Cristina:**  
+- Participó en las reuniones del equipo.
+- Planteó el sistema de reseñas y buscó herramientas para ello.
+- Ayudó con la elaboración de una de las presentaciones.
+- Revisó pull request.
+- Presentó una de las semanas.
 
 **Rus Morales, Sonia María:**  
 - Participó en la implementación del frontend de Reseñas.
