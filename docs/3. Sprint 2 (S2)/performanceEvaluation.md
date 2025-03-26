@@ -469,6 +469,11 @@
 **Pérez Vargas, Diego José:**  
 
 **Rodríguez Millán, María Cristina:**  
+- Participó en las reuniones del equipo.
+- Planteó el sistema de reseñas y buscó herramientas para ello.
+- Ayudó con la elaboración de las presentaciones.
+- Revisó pull request.
+- Presentó una de las semanas.
 
 **Rus Morales, Sonia María:**  
 - Participó en la implementación del frontend de Reseñas.
@@ -483,3 +488,9 @@
 **Vento Conesa, Adriana:**    
 
 **Yao, Jun:**  
+- Participó en la implementación del backend de suscripción.
+- Participó en la correción del backend de suscripción.
+- Participó en la implementación del backend de contacto directo(al final es de frontend).
+- Participó en la implementación del backend de testing de usuario,reseña y suscripción.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
