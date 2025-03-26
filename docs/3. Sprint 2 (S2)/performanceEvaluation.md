@@ -412,6 +412,12 @@
 #### Sprint 2 (#S2)
 
 **Baños Botón, José Ramón:**  
+- Participó en la búsqueda de implementación de los mapas.
+- Participó en la implementación del frontend de Reseñas.
+- Participó en la implementación del frontend de Valoraciones.
+- Participó en la implementación del frontend de crear, editar y eliminar Reseñas.
+- Participó en el documento revision.md.
+- Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**  
 
