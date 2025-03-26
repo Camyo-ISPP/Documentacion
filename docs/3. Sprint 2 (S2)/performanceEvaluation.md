@@ -488,3 +488,9 @@
 **Vento Conesa, Adriana:**    
 
 **Yao, Jun:**  
+- Participó en la implementación del backend de suscripción.
+- Participó en la correción del backend de suscripción.
+- Participó en la implementación del backend de contacto directo(al final es de frontend).
+- Participó en la implementación del backend de testing de usuario,reseña y suscripción.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
