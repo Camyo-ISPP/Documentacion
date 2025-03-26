@@ -437,7 +437,14 @@
 
 **Jiménez Guerrero, Pedro:**  
 
-**Meana Iturri, Claudia:**  
+**Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Realizó la pantalla de buscar de oferta.
+- Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Ayudó a arreglar algunos errores en frontend.
 
 **Pérez Garrido, Rubén:**  
 
