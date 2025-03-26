@@ -422,6 +422,11 @@
 **García Ortíz, Carlos:**  
 
 **Heras Pérez, Raúl:**  
+- Implementó el chat en frontend.
+- Implementó la conexión con la API de Firebase para el chat.
+- Diseñó la interfaz del chat.
+- Implementó la navegación al chat dentro de la aplicación.
+- Participó en todas las reuniones del equipo.
 
 **Jiménez Guerrero, Pedro:**  
 

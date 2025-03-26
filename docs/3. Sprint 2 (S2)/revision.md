@@ -104,4 +104,31 @@ En la pantalla de creación de ofertas, verás un botón para crear una nueva of
 
 ## 5. Transportista
 
+### 5.1 Chat
+Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
+
+<p align="center">
+<img src="images/barrachat.png">
+</p>
+
+En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
+
+<p align="center">
+<img src="images/chatcam.png">
+</p>
+
+
 ## 6. Empresas
+
+### 6.1 Chat
+Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
+
+<p align="center">
+<img src="images/barrachat2.png">
+</p>
+
+En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
+
+<p align="center">
+<img src="images/chatemp.png">
+</p>
