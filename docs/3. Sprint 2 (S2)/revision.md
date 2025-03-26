@@ -44,6 +44,7 @@
     - [Registro](#42-registro)
 5. [Transportistas](#5-transportista)
 6. [Empresas](#6-empresas)
+7. [Reseñas](#7-reseñas)
 
 ## 1. Resumen Ejecutivo
 
@@ -132,3 +133,55 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 <p align="center">
 <img src="images/chatemp.png">
 </p>
+
+## 7. Reseñas
+### 7.1 Reseñas empresas
+Una vez registrado como empresa, en su perfil, podemos ver si dicha empresa tiene o no alguna reseña y su valoración media.
+
+<p align="center">
+<img src="images/resena_miperfilempresa.png">
+</p>
+
+También pueden ver las reseñas de la empresa cualquier otro usuario.
+
+<p align="center">
+<img src="images/resena_publicempresa.png">
+</p>
+
+### 7.2 Reseñas camioneros
+Una vez registrado como camionero, en su perfil, podemos ver si dicho camionero tiene o no alguna reseña y su valoración media.
+
+<p align="center">
+<img src="images/resena_miperfilcamionero.png">
+</p>
+
+También pueden ver las reseñas del camionero cualquier otro usuario.
+
+<p align="center">
+<img src="images/resena_publiccamionero.png">
+</p>
+
+### 7.3 Crear y editar reseñas
+Un usuario podrá crear una reseña pulsando en el botón "Escribir reseña".
+
+<p align="center">
+<img src="images/resena_crear.png">
+</p>
+
+<p align="center">
+<img src="images/resena_creada.png">
+</p>
+
+Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña. 
+
+<p align="center">
+<img src="images/resena_editar.png">
+</p>
+
+
+
+
+
+
+
+
