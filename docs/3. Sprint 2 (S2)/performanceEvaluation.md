@@ -471,7 +471,7 @@
 **Rodríguez Millán, María Cristina:**  
 - Participó en las reuniones del equipo.
 - Planteó el sistema de reseñas y buscó herramientas para ello.
-- Ayudó con la elaboración de una de las presentaciones.
+- Ayudó con la elaboración de las presentaciones.
 - Revisó pull request.
 - Presentó una de las semanas.
 
