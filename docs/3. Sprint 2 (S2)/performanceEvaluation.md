@@ -463,6 +463,14 @@
 **Rodríguez Millán, María Cristina:**  
 
 **Rus Morales, Sonia María:**  
+- Participó en la implementación del frontend de Reseñas.
+- Participó en la implementación del frontend de Valoraciones.
+- Participó en la implementación del frontend de crear, editar y eliminar Reseñas.
+- Participó en el documento revision.md.
+- Realizó la pantalla de planes de suscripción.
+- Realizó el storyboard.
+- Ayudó a preparar la presentación.
+- Participó en todas las reuniones del equipo.
 
 **Vento Conesa, Adriana:**    
 
