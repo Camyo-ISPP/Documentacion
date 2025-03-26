@@ -433,6 +433,14 @@
 - Pariticipó en la encripción de datos sensibles
 
 **García Ortíz, Carlos:**  
+- Preparó la segunda prueba de usuarios pilotos.
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
+- Revisó 1 pull request.
+- Arregló y terminó de implementar la edición de perfil.
+- Añadió validadores en formularios de registros y creación de oferta.
+- Creó la primera versión de perfil público de empresa.
+- Remodeló la entidad oferta para el listado, aceptación y rechazo de transportistas.
+- Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**  
 - Implementó el chat en frontend.
