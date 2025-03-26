@@ -418,14 +418,33 @@
 **Chen, Sheng:**  
 
 **García Martínez, Carlos:**  
+- Participó activamente en la resolución de problemas de Backend
+- Cordinó y organizó las tareas de Backend
+- Participó en todas las reuniones de equipo
+- Organizó la presentación de una semana
+- Preparó una presentación
+- Implemento la lógica de reseña en Backend
+- Pariticipó en la encripción de datos sensibles
 
 **García Ortíz, Carlos:**  
 
 **Heras Pérez, Raúl:**  
+- Implementó el chat en frontend.
+- Implementó la conexión con la API de Firebase para el chat.
+- Diseñó la interfaz del chat.
+- Implementó la navegación al chat dentro de la aplicación.
+- Participó en todas las reuniones del equipo.
 
 **Jiménez Guerrero, Pedro:**  
 
-**Meana Iturri, Claudia:**  
+**Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Realizó la pantalla de buscar de oferta.
+- Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Ayudó a arreglar algunos errores en frontend.
 
 **Pérez Garrido, Rubén:**  
 

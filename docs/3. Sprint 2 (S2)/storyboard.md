@@ -33,79 +33,118 @@
 ## Tabla de Contenidos
 
 1. [Introducción](#introducción)
-2. [Transportistas](#transportistas)
-3. [Empresas](#empresas)
-4. [Inversores](#inversores)
-   
+2. [Storyboard para empresas](#storyboard-para-empresas)
+
 ## Introducción
 
-Este documento presenta el Storyboard para la aplicación Camyo, que abarca las perspectivas de Empresas (Clientes), Transportistas (Usuarios) e Inversores.
+Este documento presenta el Storyboard para la aplicación Camyo centrado en la visión para las empresas.
 
-## Transportistas
+## Storyboard para empresas
 
-**Objetivo:** Mostrar claramente cómo la app facilita a los camioneros encontrar ofertas laborales rápidas, efectivas y adaptadas a sus necesidades.
+**Objetivo:** Mostrar de forma visual y narrativa cómo la aplicación Camyo soluciona un problema real en el sector del transporte. Captar de manera clara cómo Camyo simplifica la contratación de camioneros, ofreciendo una solución práctica y moderna.
 
-**Escena 1: Frustración actual del transportista**
+**Escena 1: Bar**
 
-- **Imagen:** Camionero sentado en la cabina del camión, visiblemente frustrado y cansado, llamando por teléfono y anotando información en muchos post-its desorganizados.
+<p align="center">
+<img src="images/storyboard/escena1.png">
+</p>
 
-**Escena 2: Descubriendo la aplicación**
+- **Acción:** Dos personas se encuentran en un bar:  
 
-- **Imagen:** Camionero mirando comentarios de un vídeo de una red social, descubre que una persona ha comentado el nombre de la aplicación y se la descarga por primera vez en su móvil.
+  B: “Ya he terminado por hoy, ¿y tú qué?” 
 
-**Escena 3: Filtrado avanzado y adaptado al conductor**
+  A: “Desde que me descargué Camyo no paro, todo el día de un lado a otro.” 
 
-- **Imagen:** Camionero creándose una cuenta y ajustando fácilmente filtros en la pantalla para buscar ofertas (ruta, tipo de camión, distancia máxima, salario mínimo, horarios, tipo de contrato).
+- **Sonido:** Ruido ambiente, bar de carretera.  
+- **Observaciones técnicas:** Persona C entra en escena, escucha la conversación mientras mira de reojo.
 
-**Escena 4: Aplicación sencilla a una oferta**
+**Escena 2: Bar**
 
-- **Imagen:** Camionero tocando el botón "Solicitar" para solicitar una oferta, en la pantalla del móvil, mostrando sencillez y rapidez.
+<p align="center">
+<img src="images/storyboard/escena2.png">
+</p>
 
-**Escena 5: Recepción de múltiples respuestas de empresas**
+- **Acción:** Suena un teléfono, la persona atiende urgente la llamada.  
 
-- **Imagen:** Pantalla del móvil mostrando múltiples respuestas o mensajes de empresas interesadas, indicando que varias empresas están interesadas en contratarle. Mostrando que se ha aceptado su solicitud a la oferta y ya tiene el trabajo.
+  C: “¿Cómo? ¿¡No hay nadie disponible!? ¡No puede ser!” 
 
-## Empresas
+- **Sonido:** Teléfono móvil.  
+- **Observaciones técnicas:** Cambio de personaje principal a C.
 
-**Objetivo:** Mostrar cómo las empresas pueden optimizar el proceso de reclutamiento y gestionar sus ofertas de forma sencilla, eficaz y organizada con la aplicación.
+**Escena 3: Oficina**
 
-**Escena 1: Caos administrativo actual**
+<p align="center">
+<img src="images/storyboard/escena3.png">
+</p>
 
-- **Imagen:** Oficina llena de carpetas, notas adhesivas en monitores y empleados agobiados gestionando múltiples llamadas para cubrir una vacante de un empleado enfermo.
+- **Acción:** La escena se traslada a la oficina. C busca en el ordenador: 
 
-**Escena 2: Descubriendo una solución**
+  C: “¿Qué es esto de Camyo? ¿Por eso no tengo camioneros?” 
 
-- **Imagen:** Gerente de recursos humanos o encargado frente al ordenador, buscando en internet y descubriendo la plataforma por primera vez, claramente aliviado.
+- **Sonido:**  Teclado, sonido ambiente. 
+- **Observaciones técnicas:** -
 
-**Escena 3: Publicación sencilla de oferta**
+**Escena 4: Oficina**
 
-- **Imagen:** Empleado (el que llamaba por teléfono) frente al ordenador rellenando fácilmente los campos necesarios para publicar una nueva oferta, como tipo de carga, ruta, salario y requisitos.
+<p align="center">
+<img src="images/storyboard/escena4.png">
+</p>
 
-**Escena 4: Visualización de múltiples solicitudes**
+- **Acción:** Dos compañeros se aproximan al hombre que se encuentra en el ordenador:  
 
-- **Imagen:** Empleado frente a la pantalla de la aplicación, viendo claramente cómo van llegando múltiples solicitudes a la oferta publicada.
+  E: “¿Qué buscas?” 
 
-## Inversores
+  C: “Me he encontrado una app súper útil, ¡Camyo! Me estoy creando una cuenta.” 
 
-**Objetivo:** Demostrar claramente la oportunidad de inversión mostrando el potencial de mercado, escalabilidad y rentabilidad del modelo.
+  E: “¿Una app? ¿Para qué?” 
 
-**Escena 1: Mercado actual**
+- **Sonido:**  Teclado, sonido ambiente. 
+- **Observaciones técnicas:**  D y E se miran perplejos. 
 
-- **Imagen:** Mapa de España con iconos de camiones y teléfonos, representando el método anticuado actual.
+**Escena 5: Oficina**
 
-**Escena 2: Presentación de la innovación**
+<p align="center">
+<img src="images/storyboard/escena5.png">
+</p>
 
-- **Imagen:** Gráficos claros del mercado potencial (empresas y camioneros conectados).
+- **Acción:** 
 
-**Escena 3: Empresas eligiendo planes superiores**
+  C: “¡Para no tener que buscar camioneros a todas horas! Solo tengo que publicar la oferta y ¡listo! El único problema es que solo puedo publicar una oferta” 
 
-- **Imagen:** Una empresa cambiando desde el plan gratuito al plan premium.  
-- **Flecha:** Indicando claramente el paso del plan "Gratis" al plan "Premium".  
+  D: “¿Y si pruebas la opción Premium?”  
 
-**Escena 4**
+- **Sonido:**  Teclado, sonido ambiente. 
+- **Observaciones técnicas:**  C teclea en el ordenador. 
 
-- **Imagen:** Un mapa sencillo y claro de España, con iconos de teléfonos móviles apareciendo cada vez más, mostrando la aplicación distribuida sobre las principales ciudades españolas (Madrid, Barcelona, Sevilla, Valencia, Bilbao, etc.). Cada icono tiene líneas o conexiones entre ellos simbolizando que las empresas y transportistas se van sumando a la plataforma progresivamente. (Para simular una expansión exponencial de personas que usan la aplicación en España).
 
-**Escena 5**
+**Escena 6: Móvil**
 
-- **Imagen:** Una reunión de inversores observando una pantalla con gráficos de crecimiento de usuarios, ingresos incrementales y curva ascendente de rentabilidad del proyecto. Los inversores muestran expresiones satisfechas y positivas.
+<p align="center">
+<img src="images/storyboard/escena6.png">
+</p>
+
+- **Acción:** 
+
+  B: “¡Uh, qué buena oferta!” 
+- **Sonido:**   Sonido de notificación al solicitar.  
+- **Observaciones técnicas:**  Grabación de una pantalla de móvil, primer plano. 
+
+**Escena 7: Oficina**
+
+<p align="center">
+<img src="images/storyboard/escena7.png">
+</p>
+
+- **Acción:** Pantalla de un ordenador de oficina. 
+- **Sonido:**   “Pues sí que funciona.” 
+- **Observaciones técnicas:**  -
+ 
+**Escena 8: Camyo**
+
+<p align="center">
+<img src="images/storyboard/escena8.png">
+</p>
+
+- **Acción:** Aparece el logo de forma progresiva. 
+- **Sonido:**    Sonido de un frenazo. 
+- **Observaciones técnicas:**  Fundido a negro. 
