@@ -418,6 +418,13 @@
 **Chen, Sheng:**  
 
 **García Martínez, Carlos:**  
+- Participó activamente en la resolución de problemas de Backend
+- Cordinó y organizó las tareas de Backend
+- Participó en todas las reuniones de equipo
+- Organizó la presentación de una semana
+- Preparó una presentación
+- Implemento la lógica de reseña en Backend
+- Pariticipó en la encripción de datos sensibles
 
 **García Ortíz, Carlos:**  
 
