@@ -29,23 +29,44 @@
 | Nombre(s) y Apellido(s) | Tipo de Contribución |
 | --- | --- |
 | Adriana Vento Conesa | Redacción Comportamiento de Suscripciones |
-| [Placeholder] | [Placeholder] |
-| [Placeholder] | [Placeholder] |
+| Isabel Cantero Corchero | Redacción de Autenticación, registro, inicio de sesión, General, inicio, explorar ofertas y empresas, detalle de oferta y empresa, Camionero (perfil, mis ofertas), Empresa (perfil, mis ofertas) |
 
 
 # Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#1-resumen-ejecutivo)
 2. [Datos para la Revisión](#2-datos-para-la-revisión)
-3. [Ofertas](#3-ofertas)
-    - [Comportamiento de las Suscripciones](#311-comportamiento-de-las-suscripciones)
-4. [Autentificación](#4-autentificación)
-    - [Log-in](#41-login)
-    - [Registro](#42-registro)
-5. [Transportistas](#5-transportista)
-6. [Empresas](#6-empresas)
-7. [Reseñas](#7-reseñas)
-8. [Suscripciones](#8-suscripciones)
+3. [Autenticación](#3-autenticación)  
+   3.1 [Registro](#31-registro)  
+   3.1.1 [Registro como camionero](#311-registro-como-camionero)  
+   3.1.2 [Registro como empresa](#312-registro-como-empresa)  
+   3.2 [Inicio de sesión](#32-inicio-de-sesión)  
+
+4. [General](#4-general)  
+   4.1 [Página de inicio](#41-página-de-inicio)  
+   4.2 [Explorar y buscar ofertas](#42-explorar-y-buscar-ofertas)  
+   4.3 [Detalle de oferta](#43-detalle-de-oferta)  
+   4.4 [Listado de empresas](#44-listado-de-empresas)  
+   4.5 [Detalle de empresa](#45-detalle-de-empresa)  
+
+5. [Camionero](#5-camionero)  
+   5.1 [Perfil de camionero](#51-perfil-de-camionero)  
+   5.2 [Mis Ofertas](#52-mis-ofertas)  
+   5.3 [Chat](#53-chat)  
+
+6. [Empresas](#6-empresas)  
+   6.1 [Perfil de empresa](#61-perfil-de-empresa)  
+   6.2 [Crear Oferta](#62-crear-oferta)  
+   6.3 [Suscripciones](#63-suscripciones)  
+   6.4 [Chat](#64-chat)  
+   6.5 [Mis Ofertas](#65-mis-ofertas)  
+
+7. [Reseñas](#7-reseñas)  
+   7.1 [Reseñas empresas](#71-reseñas-empresas)  
+   7.2 [Reseñas camioneros](#72-reseñas-camioneros)  
+   7.3 [Crear y editar reseñas](#73-crear-y-editar-reseñas)
+
+
 
 
 ## 1. Resumen Ejecutivo
@@ -71,43 +92,108 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |
 
-## 3. Ofertas
 
-### 3.1 Crear Oferta
+## 3. Autenticación
 
-Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros desde tu perfil. Para hacerlo, debes rellenar los campos requeridos según el tipo de oferta que quieras publicar, ya sea de carga o de trabajo. Tras publicarla, esta oferta será visible para el resto de usuarios.
+### 3.1 Registro
+Pantalla inicial del registro donde el usuario debe elegir si se registrará como Camionero o Empresa.
 
-![image]()
 
-![image]()
+![image](images/registro1.png)
 
-![image]()
+#### 3.1.2 Registro como camionero
+Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo.
 
-Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
+![image](images/registro2.png)
+![image](images/registro3.png)
 
-- **Suscripción Gratis**: Puedes tener hasta **1 oferta activa**.
-- **Suscripción Básica**: Puedes tener hasta **3 ofertas activas**.
-- **Suscripción Premium**: No hay límite en el número de ofertas activas.
+#### 3.1.2 Registro como empresa
+Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. 
 
-#### 3.1.1 Comportamiento de las Suscripciones
+![image](images/registro4.png)
+![image](images/registro5.png)
 
-En la pantalla de creación de ofertas, verás un botón para crear una nueva oferta. Este botón cambiará su estado según las siguientes condiciones:
 
-- Si aún no has alcanzado el límite de ofertas permitidas por tu suscripción:
-  - El botón estará habilitado y podrás crear una nueva oferta.
+### 3.2 Inicio de sesión
+Formulario para que usuarios registrados ingresen con su nombre de usuario y contraseña. Incluye opción para redirigirse al registro si aún no tienen cuenta.
 
-![image](https://i.imgur.com/EwcgGR6.png)
+![image](images/iniciosesion.png)
 
-- Si has alcanzado el límite de ofertas activas permitidas:
-  - El botón se bloqueará y mostrará el mensaje **"Límite de Ofertas Alcanzado"**.
 
-![image](https://i.imgur.com/2mRysoa.png)
 
-## 4. Autentificación
 
-## 5. Transportista
 
-### 5.1 Chat
+
+## 4. General
+
+### 4.1 Página de inicio
+Visitante:
+
+Pantalla principal para usuarios no autenticados, destacando el objetivo de la plataforma y mostrando ofertas recientes disponibles para explorar sin necesidad de iniciar sesión.
+
+![image](images/home.png)
+
+Usuario registrado:
+
+Pantalla de bienvenida personalizada para usuarios registrados, con accesos rápidos al perfil y a vacantes, además de una lista de ofertas recientes divididas por tipo: carga y trabajo.
+
+![image](images/home2.png)
+
+### 4.2 Explorar y buscar ofertas
+
+Vista general del buscador de ofertas donde los usuarios pueden explorar las ofertas publicadas.
+
+![image](images/buscarofertas.png)
+
+La pantalla tiene una seccion de búsqueda que permite filtrar ofertas según los requisitos del usuario, mostrando resultados relevantes en tiempo real.
+
+![image](images/buscarofertas2.png)
+
+
+### 4.3 Detalle de oferta
+Vista del detalle de una oferta visible para visitantes, que muestra los datos pero requiere iniciar sesión para poder solicitarla.
+
+![image](images/detalleoferta2.png)
+
+Pantalla de detalle de una oferta para usuarios autenticados, con botón activo para solicitarla y toda la información relevante del transporte: presupuesto, licencias, origen/destino, fechas y carga.
+
+![image](images/detalleoferta1.png)
+
+Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado.
+
+![image](images/solicitud.png)
+
+### 4.4 Listado de empresas
+Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados.
+
+![image](images/listaempresas.png)
+
+### 4.5 Detalle de empresa
+Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. También se muestra una sección para valoraciones de otros usuarios.
+
+![image](images/detalleempresa.png)
+
+## 5. Camionero
+
+### 5.1 Perfil de camionero
+
+Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click en el icono de lápiz de al lado de la foto de perfil.
+
+![image](images/miperfilcam.png)
+
+Perfil público visible para las empresas, donde se muestra información laboral, contacto y reseñas recibidas.
+
+![image](images/miperfilcam2.png)
+
+### 5.2 Mis Ofertas
+
+Una vez iniciada la sesión como camionero, aparece en la barra de navegación la sección "Mis Ofertas" que muestra las solicitudes que ha realizado el camionero y se pueden filtrar por ofertas pendientes (en espera de respuesta por parte de la empresa), asignadas (ofertas aceptadas por la empresa) o descartadas (ofertas en las que el camionero no fue seleccionado para el trabajo o carga).
+
+![image](images/misofertas1.png)
+![image](images/misofertas2.png)
+![image](images/misofertas3.png)
+
+### 5.3 Chat
 Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
 
 <p align="center">
@@ -123,7 +209,49 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 
 ## 6. Empresas
 
-### 6.1 Chat
+### 6.1 Perfil de empresa
+
+Vista privada del perfil de empresa, con acceso para editar información, publicar nuevas ofertas y gestionar el plan de suscripción. Muestra también las ofertas activas y las reseñas recibidas.
+
+![image](images/miperfilemp.png)
+
+Perfil público de empresa donde se pueden consultar los datos de contacto, descripción, web, ofertas abiertas y reseñas de la empresa.
+
+![image](images/miperfilemp2.png)
+
+### 6.2 Crear Oferta
+
+Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros desde tu perfil. Para hacerlo, debes rellenar los campos requeridos según el tipo de oferta que quieras publicar, ya sea de carga o de trabajo. Tras publicarla, esta oferta será visible para el resto de usuarios.
+
+![image](images/crearoferta1.png)
+![image](images/crearoferta2.png)
+
+Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
+
+- **Suscripción Gratis**: Puedes tener hasta **1 oferta activa**.
+- **Suscripción Básica**: Puedes tener hasta **3 ofertas activas**.
+- **Suscripción Premium**: No hay límite en el número de ofertas activas.
+
+### 6.3 Suscripciones
+
+En la pantalla de perfil de empresa, verás un botón para crear una nueva oferta. Este botón cambiará su estado según las siguientes condiciones:
+
+- Si aún no has alcanzado el límite de ofertas permitidas por tu suscripción:
+  - El botón estará habilitado y podrás crear una nueva oferta.
+
+![image](https://i.imgur.com/EwcgGR6.png)
+
+- Si has alcanzado el límite de ofertas activas permitidas:
+  - El botón se bloqueará y mostrará el mensaje **"Límite de Ofertas Alcanzado"**.
+
+![image](https://i.imgur.com/2mRysoa.png)
+
+Pantalla donde las empresas pueden elegir entre tres planes: Gratis, Básico y Premium, con distintas capacidades para publicar ofertas de empleo según el nivel de suscripción.
+
+![image](images/suscripcion.png)
+
+
+### 6.4 Chat
 Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
 
 <p align="center">
@@ -135,6 +263,16 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 <p align="center">
 <img src="images/chatemp.png">
 </p>
+
+
+### 6.5 Mis Ofertas
+Listado de ofertas de trabajo o carga creadas por la empresa que han sido asignadas (abiertas) o no (cerrradas) a algún camionero.
+
+![image](images/misofertasemp1.png)
+![image](images/misofertasemp2.png)
+
+
+
 
 ## 7. Reseñas
 ### 7.1 Reseñas empresas
@@ -179,19 +317,6 @@ Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña.
 <p align="center">
 <img src="images/resena_editar.png">
 </p>
-
-
-## 8. Suscripciones
-
-Al acceder a la plataforma como empresa, se podrá acceder a la pantalla de planes de suscripción, donde se podrá cambiar de suscripción pulsando en el botón indicado según el tipo de plan al que se desee cambiar.
-
-<p align="center">
-<img src="images/suscripcion.png">
-</p>
-
-
-
-
 
 
 
