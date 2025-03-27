@@ -32,6 +32,8 @@
 | Isabel Cantero Corchero | Redacción de Autenticación, registro, inicio de sesión, General, inicio, explorar ofertas y empresas, detalle de oferta y empresa, Camionero (perfil, mis ofertas), Empresa (perfil, mis ofertas) |
 | Lucía Pérez Gutiérrez  | Redacción de la funcionalidad de promocionar ofertas |
 | Raúl Heras Pérez  | Redacción de la funcionalidad de chat |
+| José Ramón Baños Botón | Redacción de la funcionalidad de reseñas y valoraciones |
+| Sonia María Rus Morales  | Redacción de la funcionalidad de suscripciones |
 # Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#1-resumen-ejecutivo)
