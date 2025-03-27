@@ -535,7 +535,15 @@
 - Ayudó a preparar la presentación.
 - Participó en todas las reuniones del equipo.
 
-**Vento Conesa, Adriana:**    
+**Vento Conesa, Adriana:**
+- Participó activamente en reuniones de planificación y retrospectivas del equipo.
+- Implementó funcionalidades frontend para mejorar la lógica de suscripciones, incluyendo la creación de forms condicionales, números de ofertas condicionales, y la modularización de funcionalidades.  
+- Trabajó en la migración de todas las ofertas de Home a una pestaña separada (Frontend 66).  
+- Redactó y actualizó documentación, como el informe de contribuciones del Sprint 2, secciones de revisión de características y plantillas obligatorias para documentación del Sprint.  
+- Proporcionó feedback grupal y documentó observaciones en la BCC correspondiente a varias semanas.  
+- Realizó revisiones de pull requests (#157 y #146).  
+- Resolvió errores relacionados con la base de datos durante el despliegue.  
+- Participó en la configuración y preparación del deployment para el Sprint 2, realizando pruebas y ajustes necesarios.
 
 **Yao, Jun:**  
 - Participó en la implementación del backend de suscripción.
