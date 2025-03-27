@@ -50,7 +50,7 @@ En este documento se recogerán los criterios utilizados para la evaluación de 
 Se evualará la participación y desempeño de los usuarios piloto en función de cuanto han ayudado sus sugerencias y detección de errores, además del esfuerzo mostrado al rellenar el formulario de forma profesional y dedicada.
 
 - **Realización:** Los usuarios piloto han participado en la prueba, respondiendo al formulario correspondiente con . La métrica es binaria, con "Sí" puntuando 10 y "No" puntuando 0.
-- Desempeño: Se valorará el esfuerzo mostrado en las sugerencias ofrecidas y errores detectados, ya que esperamos que los usuarios pilotos traten de explorar los casos de uso expuestos lo máximo posible para dar un feedback de calidad. Se valorará entre 0 y 10.
+- **Desempeño:** Se valorará el esfuerzo mostrado en las sugerencias ofrecidas y errores detectados, ya que esperamos que los usuarios pilotos traten de explorar los casos de uso expuestos lo máximo posible para dar un feedback de calidad. Se valorará entre 0 y 10.
 - **Nota:** Corresponde a la nota final de los alumnos, seguirá la fórmula: **Nota = Realización x 0.4 + Desempeño x 0.6**
 
 | Apellidos, Nombre              | Grupo | Realización | Desempeño | Nota |
