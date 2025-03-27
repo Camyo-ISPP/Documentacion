@@ -516,6 +516,7 @@
 **Pérez Manzano, Francisco:**  
 - Participo en la mitad de reuniones de equipo.
 - Preparó el backend de pago con ayuda de Diego José Pérez Vargas.
+- Recopiló y categorizó el feedback de usuarios piloto de casos de uso.
 - Preparó parte de los datos para el siguiente periodo de prueba de usuarios piloto.
 - Revisó 3 pull requests.
 - Realizo una encuesta para el reporte de IA.
