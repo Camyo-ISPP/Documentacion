@@ -40,9 +40,7 @@
 6. [Pagos](#pagos)
 7. [Propiedad Intelectual](#propiedad-intelectual)
 8. [Cancelación](#cancelación)
-9. [Limitación de Responsabilidad](#limitación-de-responsabilidad)
-10. [Ley Aplicable](#ley-aplicable)
-11. [Contacto](#contacto)
+9. [Contacto](#contacto)
 
 ## Introducción
 
@@ -127,7 +125,7 @@ Además, al usar el Servicio, el Usuario se compromete a:
 
 El Usuario es responsable de todas las actividades realizadas en su cuenta. Por lo tanto, en el caso de estar registrado, se compromete a no compartir, transferir, prestar ni vender su cuenta personal sin nuestra aprobación previa. Cualquier acción realizada en su cuenta se le asignará automáticamente, a menos que su cuenta haya sido comprometida y pueda confirmarlo sin lugar a dudas. En ese caso, el Usuario se compromete a contactarnos lo antes posible para informarnos de los hechos y poder tomar las acciones necesarias para restaurar la seguridad de su cuenta y de nuestro Servicio.
 
-Cualquier uso ilegal, disruptivo o no autorizado del Servicio podrá ser motivo de cancelación de la cuenta de un Usuario. En el caso de que existan dudas sobre la validez de alguno de los posibles usos del Servicio o si el Usuario desea solicitar permiso para realizar alguna acción no contemplada en estos Términos y Condiciones, deberá ponerse en contacto con nosotros.
+Si se detecta cualquier uso ilegal, disruptivo o no autorizado del Servicio que no haya sido justificado, el Usuario recibirá una advertencia por parte del equipo de Camyo vía email. En el caso de que existan dudas sobre la validez de alguno de los posibles usos del Servicio o si el Usuario desea solicitar permiso para realizar alguna acción no contemplada en estos Términos y Condiciones, deberá ponerse en contacto con nosotros.
 
 ## Cuentas de Usuario
 
@@ -144,7 +142,7 @@ Siempre asumiremos la veracidad y validez de cualquier información personal de 
 
 El Servicio se puede utilizar de manera gratuita con ciertas limitaciones. Si el Servicio requiere un pago, el Usuario acepta pagar todas las tarifas aplicables tal como se describe en el Servicio. Ninguna tarifa es reembolsable, salvo lo dispuesto expresamente en estos Términos y Condiciones.
 
-Camyo no presta servicios de pago electrónico ni intermedia en su prestación. Para poder realizar pagos en nuestra Plataforma, deberá formalizar un contrato con la plataforma Stripe Payments Europe, Ltd ("**Stripe**"). Al acceder y efectuar cualquier compra en Camyo, acepta que está de acuerdo con los términos y condiciones de uso, y política de privacidad de Stripe.
+Camyo no presta servicios de pago electrónico ni intermedia en su prestación. Para poder realizar pagos en nuestra Plataforma, deberá formalizar un contrato con la plataforma Stripe Payments Europe, Ltd ("**Stripe**").
 
 ## Propiedad Intelectual
 
@@ -156,21 +154,9 @@ El Usuario manifiesta ser titular en exclusiva de todos los derechos que recaen 
 
 ## Cancelación
 
-Camyo se reserva el derecho de cancelar o suspender el acceso al Servicio de cualquier Usuario inmediatamente, sin previo aviso ni responsabilidad, por el incumplimiento de estos Términos y Condiciones o la violación de cualquier ley o reglamento aplicable. Tras la cancelación, su derecho a usar el Servicio cesará inmediatamente. Todas las disposiciones de estos Términos y Condiciones que por su naturaleza deban seguir vigentes tras la cancelación, incluyendo, entre otras, las disposiciones de propiedad, las exenciones de garantía, la indemnización y las limitaciones de responsabilidad, seguirán vigentes tras la cancelación.
+Tras la cancelación, su derecho a usar el Servicio cesará. Todas las disposiciones de estos Términos y Condiciones que por su naturaleza deban seguir vigentes tras la cancelación, incluyendo, entre otras, las disposiciones de propiedad, las exenciones de garantía, la indemnización y las limitaciones de responsabilidad, seguirán vigentes tras la cancelación.
 
 La duración de su acceso al Servicio está sujeta a estos Términos y Condiciones. Pueden aplicarse las condiciones de cancelación descritas en la cláusula de cancelación de estos Términos y Condiciones. La cancelación puede deberse a diversas circunstancias, incluyendo, entre otras, el incumplimiento de estos Términos y Condiciones, la suspensión del Servicio o el cierre de su cuenta. Cualquier cargo pendiente adeudado a Camyo en el momento de la cancelación seguirá siendo exigible.
-
-## Limitación de Responsabilidad
-
-Camyo no será responsable de ningún daño indirecto, incidental, especial, consecuente o punitivo derivado del uso o la imposibilidad de usar el Servicio, incluyendo, entre otros, daños por lucro cesante, pérdida de fondo de comercio, pérdida de uso, pérdida de datos u otras pérdidas intangibles, incluso si se le ha advertido de la posibilidad de dichos daños. En ningún caso la responsabilidad total de Camyo ante el Usuario por cualquier reclamación derivada de o relacionada con estos Términos y Condiciones superará el importe pagado por el mismo, si lo hubiera, por acceder o utilizar el Servicio durante los doce (12) meses anteriores a la fecha de la reclamación.
-
-El Usuario reconoce y acepta que las limitaciones de responsabilidad establecidas en este Acuerdo son elementos fundamentales de la base del acuerdo entre él y Camyo, y que Camyo no podría prestarle el Servicio de forma económicamente razonable sin dichas limitaciones. Algunas jurisdicciones no permiten la exclusión o limitación de responsabilidad por daños consecuentes o incidentales, por lo que la limitación anterior podría no ser aplicable en su caso. En dichas jurisdicciones, la responsabilidad de Camyo se limita al máximo permitido por la ley.
-
-El Usuario acepta indemnizar, defender y eximir de responsabilidad a Camyo, sus afiliados, funcionarios, directores, empleados, agentes, licenciatarios y proveedores frente a cualquier reclamación, pérdida, responsabilidad, gasto, daño y costo, incluidos los honorarios razonables de abogados, que surjan o estén relacionados con su uso o mal uso del Servicio, cualquier violación de estos Términos y Condiciones o cualquier incumplimiento de las declaraciones, garantías y convenios que él haya realizado en el presente.
-
-## Ley Aplicable
-
-Estos Términos y Condiciones se regirán e interpretarán de conformidad con las leyes de España, sin perjuicio de sus principios de conflicto de leyes. Cualquier disputa que surja de o en conexión con estos Términos y Condiciones, incluida cualquier cuestión relacionada con su existencia, validez o terminación, se resolverá exclusivamente en los tribunales de Sevilla, España, con exclusión de cualquier otra jurisdicción.
 
 ## Contacto
 
