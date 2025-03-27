@@ -73,6 +73,8 @@
 
 Este documento proporciona una guía detallada para revisar la aplicación web de *matchmaking* de camioneros. Incluye un mapeo explícito de los casos de uso (UC) a las interacciones en el software, datos necesarios para la revisión, requisitos del sistema y un enlace a la demostración.
 
+> **Nota:** es posible que ciertos aspectos visuales difieran de los mostrados en las capturas de este documento. Es importante recordar que este proyecto está en un proceso de mejora constante.
+
 ## 2. Datos para la Revisión
 
 En esta tabla aparece toda la información necesaria para la revisión de Camyo.
