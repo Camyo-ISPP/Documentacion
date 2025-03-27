@@ -434,6 +434,14 @@
 
 
 **Chen, Sheng:**  
+- Participó en la implementación del backend de suscripción.
+- Implementó el sistema de oferta patrocinada.
+- Participó en la corrección del backend de oferta patrocinada.
+- Participó en la corrección del backend de oferta.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Realizó gráficos de barras con los datos positivos y negativos de los tres casos de costes.
+- Realizó el testing de OfertaController y OfertaService.
 
 **García Martínez, Carlos:**  
 - Participó activamente en la resolución de problemas de Backend
