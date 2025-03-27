@@ -420,8 +420,28 @@
 - Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**  
+- Reestructuración del sistema de archivos del frontend.
+- Mejoras en la UI/UX de la plataforma web.
+- Implementación del control de acceso según rol y protección de rutas.
+- Implementación de la pantalla de "Mis Ofertas" tanto para perfil de camionero como de empresa.
+- Añadir casilla de verificación de términos y condiciones en registro.
+- Distinción entre perfiles de camionero y empresa público y privado.
+- Corrección de la visibilidad de botones según rol de usuario y permisos.
+- Resolución de muchos problemas de Frontend.
+- Revisión de pull requests.
+- Aseguró la calidad y mejoras finales del frontend.
+- Participó en todas las reuniones del equipo.
+
 
 **Chen, Sheng:**  
+- Participó en la implementación del backend de suscripción.
+- Implementó el sistema de oferta patrocinada.
+- Participó en la corrección del backend de oferta patrocinada.
+- Participó en la corrección del backend de oferta.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Realizó gráficos de barras con los datos positivos y negativos de los tres casos de costes.
+- Realizó el testing de OfertaController y OfertaService.
 
 **García Martínez, Carlos:**  
 - Participó activamente en la resolución de problemas de Backend
@@ -465,6 +485,12 @@
 **Pérez Gutiérrez, Lucía:**  
 
 **Pérez Manzano, Francisco:**  
+- Participo en la mitad de reuniones de equipo.
+- Preparó el backend de pago con ayuda de Diego José Pérez Vargas.
+- Preparó parte de los datos para el siguiente periodo de prueba de usuarios piloto.
+- Revisó 3 pull requests.
+- Realizo una encuesta para el reporte de IA.
+- Actualizó el documento de IA para reflejar su uso en el sprint 2.
 
 **Pérez Vargas, Diego José:**  
 
