@@ -483,6 +483,13 @@
 **Pérez Garrido, Rubén:**  
 
 **Pérez Gutiérrez, Lucía:**  
+- Participo en todas la reuniones y organizó la del equipo de frontend.
+- Hizo una investigación exahustiva de la aplicación frontend para la planificación al inicio del sprint.
+- Reviso varias Pull Requests.
+- Se encargó de la funcionalidad de promocionar oferta
+- Participó en la investiación de los mapas, finalmente acabando por sacarlos del alcance
+- Participó en la revisión del documento revision.md
+- Planteo una futura mejora para las reseñas 
 
 **Pérez Manzano, Francisco:**  
 - Participo en la mitad de reuniones de equipo.
