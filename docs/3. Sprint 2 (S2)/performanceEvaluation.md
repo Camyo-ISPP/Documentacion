@@ -471,6 +471,17 @@
 
 **Jiménez Guerrero, Pedro:**  
 
+- Configuró la base de datos de testing.
+- Implementó los tests de las clases CamioneroService y CamioneroController.
+- Arregló los errores que mostraron los tests.
+- Participó en el documento de feedback de pilotos.
+- Refactorizó las clases Camionero y Autónomo.
+- Implementó una consulta necesaria para los filtros avanzados en backend.
+- Preparó la base de datos para los usuarios piloto.
+- Preparó las pruebas para los usuarios piloto.
+- Participó en todas las reuniones del equipo.
+
+
 **Meana Iturri, Claudia:**
 - Coordinó y organizó las tareas para elaborar las presentaciones.
 - Realizó la pantalla de buscar de oferta.
