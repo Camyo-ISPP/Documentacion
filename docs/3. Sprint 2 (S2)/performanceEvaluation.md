@@ -492,6 +492,17 @@
 - Ayudó a arreglar algunos errores en frontend.
 
 **Pérez Garrido, Rubén:**  
+- Colaboró en la elaboración y revisión de presentaciones.
+- Presentó la semana de evaluación.
+- Participó en las reuniones del equipo haciendo el rol de secretario.
+- Creó actas de reuniones para tener recogida la información que se trató.
+- Investigó en la implementación de un selector de fechas funcional para versión web y móvil.
+- Implementó el selector de fecha como componente.
+- Desarrolló la nueva versión inicial de la pantalla principal.
+- Desarrolló la nueva versión del navbar.
+- Mejoras varias de la UI.
+- Revisó pull requests.
+- Creo el video de demo de la aplicación.
 
 **Pérez Gutiérrez, Lucía:**  
 - Participo en todas la reuniones y organizó la del equipo de frontend.
