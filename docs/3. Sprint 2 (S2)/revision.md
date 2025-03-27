@@ -96,7 +96,7 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Usuario de Empresa (Camyo) | **Usuario:** emp_etsii1  **Contraseña:** etsiipass<br>**Usuario:** emp_etsii2  **Contraseña:** etsiipass |
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |
-| Número de cuenta para realizar los pagos  | 4242 4242 4242 4242 |
+| Cuenta para Realizar los Pagos  | 4242 4242 4242 4242, cualquier fecha y cualquier CVV. |
 
 ## 3. Autenticación
 
