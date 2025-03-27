@@ -499,7 +499,13 @@
 - Realizo una encuesta para el reporte de IA.
 - Actualizó el documento de IA para reflejar su uso en el sprint 2.
 
-**Pérez Vargas, Diego José:**  
+**Pérez Vargas, Diego José:**
+- Participó en todas las reuniones del equipo.
+- Ayudó a Francisco Pérez Manzano a implementar el backend de pasarela de pago.
+- Realizó la implementación de la pasarela de pago en el frontend.
+- Integró la pasarela de pago con el sistema de suscripciones de empresa.
+- Redactó el documento de Investigación y Conformidad con el RGPD y la LOPDGDD.
+- Redactó el documento de Términos y Condiciones de Camyo.
 
 **Rodríguez Millán, María Cristina:**  
 - Participó en las reuniones del equipo.
