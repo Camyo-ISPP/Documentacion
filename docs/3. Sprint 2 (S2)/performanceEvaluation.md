@@ -42,24 +42,24 @@
 **Date:** 18/02/2025  
 
 | Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
-|---------|------|----|----|----|-----|-----|--------------|
-| Baños Botón, José Ramón | 10 | 10 | | | | | 10 |
-| Bruni, Martina | 10 | 10 | | | | | 10 |
-| Cantero Corchero, Isabel | 10 | 10 | | | | | 10 |
-| Chen, Sheng | 10 | 10 | | | | | 10 |
-| García Martínez, Carlos | 10 | 10 | | | | | 10 |
-| García Ortíz, Carlos | 10 | 10 | | | | | 10 |
-| Heras Pérez, Raúl | 10 | 10 | | | | | 10 |
-| Jiménez Guerrero, Pedro | 10 | 10 | | | | | 10 |
-| Meana Iturri, Claudia | 10 | 10 | | | | | 10 |
-| Pérez Garrido, Rubén | 10 | 10 | | | | | 10 |
-| Pérez Gutiérrez, Lucía | 10 | 10 | | | | | 10 |
-| Pérez Manzano, Francisco | 10 | 10 | | | | | 10 |
-| Pérez Vargas, Diego José | 10 | 10 | | | | | 10 |
-| Rodríguez Millán, María Cristina | 10 | 10 | | | | | 10 |
-| Rus Morales, Sonia María | 10 | 10 | | | | | 10 |
-| Vento Conesa, Adriana | 10 | 10 | | | | | 10 |
-| Yao, Jun | 10 | 10 | | | | | 10 |
+|---------|------|-----|-----|-----|------|------|--------------|
+| Baños Botón, José Ramón | 10 | 10 | 10 | | | | 10 |
+| Bruni, Martina | 10 | 10 | 10 | | | | 10 |
+| Cantero Corchero, Isabel | 10 | 10 | 10 | | | | 10 |
+| Chen, Sheng | 10 | 10 | 10 | | | | 10 |
+| García Martínez, Carlos | 10 | 10 | 10 | | | | 10 |
+| García Ortíz, Carlos | 10 | 10 | 10 | | | | 10 |
+| Heras Pérez, Raúl | 10 | 10 | 10 | | | | 10 |
+| Jiménez Guerrero, Pedro | 10 | 10 | 10 | | | | 10 |
+| Meana Iturri, Claudia | 10 | 10 | 10 | | | | 10 |
+| Pérez Garrido, Rubén | 10 | 10 | 10 | | | | 10 |
+| Pérez Gutiérrez, Lucía | 10 | 10 | 10 | | | | 10 |
+| Pérez Manzano, Francisco | 10 | 10 | 10 | | | | 10 |
+| Pérez Vargas, Diego José | 10 | 10 | 10 | | | | 10 |
+| Rodríguez Millán, María Cristina | 10 | 10 | 10 | | | | 10 |
+| Rus Morales, Sonia María | 10 | 10 | 10 | | | | 10 |
+| Vento Conesa, Adriana | 10 | 10 | 10 | | | | 10 |
+| Yao, Jun | 10 | 10 | 10 | | | | 10 |
 
 ### Individual Contribution Summary  
 #### Devising a Project (#DP1)
@@ -471,6 +471,17 @@
 
 **Jiménez Guerrero, Pedro:**  
 
+- Configuró la base de datos de testing.
+- Implementó los tests de las clases CamioneroService y CamioneroController.
+- Arregló los errores que mostraron los tests.
+- Participó en el documento de feedback de pilotos.
+- Refactorizó las clases Camionero y Autónomo.
+- Implementó una consulta necesaria para los filtros avanzados en backend.
+- Preparó la base de datos para los usuarios piloto.
+- Preparó las pruebas para los usuarios piloto.
+- Participó en todas las reuniones del equipo.
+
+
 **Meana Iturri, Claudia:**
 - Coordinó y organizó las tareas para elaborar las presentaciones.
 - Realizó la pantalla de buscar de oferta.
@@ -481,6 +492,17 @@
 - Ayudó a arreglar algunos errores en frontend.
 
 **Pérez Garrido, Rubén:**  
+- Colaboró en la elaboración y revisión de presentaciones.
+- Presentó la semana de evaluación.
+- Participó en las reuniones del equipo haciendo el rol de secretario.
+- Creó actas de reuniones para tener recogida la información que se trató.
+- Investigó en la implementación de un selector de fechas funcional para versión web y móvil.
+- Implementó el selector de fecha como componente.
+- Desarrolló la nueva versión inicial de la pantalla principal.
+- Desarrolló la nueva versión del navbar.
+- Mejoras varias de la UI.
+- Revisó pull requests.
+- Creo el video de demo de la aplicación.
 
 **Pérez Gutiérrez, Lucía:**  
 - Participo en todas la reuniones y organizó la del equipo de frontend.
@@ -494,6 +516,7 @@
 **Pérez Manzano, Francisco:**  
 - Participo en la mitad de reuniones de equipo.
 - Preparó el backend de pago con ayuda de Diego José Pérez Vargas.
+- Recopiló y categorizó el feedback de usuarios piloto de casos de uso.
 - Preparó parte de los datos para el siguiente periodo de prueba de usuarios piloto.
 - Revisó 3 pull requests.
 - Realizo una encuesta para el reporte de IA.
@@ -524,7 +547,15 @@
 - Ayudó a preparar la presentación.
 - Participó en todas las reuniones del equipo.
 
-**Vento Conesa, Adriana:**    
+**Vento Conesa, Adriana:**
+- Participó activamente en reuniones de planificación y retrospectivas del equipo.
+- Implementó funcionalidades frontend para mejorar la lógica de suscripciones, incluyendo la creación de forms condicionales, números de ofertas condicionales, y la modularización de funcionalidades.  
+- Trabajó en la migración de todas las ofertas de Home a una pestaña separada (Frontend 66).  
+- Redactó y actualizó documentación, como el informe de contribuciones del Sprint 2, secciones de revisión de características y plantillas obligatorias para documentación del Sprint.  
+- Proporcionó feedback grupal y documentó observaciones en la BCC correspondiente a varias semanas.  
+- Realizó revisiones de pull requests (#157 y #146).  
+- Resolvió errores relacionados con la base de datos durante el despliegue.  
+- Participó en la configuración y preparación del deployment para el Sprint 2, realizando pruebas y ajustes necesarios.
 
 **Yao, Jun:**  
 - Participó en la implementación del backend de suscripción.

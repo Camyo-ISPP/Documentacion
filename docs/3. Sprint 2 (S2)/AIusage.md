@@ -28,7 +28,7 @@
 
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-|-|
-| Francisco Pérez Manzano       | Analisis de Uso de IA, Alucinaciones de IA        |
+| Francisco Pérez Manzano       | Analisis de Uso de IA, Alucinaciones de IA  y Lecciones Aprendidas      |
 | Isabel Cantero Corchero       | Primera iteración del reporte. |
 
 
@@ -47,6 +47,7 @@
 5. [Alucinaciones de IA](#5-alucinaciones-de-ia)
     - [Sprint 1](#sprint-1-1)
     - [Sprint 2](#sprint-2-1)
+6. [Lecciones Aprendidas](#6-lecciones-aprendidas)
 
 
 ## 1. Introducción
@@ -266,3 +267,21 @@ Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un t
 Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 19.48% de errores medio. Este valor ha aumentado de forma considerable respecto a la ultima vez donde consideramos que hubo 1 error en las 57 pull requests que se hicieron en el primer sprint, eso si, esta sección considera también los usos de copilot de autorellenado de visual studio code, que ocupan un total de 14 de 15 errores encontrados, que se debían a un código autorrellenado que no aportaba nada que quisiera el miembro o otorgaba la solución necesaria.
 
 Una vez dicho esto podemos saber que este sprint hubo otro error de CodaciumAI en una pull request que modificaba archivos de configuración, en la que aportaba una sugerencia que desmantelaba la estructura de la aplicación y producía que fallara todo la rama principal al fusionar las ramas. Para próximos entregables, analizaremos las sugerencias de CodaciumAI en archivos de configuración o archivos claves en la estructura de proyecto para evitar estos errores.
+
+## 6. Lecciones aprendidas
+
+El uso de la inteligencia artificial ofrece muchas ventajas, presentando numerosos problemas con un mal uso de la misma, como las alucinaciones de IA,  generando información incorrecta. En esta sección, mostraremos alguna de las lecciones clave que hemos aprendido sobre el uso de IA durante el proyecto.
+
+- **Role Prompting**
+
+El role prompting consiste en establecer a la IA un papel específico que debe tener en cuenta antes de hacer la consulta. Estos roles pueden producir que la IA desarrolle con más calidad en puntos específicos, ejemplo de esto sería atribuirle un rol de ciberseguridad a la IA y que se fije con detenimiento en aquellos problemas de seguridad que pueda tener el código. Implementar esta metodología nos permitirá profundizar más en los resultados que hace la IA y asi reducir posibles alucinaciones en el proceso.
+
+- **Razonamiento crítico**
+
+ Aunque la IA pueda procesar grandes cantidades de datos y generar respuestas rápidas, no siempre garantiza precisión ni entendimiento real del contexto que queremos resolver. Las alucinaciones de IA son un claro ejemplo de esto, por lo que debemos constrastar estos resultados que la IA nos otorga con fuentes reales y fiables, y modificar dicha información para obtener un resultado que pueda ser utilizado en su máximo potencial.
+
+ - **Cuando usar la IA y No**
+
+La IA es una herramienta muy útil que nos ayuda a acelerar procesos mundanos y repetitivos, pero debemos, como equipo, tener en cuenta que no podemos depender de una IA para elaborar todo. Aquellas tareas como automatización, o asistencia en decisiones humanas, siempre y cuando sea verificado, es beneficioso para nuestro equipo. 
+
+Por lo tanto debemos evitar eliminar esa verificación humana cuando haya que tomar decisiones en el proyecto, el factor humano es clave para garantizar su calidad, precisión, y para evitar errores causados por la IA, deshaciéndonos de aquella dependencia que puede ser detrimente para la precisión y la calidad del proyecto.

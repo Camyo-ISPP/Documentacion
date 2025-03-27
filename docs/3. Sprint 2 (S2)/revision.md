@@ -30,8 +30,10 @@
 | --- | --- |
 | Adriana Vento Conesa | Redacción Comportamiento de Suscripciones |
 | Isabel Cantero Corchero | Redacción de Autenticación, registro, inicio de sesión, General, inicio, explorar ofertas y empresas, detalle de oferta y empresa, Camionero (perfil, mis ofertas), Empresa (perfil, mis ofertas) |
-
-
+| Lucía Pérez Gutiérrez  | Redacción de la funcionalidad de promocionar ofertas |
+| Raúl Heras Pérez  | Redacción de la funcionalidad de chat |
+| José Ramón Baños Botón | Redacción de la funcionalidad de reseñas y valoraciones |
+| Sonia María Rus Morales  | Redacción de la funcionalidad de suscripciones |
 # Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#1-resumen-ejecutivo)
@@ -58,8 +60,9 @@
    6.1 [Perfil de empresa](#61-perfil-de-empresa)  
    6.2 [Crear Oferta](#62-crear-oferta)  
    6.3 [Suscripciones](#63-suscripciones)  
-   6.4 [Chat](#64-chat)  
-   6.5 [Mis Ofertas](#65-mis-ofertas)  
+   6.4 [Promocionar Oferta](#64-promocionar-oferta)  
+   6.5 [Chat](#65-chat)  
+   6.6 [Mis Ofertas](#66-mis-ofertas)  
 
 7. [Reseñas](#7-reseñas)  
    7.1 [Reseñas empresas](#71-reseñas-empresas)  
@@ -72,6 +75,8 @@
 ## 1. Resumen Ejecutivo
 
 Este documento proporciona una guía detallada para revisar la aplicación web de *matchmaking* de camioneros. Incluye un mapeo explícito de los casos de uso (UC) a las interacciones en el software, datos necesarios para la revisión, requisitos del sistema y un enlace a la demostración.
+
+> **Nota:** es posible que ciertos aspectos visuales difieran de los mostrados en las capturas de este documento. Es importante recordar que este proyecto está en un proceso de mejora constante.
 
 ## 2. Datos para la Revisión
 
@@ -87,7 +92,7 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Url de la herramienta de seguimiento  | https://app.clockify.me/login |
 | Credenciales para la herramienta de seguimiento  | Email: [profesores.camyo@gmail.com](mailto:profesores.camyo@gmail.com)<br>Contraseña de la cuenta de google: Profesores.camyo!01 <br> Para acceder, hagan login con este email y recibirán un correo al correo con el código para acceder. |
 | Requisitos potenciales para usar el sistema | Ninguno. |
-| Url de la demo | [Reemplazar!] |
+| Url de la demo | https://youtu.be/rhS9mJMz4OA |
 | Usuario de Empresa (Camyo) | **Usuario:** emp_etsii1  **Contraseña:** etsiipass<br>**Usuario:** emp_etsii2  **Contraseña:** etsiipass |
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |
@@ -101,7 +106,7 @@ Pantalla inicial del registro donde el usuario debe elegir si se registrará com
 
 ![image](images/registro1.png)
 
-#### 3.1.2 Registro como camionero
+#### 3.1.1 Registro como camionero
 Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo.
 
 ![image](images/registro2.png)
@@ -127,17 +132,20 @@ Formulario para que usuarios registrados ingresen con su nombre de usuario y con
 ## 4. General
 
 ### 4.1 Página de inicio
-Visitante:
+
+**Visitante:**
 
 Pantalla principal para usuarios no autenticados, destacando el objetivo de la plataforma y mostrando ofertas recientes disponibles para explorar sin necesidad de iniciar sesión.
 
 ![image](images/home.png)
+![image](images/home-2.png)
+![image](images/home-3.png)
 
-Usuario registrado:
+**Usuario registrado:**
 
 Pantalla de bienvenida personalizada para usuarios registrados, con accesos rápidos al perfil y a vacantes, además de una lista de ofertas recientes divididas por tipo: carga y trabajo.
 
-![image](images/home2.png)
+![image](images/home-4.png)
 
 ### 4.2 Explorar y buscar ofertas
 
@@ -206,7 +214,6 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 <img src="images/chatcam.png">
 </p>
 
-
 ## 6. Empresas
 
 ### 6.1 Perfil de empresa
@@ -228,9 +235,9 @@ Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros d
 
 Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
 
-- **Suscripción Gratis**: Puedes tener hasta **1 oferta activa**.
-- **Suscripción Básica**: Puedes tener hasta **3 ofertas activas**.
-- **Suscripción Premium**: No hay límite en el número de ofertas activas.
+- **Suscripción Gratis**: Puedes tener hasta **1 oferta activa**. **No** se pueden promocionar ofertas.
+- **Suscripción Básica**: Puedes tener hasta **3 ofertas activas**. Se puede **promocionar 1 oferta**.
+- **Suscripción Premium**: No hay límite en el número de ofertas activas. No hay límite de promoción de ofertas.
 
 ### 6.3 Suscripciones
 
@@ -248,10 +255,19 @@ En la pantalla de perfil de empresa, verás un botón para crear una nueva ofert
 
 Pantalla donde las empresas pueden elegir entre tres planes: Gratis, Básico y Premium, con distintas capacidades para publicar ofertas de empleo según el nivel de suscripción.
 
-![image](images/suscripcion.png)
+![image](images/suscripciones.png)
 
+### 6.4 Promocionar Oferta
 
-### 6.4 Chat
+En el perfil de oferta se podrán ver las ofertas abiertas de las empresas, y en función del plan elegido se pondrá en disposición la posibilidad de promocionar una o varias ofertas.
+
+![{A65EA168-802A-4C21-9DAD-2229F2E718C9}](https://github.com/user-attachments/assets/33300bab-a28a-49a9-94dd-38dd821fca5a)
+![{AF644063-2EA6-4867-8162-4B62EA0D72FE}](https://github.com/user-attachments/assets/645be8f3-ec23-41f8-9dd1-ba596338e237)
+![{912305FD-41BC-4465-BCCC-A0536648E1C0}](https://github.com/user-attachments/assets/c95849b0-f5cb-4d65-90ec-7f40e6f348c3)
+![{F0746BA6-175E-44E2-8332-96C3D89CD76C}](https://github.com/user-attachments/assets/7f536a66-8892-4337-8ed2-6608f97b1404)
+![{E9148651-6596-4819-809D-2CE320397739}](https://github.com/user-attachments/assets/12a47bb5-791f-4081-9928-319051e8b21e)
+
+### 6.5 Chat
 Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
 
 <p align="center">
@@ -265,7 +281,7 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 </p>
 
 
-### 6.5 Mis Ofertas
+### 6.6 Mis Ofertas
 Listado de ofertas de trabajo o carga creadas por la empresa que han sido asignadas (abiertas) o no (cerrradas) a algún camionero.
 
 ![image](images/misofertasemp1.png)
