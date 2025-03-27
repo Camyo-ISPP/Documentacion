@@ -420,6 +420,18 @@
 - Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**  
+- Reestructuración del sistema de archivos del frontend.
+- Mejoras en la UI/UX de la plataforma web.
+- Implementación del control de acceso según rol y protección de rutas.
+- Implementación de la pantalla de "Mis Ofertas" tanto para perfil de camionero como de empresa.
+- Añadir casilla de verificación de términos y condiciones en registro.
+- Distinción entre perfiles de camionero y empresa público y privado.
+- Corrección de la visibilidad de botones según rol de usuario y permisos.
+- Resolución de muchos problemas de Frontend.
+- Revisión de pull requests.
+- Aseguró la calidad y mejoras finales del frontend.
+- Participó en todas las reuniones del equipo.
+
 
 **Chen, Sheng:**  
 
