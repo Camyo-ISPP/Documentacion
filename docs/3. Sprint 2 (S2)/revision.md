@@ -31,6 +31,9 @@
 | Adriana Vento Conesa | Redacción Comportamiento de Suscripciones |
 | Isabel Cantero Corchero | Redacción de Autenticación, registro, inicio de sesión, General, inicio, explorar ofertas y empresas, detalle de oferta y empresa, Camionero (perfil, mis ofertas), Empresa (perfil, mis ofertas) |
 | Lucía Pérez Gutiérrez  | Redacción de la funcionalidad de promocionar ofertas |
+| Raúl Heras Pérez  | Redacción de la funcionalidad de chat |
+| José Ramón Baños Botón | Redacción de la funcionalidad de reseñas y valoraciones |
+| Sonia María Rus Morales  | Redacción de la funcionalidad de suscripciones |
 # Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#1-resumen-ejecutivo)
@@ -89,7 +92,7 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Url de la herramienta de seguimiento  | https://app.clockify.me/login |
 | Credenciales para la herramienta de seguimiento  | Email: [profesores.camyo@gmail.com](mailto:profesores.camyo@gmail.com)<br>Contraseña de la cuenta de google: Profesores.camyo!01 <br> Para acceder, hagan login con este email y recibirán un correo al correo con el código para acceder. |
 | Requisitos potenciales para usar el sistema | Ninguno. |
-| Url de la demo | [Reemplazar!] |
+| Url de la demo | https://youtu.be/rhS9mJMz4OA |
 | Usuario de Empresa (Camyo) | **Usuario:** emp_etsii1  **Contraseña:** etsiipass<br>**Usuario:** emp_etsii2  **Contraseña:** etsiipass |
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |

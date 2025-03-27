@@ -29,8 +29,7 @@
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-------------------------------|-------------------------------|
 | Pedro Jiménez Guerrero        | Conversión de word a MD, estructura feedback Sprint 1 y caso de uso "ver listado oferta" (Sprint 1)         |
-| [Nombre Apellido]             | [Tipo de Contribución]        |
-| [Nombre Apellido]             | [Tipo de Contribución]        |
+| Francisco Pérez Manzano       | Añadir feedback del resto de casos de uso (Sprint 1)       |
 
 ## Tabla de Contenidos
 
@@ -128,7 +127,7 @@ De forma adicional, uno de los encuestados sugirió añadir un sistema de valora
 
 A fecha de la redacción de este documento, se han recibido 23 respuestas de lo usuarios piloto, y una puntuación media de 6,91
 
-### Caso de uso: Ver listado de ofertas
+### 1.1. Caso de uso: Ver listado de ofertas
 
 #### Feedback de prioridad crítica:
 
@@ -139,7 +138,7 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
         - Añadir paginación
 - La licencia mostrada en la preview no coincide con la que se muestra en los detalles de la oferta
     - Sugerencias de los usuarios:
-        - Se ha dado en un caso en el que la licencia era "C+E" y mostraba "C". Sugiere que esto se debe a que internamente la licencia se trata como "C_E" y esa "_" corte la vista de la licencia a mostrar.
+        - Se ha dado en un caso en el que la licencia era '*C+E*' y mostraba '*C*'. Sugiere que esto se debe a que internamente la licencia se trata como '*C_E*' y esa '*_*' corte la vista de la licencia a mostrar.
 
 #### Feedback de prioridad media:
 
@@ -150,7 +149,7 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
 - Uno de los usuarios piloto no sabía qué es Camyo
     - Añadir landing page para presentar e invitar a probar el producto
 - No quedaba claro qué indicaba el apartado de las licencias ya que sólo aparecía la letra
-    - Añadir el nombre de cada parámetro. P.ej: "Licencia mínima requerida: C"
+    - Añadir el nombre de cada parámetro. P.ej: '*Licencia mínima requerida: C*'
 - Indicar al lado del sueldo si es por mes, por día, por carga...
 - Las imágenes e iconos no aparecen
 - Sugerencias: 
@@ -162,19 +161,20 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
 #### Feedback de prioridad baja:
 
 - Que sea más atractivo visualmente
-    - Añadir un fondo al listado o a la página
+    - Sugerencias de usuario
+        - Añadir un fondo al listado o a la página
     - No se debe tener muy en cuenta ya que al resto de usuarios les ha parecido correcto el diseño
--  Referirnos a "territorio nacional" en vez de "nivel nacional"
+- Referirnos a '*territorio nacional*' en vez de '*nivel nacional*'
 - Que el dinero y el botón de solicitar no estén en el extremo derecho de la línea puede generar incomodidad visual.
-- En los chips donde se muestra información de la oferta (p.ej: "trabajo/carga", licencia "C") no está bien  centrado el texto.
+- En los chips donde se muestra información de la oferta (p.ej: 'trabajo/carga', licencia 'C') no está bien centrado el texto.
 
 #### Feedback positivo:
 
 - Funcionamiento correcto, claro e intuitivo.
 - Buena paleta de colores
-- Tamaño de letra adecuado, si acaso aumentar un poco la fuente del nombre de la oferta, p. ej. "Conductor de carga pesada"
+- Tamaño de letra adecuado, si acaso aumentar un poco la fuente del nombre de la oferta, p. ej. 'Conductor de carga pesada'
 
-### Caso de uso: Solicitar una oferta
+### 1.2. Caso de uso: Solicitar una oferta
 
 #### Feedback de prioridad crítica:
 
@@ -187,34 +187,37 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
         - Cambiar el estado del botón inmediatamente sin esperar al backend
         - Añadir confirmación al botón
         - Añadir notificación a cancelar
+
 - Es muy difuso el proceso de solicitar oferta
     - Sugerencias de usuarios:
         - Poder solicitar ofertas desde el listado
 
 #### Feedback de prioridad media:
 
-- La notificación al solicitar una oferta podría ser mejor (dando como recomendación de librería de terceros toastr)
-- Algunos de los iconos no cargaban (mostrando un cuadrado)
+- La notificación al solicitar una oferta podría ser mejor
+    - Sugerencias de usuarios:
+        - Usar la librería de terceros *Toastr*
+- Algunos de los iconos no cargaban, mostrando la imagen base de un ícono que no encuentra
 - Añadir a las aplicaciones un mensaje que el camionero pueda personalizar
 
 #### Feedback de prioridad baja:
 
-- El botón de cancelar oferta debería ser otro color
+- El botón de cancelar oferta debería ser de otro color
 
 #### Feedback positivo:
 
 - Buen uso de la paleta de colores en los botones para solicitar la oferta
 - La información esta bien posicionada.
 
-### Caso de uso: Registro de camionero
+### 1.3. Caso de uso: Registro de camionero
 
 #### Feedback de prioridad crítica:
 
 - Mejor Validación
     - Sugerencias de usuarios:
-        - Validación en frontend como en backend
+        - Validación en frontend y backend
         - Poner mejores restriciones a contraseña.
-        - Mínimo de carácteres
+        - Añadir un mínimo de carácteres
         - Hacer que te informe que datos están mal en la pantalla
         - Hacer una rueda de carga mientras
         - Poner placeholders para los campos
@@ -226,14 +229,14 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
 
 #### Feedback de prioridad baja:
 
-- El botón de mostrar contraseña no se muestra bien la foto.
-- En las opciones de ¿Tiene Cap?' o ¿Eres autónomo?, el botón debe ser del mismo color para las dos opciones.
+- El botón de mostrar contraseña no muestra bien el icono
+- En las opciones de '*¿Tiene Cap?*' o '*¿Eres autónomo?*', el botón debe ser del mismo color para las dos opciones
 
 #### Feedback positivo:
 
 - Bastantes usos de caso contemplados
 
-### Caso de uso: Publicar una oferta de empleo
+### 1.4. Caso de uso: Publicar una oferta de empleo
 
 #### Feedback de prioridad crítica:
 
@@ -245,11 +248,11 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
         - Revisar máximos y minimos de atributos
 - Fecha de incorporación puede ponerse en el pasado
 - No especifica que datos son obligatorios en el formulario
-- Al cambiar de 'TRABAJO' a 'CARGA' el valor de 'Fecha de incorporación' se pasa a 'Mercancía' y viceversa
+- Al cambiar de '*TRABAJO*' a '*CARGA*' el valor de '*Fecha de incorporación*' se pasa a '*Mercancía*' y viceversa
 
 #### Feedback de prioridad media:
 
-- Al crear una oferta, no aparece en el apartado 'Tus Ofertas'
+- Al crear una oferta, no aparece en el apartado '*Tus Ofertas*'*
 - Datos no coinciden entre pantallas
 
 #### Feedback de prioridad baja:
@@ -260,12 +263,12 @@ A fecha de la redacción de este documento, se han recibido 23 respuestas de lo 
 
 La oferta tienen suficientes datos para poder definirse bien
 
-### Caso de uso: Gestión (editar/eliminar) de ofertas publicadas
+### 1.5. Caso de uso: Gestión (editar/eliminar) de ofertas publicadas
 
 #### Feedback de prioridad crítica:
 
 - Mismos errores de validación que en publicación de ofertas, se aplican las mismas sugerencias.
-- A algunos usuarios las ofertas creadas no le aparecian en 'Tus Ofertas', por lo que han tenido que buscarlas en el listado.
+- A algunos usuarios las ofertas creadas no le aparecian en '*Tus Ofertas*', por lo que han tenido que buscarlas en el listado.
 - Sugerencias:
     - Añadir un botón de volver atras en la pantalla de editar/eliminar
     - Añadir confirmación a las dos acciones
@@ -274,19 +277,23 @@ La oferta tienen suficientes datos para poder definirse bien
 
 - Buen diseño para la gestión de ofertas
 - Interfaz sencilla para la gestión
-- LAs dos acciones funcionan sin problemas
+- Las dos acciones funcionan sin problemas
 
-### Caso de uso: Registro de empresa 
+### 1.6. Caso de uso: Registro de empresa 
 
  #### Feedback de prioridad crítica:
 
-- Errores similares de validación que en registro de camionero (Más restricciones, validación en backend y frontend, etc)
+- Errores similares de validación que en registro de camionero
+    - Sugerencias de usuarios:
+        - Añadir más restricciones
+        - Validación en backend y frontend
+        - Mostrar errores en formularios
 - Definir claramente en que campos falla el formulario
 - La imagen de perfil no parece cargar al haber elegido una
 
 #### Feedback positivo:
 
-- Bien visualmente
+- Atractivo visualmente
 
  
 
