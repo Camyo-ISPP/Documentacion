@@ -217,27 +217,38 @@ A continuación se presenta una tabla que incluye un ejemplo de cada perfil clav
 
 ## División de Grupos
 
-Cada grupo tiene un representante. 
+# Plan de Proyecto: División de Grupos y Tareas
 
-1. Redes sociales:
-    - Twitter
-    - Instagram
-    - Tiktok
-    - Linkedin
-2. Diseño:
-    - Folletos
-    - Posts Informativos
-    - Merchandising
-3. Logística:
-    - Imprimir
-    - Comunicaciones
-4. Anuncios:
-    - Grabar
-    - Editar
-    - Participar
-    - Escribir
+## 1. Grupo de Anuncios
+**Representante:** María  
+**Componentes:** Rubén, Sonia, Joserra, Carlos Ortiz
 
-Estos grupos trabajan en paralelo a los que ya tenemos (pilotos, presentación, frontend y backend).
+El Grupo de Anuncios se encargará de la creación y gestión de contenido audiovisual promocional, asegurando que los mensajes clave del proyecto sean transmitidos de manera efectiva. Entre sus principales responsabilidades se incluye la grabación, edición y postproducción de videos promocionales, así como la escritura y revisión de guiones técnicos y creativos. Además, colaborarán estrechamente con el equipo de Redes Sociales para adaptar el material a diferentes plataformas digitales, garantizando su coherencia y calidad. Este grupo también participará activamente en la planificación estratégica de las campañas publicitarias, supervisando la calidad final del contenido antes de su publicación. Su objetivo es maximizar el impacto visual y emocional de los anuncios, alineándolos con los objetivos generales del proyecto.
+
+---
+
+## 2. Grupo de Redes Sociales
+**Representante:** Carlos Martínez  
+**Componentes:** Raúl, Claudia, Sheng, Diego   
+
+El Grupo de Redes Sociales será responsable de gestionar y optimizar la presencia del proyecto en plataformas como Twitter, Instagram, TikTok y LinkedIn. Sus funciones incluyen la creación y actualización constante de perfiles institucionales, el diseño de calendarios editoriales para asegurar la consistencia en las publicaciones, y la implementación de campañas específicas adaptadas a cada plataforma. Asimismo, este equipo interactuará directamente con la audiencia, respondiendo comentarios, mensajes y retroalimentación para fomentar un vínculo cercano con los seguidores. Además, realizarán un monitoreo continuo de métricas clave, como engagement y alcance, para ajustar estrategias según sea necesario. También colaborarán estrechamente con el equipo de Diseño para garantizar que el contenido visual sea atractivo y coherente con la identidad del proyecto. Su objetivo principal es maximizar la visibilidad y el impacto del proyecto en el entorno digital.
+
+
+## 3. Grupo de Diseño
+**Representante:** Isabel  
+**Componentes:** Adriana, Pedro, Lucía  
+
+El Grupo de Diseño tendrá la misión de crear contenido gráfico de alta calidad que refuerce la identidad visual del proyecto. Sus responsabilidades abarcan el diseño de materiales informativos impresos, como folletos y banners, así como la creación de posts gráficos para redes sociales. Además, desarrollarán elementos de merchandising (camisetas, stickers, etc.) que permitan promover el proyecto de manera tangible. Este equipo también colaborará con el Grupo de Anuncios para integrar elementos visuales en videos y otros formatos multimedia, asegurando una coherencia estética en todos los canales de comunicación. Finalmente, trabajarán en estrecha coordinación con el equipo de Logística para garantizar que los materiales impresos cumplan con los estándares de calidad requeridos. Su objetivo es generar contenido visualmente impactante que refuerce los valores y mensajes clave del proyecto.
+
+
+## 4. Grupo de Logística
+**Representante:** Francisco  
+**Componentes:** Yao  
+
+El Grupo de Logística será el encargado de garantizar el correcto funcionamiento operativo del proyecto. Sus funciones incluyen la coordinación de comunicaciones internas entre todos los grupos, asegurando que la información fluya de manera eficiente y sin contratiempos. Además, gestionarán la impresión de materiales físicos, como folletos y posters, y organizarán eventos o campañas presenciales, asegurando que todos los recursos necesarios estén disponibles en el momento adecuado. Este equipo también será responsable de supervisar el envío y distribución de merchandising, así como de mantener un inventario actualizado de recursos disponibles. En caso de surgir problemas operativos durante la ejecución del proyecto, este grupo actuará como punto de contacto para resolverlos de manera rápida y eficiente. Su objetivo es garantizar que todas las actividades logísticas se realicen sin interrupciones, respaldando el éxito global del proyecto.
+
+
+Este enfoque estructurado garantiza una cobertura integral de todas las áreas del proyecto, optimizando la eficiencia y maximizando las probabilidades de cumplir con los objetivos dentro de los plazos establecidos. Además, estos grupos operan de manera paralela e independiente a los equipos ya existentes (pilotos, presentación, frontend y backend), asegurando una sinergia efectiva entre todos los frentes de trabajo.
 
 ## Plan de Precios
 
