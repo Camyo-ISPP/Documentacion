@@ -168,6 +168,21 @@ Entre otros valores a destacar son el máximo y el mínimo de prompts y chats us
 
 También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodaciumAI o Copilot.
 
+### Sprint 3 
+
+Esta sección contendrá los usos de IA en el entregable del sprint 3 además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. Esta sección a su vez contendrá una sección que establecerá el proceso de decisión seguido sobre que IA utilizar para la solicitudes de cambios de las ramas.
+
+#### Usos genéricos
+Como otros sprints, , nos encontramos los usos convencionales en los que suelen usar la IA, encontrando entre estos refactorización de código, autorrellenado de código, búsqueda de errores y el uso del bot de analisis de pull requests.
+
+#### Claudette
+
+Para asegurar que nuestros terminos y servicios no fueran abusivos para nuestros clientes, usamos la herramienta IA Claudette, cuyo objetivo principal es la busqueda de clausulas abusivas en la política y términos de una compañia.
+
+#### Ayuda para Configuración de AdSense
+
+En este sprint nuestro equipo implementó los anuncios en la página web, en cuyo proceso se uso como ayuda menor la IA y la documentación de Adsense como principal, así implementando de forma más eficiente los anuncios.
+
 ## 5. Alucinaciones de IA 
 
 Dado el impacto que puede tener la fiabilidad de la IA en el desarrollo del proyecto, hemos decidido analizar la tasa de alucinaciones observadas durante los sprints. Este análisis nos permite comprender mejor la precisión de las respuestas de la IA y tomar decisiones sobre su uso en el futuro.
@@ -243,7 +258,7 @@ En este sprint, a diferencia del anterior, se estableció el concepto de contabi
 
 Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 37.4% de errores medio. Este valor se aproxima exactamente a la estimación que hicimos sobre el sprint anterior, aunque debemos reducir este porcentaje para entregables fututos si queremos un uso productivo de la IA, ya que un 37% puede implicar un malgasto de uso de nuestro tiempo en intentar resolver aquellas alucinaciones que la IA nos presenta.
 
-#### Autorrellenado y CodaciumAI
+#### Autorrellenado y Codiu
 
 - Respuestas de Miembros que hayan usado otras herramientas sobre el porcentaje de alucinaciones
 
