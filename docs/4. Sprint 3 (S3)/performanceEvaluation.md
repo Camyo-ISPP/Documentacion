@@ -568,6 +568,11 @@
 #### Sprint 3 (#S3)
 
 **Baños Botón, José Ramón:**  
+- Participó en la implementación de frontend de las notificaciones del chat.
+- Participó en el primer anuncio de mitad del sprint 3.
+- Participó en la implementación de frontend de los borradores.
+- Participó en el documento revision.md.
+- Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**  
 
