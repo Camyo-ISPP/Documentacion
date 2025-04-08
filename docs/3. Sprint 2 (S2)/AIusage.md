@@ -146,7 +146,7 @@ De forma similar al primer sprint, se hizo una encuesta para determinar el uso d
 
 Como en el sprint anterior tenemos a 2 personas en el grupo aún no utilizando IA para ningún motivo en el desarrollo del proyecto.
 
-En las herramientas más utilizadas se destacan ChatGPT, Copilot y CodiumAI, con el primero llegando a ser usado por 11 personas y las otra herramientas siendo utilizadas por 8 respectivamente. Otras opciones menos usadas tenemos a DeepSeek y Qwen AI con 4 y 3 personas respectivamente que hayan usado estas herramientas.
+En las herramientas más utilizadas se destacan ChatGPT, Copilot y CodaciumAI, con el primero llegando a ser usado por 11 personas y las otra herramientas siendo utilizadas por 8 respectivamente. Otras opciones menos usadas tenemos a DeepSeek y Qwen AI con 4 y 3 personas respectivamente que hayan usado estas herramientas.
 
 Y, esta vez, más gente del equipo se ha decantado para utilizar Copilot, pasando de 3 personas en el sprint anterior a 8 en segundo sprint, siendo utilizada principalmente como ayuda en Visual Studio Code.
 
@@ -166,58 +166,7 @@ Entre otros valores a destacar son el máximo y el mínimo de prompts y chats us
 
 ##### Otras herramientas IA
 
-También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodiumAI o Copilot.
-
-### Sprint 3 
-
-Esta sección contendrá los usos de IA en el entregable del sprint 3 además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. Esta sección a su vez contendrá una sección que establecerá el proceso de decisión seguido sobre que IA utilizar para la solicitudes de cambios de las ramas.
-
-#### Usos genéricos
-Como otros sprints, , nos encontramos los usos convencionales en los que suelen usar la IA, encontrando entre estos refactorización de código, autorrellenado de código, búsqueda de errores y el uso del bot de analisis de pull requests.
-
-#### Claudette
-
-Para asegurar que nuestros terminos y servicios no fueran abusivos para nuestros clientes, usamos la herramienta IA Claudette, cuyo objetivo principal es la busqueda de clausulas abusivas en la política y términos de una compañia.
-
-#### Ayuda para Configuración de AdSense
-
-En este sprint nuestro equipo implementó los anuncios en la página web, en cuyo proceso se uso como ayuda menor la IA y la documentación de Adsense como principal, así implementando de forma más eficiente los anuncios.
-
-#### CodiumAI / Github Copilot
-
-A lo largo del desarrollo del proyecto salió la duda sobre que IA se pueden implementar en una pull request, dando como dos opciones principales CodiumAI y GitHub Copilot.
-
-Lo primero destacaremos la funcionalidades y aspectos positivos de cada una de estas herramientas IA, luego sus aspectos negativos, y finalmente pasaremos una conclusión donde se explicará la elección por parte del equipo.
-
-**Funcionalidades**
-
-CodiumAI o QodoAI es una herramienta de código abierto cuyo objetivo es ayudar a los desarrollares revisar solicitudes de cambios de ramas de forma más rápida y eficiente. Las opciones que actualmente usamos de esta herramienta en una pull request son:
-
-- **Resumen de cambios**: Contiene descripciones y archivos modificados en la rama.
-
-- **Guia de revisor**: Contiene una dificultad estimada por parte de la IA para revisar la rama, asi como la denotación posibles areas de interés a la hora de realizar la revisión. Estas areas de interes son tests, problemas de seguridad y areas sugeridas por la IA para revisión.
-
-- **Sugerencias de código**: Contiene algunas sugerencias, ya sea por errores o recomendaciones generales para aplicarlas a la rama. Es importante notar de que se debe tener cuidado con esta sección a la hora de tocar archivos de configuración, ya que ha resultado en dos errores por parte de CodiumAI.
-
-- **Gratis**: Esta heramienta, o, al menos, las funcionalidades de las que se establecen aqui forman parte de la versión gratis de bot, lo que nos permite ahorrar en gasto de software para nuestro equipo.
-
-GitHub Copilot es una herramienta de IA de código cerrado cuyo objetivo es similar a CodiumAI; ayuda a los desarrolladores de código a escribir código de forma más eficiente. Esta nos es la funcionalidad que nosotros vamos a comparar, sino su funcionalidad de manejo de solicitudes de cambio de ramas, cuya características principales son:
-
-- **Resumen de cambios**: Contiene descripciones y archivos modificados en la rama, con enlaces a aquellas líneas de código modificadas.
-
-- **Revisión Automática**: Permite a GitHub Copilot automaticamente revisar una pull request por si misma, organizando los cambios que ha hecho por confianza. Enseña los cambios que haría en una solicitud de cambios de rama, los cuales deben de ser aprobados y revisados por una persona.
-
-**Puntos Negativos**
-
-Un problema que muestran principalmente las dos herramientas es su enjque local que se aplica solo a aquellos archivos modificados en una rama, pudiendo generar fallos al focalizar los problemas en un solo archivo.
-
-Un problema que resulta problemático para la gestión de GitHub Copilot y su inabilidad de automatización del resumen, ya que gran parte de las funciones de Copilot requieren de input humano para generar resumenes y sugerencias de código. Esto se podría aún asi arreglar con un workflow con GitGub Actions que se encarge de añadir el resumen, asi que no es un problema grave.
-
-El mayor problema que muestra Github Copilot a la hora de hacer resumen es su inabilidad de poder usarse con el plan gratuito de GitHub Copilot, requiriendo el plan PRO para poder crear resumenes. Este plan, aunque siendo gratis para nosotros al ser estudiantes de la universidad de Sevilla, es una versión con enfoque individual, y no se puede utilizar eficientemente en una orgnación, ya que todos los integrantes del equipo deberían tener el plan en PRO para que se pudiera manejar de forma eficaz.
-
-**Conclusión**
-
-Como conclusión, continuaremos con el uso del bot de CodiumAI para nuestro proceso de gestión de solicitudes de cambios de ramas debido a su manejo más simple y enfocado a un entorno de organización, siendo el más compatible con el presupuesto actual del equipo. Debe tenerse en cuenta de que esta opción no es definitiva, y podrá modificarse en futuras entregas, de lo cual se informará si es debido.
+También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodaciumAI o Copilot.
 
 ## 5. Alucinaciones de IA 
 
@@ -294,7 +243,7 @@ En este sprint, a diferencia del anterior, se estableció el concepto de contabi
 
 Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 37.4% de errores medio. Este valor se aproxima exactamente a la estimación que hicimos sobre el sprint anterior, aunque debemos reducir este porcentaje para entregables fututos si queremos un uso productivo de la IA, ya que un 37% puede implicar un malgasto de uso de nuestro tiempo en intentar resolver aquellas alucinaciones que la IA nos presenta.
 
-#### Autorrellenado y CodiumAI
+#### Autorrellenado y CodaciumAI
 
 - Respuestas de Miembros que hayan usado otras herramientas sobre el porcentaje de alucinaciones
 
@@ -317,7 +266,7 @@ Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un t
 
 Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 19.48% de errores medio. Este valor ha aumentado de forma considerable respecto a la ultima vez donde consideramos que hubo 1 error en las 57 pull requests que se hicieron en el primer sprint, eso si, esta sección considera también los usos de copilot de autorellenado de visual studio code, que ocupan un total de 14 de 15 errores encontrados, que se debían a un código autorrellenado que no aportaba nada que quisiera el miembro o otorgaba la solución necesaria.
 
-Una vez dicho esto podemos saber que este sprint hubo otro error de CodiumAI en una pull request que modificaba archivos de configuración, en la que aportaba una sugerencia que desmantelaba la estructura de la aplicación y producía que fallara todo la rama principal al fusionar las ramas. Para próximos entregables, analizaremos las sugerencias de CodiumAI en archivos de configuración o archivos claves en la estructura de proyecto para evitar estos errores.
+Una vez dicho esto podemos saber que este sprint hubo otro error de CodaciumAI en una pull request que modificaba archivos de configuración, en la que aportaba una sugerencia que desmantelaba la estructura de la aplicación y producía que fallara todo la rama principal al fusionar las ramas. Para próximos entregables, analizaremos las sugerencias de CodaciumAI en archivos de configuración o archivos claves en la estructura de proyecto para evitar estos errores.
 
 ## 6. Lecciones aprendidas
 
