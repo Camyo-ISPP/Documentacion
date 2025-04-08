@@ -44,6 +44,16 @@
    - [Caso de uso: Gestión (editar/eliminar) de ofertas publicadas ](#caso-de-uso-gestión-editareliminar-de-ofertas-publicadas)
    - [Caso de uso: Registro de empresa](#caso-de-uso-registro-de-empresa)
 4. [Sprint 2](#sprint-2)
+   - [1.1. En general](#11-en-general)
+   - [1.2. Ver listado de ofertas recientes y filtrado de ofertas](#12-caso-de-uso-ver-listado-de-ofertas-recientes-y-filtrado-de-ofertas)
+   - [1.3. Ver detalles de empresa](#13-ver-detalles-de-empresa)
+   - [1.4. Iniciar chats](#14-iniciar-chats)
+   - [1.5. Ver mis ofertas](#15-ver-mis-ofertas)
+   - [1.6. Hacer una reseña](#16-hacer-una-reseña)
+   - [1.7 Publicar oferta de empleo](#17-publicar-oferta-de-empleo)
+   - [1.8 Patrocinar o cancelar patrocinio de oferta](#18-patrocinar-o-cancelar-patrocinio-de-oferta)
+   - [1.9 Sistema de suscripciones](#19-sistema-de-suscripciones)
+   - [1.10 Gestionar (aceptar/rechazar) camioneros](#110-gestionar-aceptarrechazar-camioneros)
 5. [Sprint 3](#sprint-3)
 
 ## Introducción
