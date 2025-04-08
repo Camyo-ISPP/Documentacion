@@ -146,7 +146,7 @@ De forma similar al primer sprint, se hizo una encuesta para determinar el uso d
 
 Como en el sprint anterior tenemos a 2 personas en el grupo aún no utilizando IA para ningún motivo en el desarrollo del proyecto.
 
-En las herramientas más utilizadas se destacan ChatGPT, Copilot y CodaciumAI, con el primero llegando a ser usado por 11 personas y las otra herramientas siendo utilizadas por 8 respectivamente. Otras opciones menos usadas tenemos a DeepSeek y Qwen AI con 4 y 3 personas respectivamente que hayan usado estas herramientas.
+En las herramientas más utilizadas se destacan ChatGPT, Copilot y CodiumAI, con el primero llegando a ser usado por 11 personas y las otra herramientas siendo utilizadas por 8 respectivamente. Otras opciones menos usadas tenemos a DeepSeek y Qwen AI con 4 y 3 personas respectivamente que hayan usado estas herramientas.
 
 Y, esta vez, más gente del equipo se ha decantado para utilizar Copilot, pasando de 3 personas en el sprint anterior a 8 en segundo sprint, siendo utilizada principalmente como ayuda en Visual Studio Code.
 
@@ -166,7 +166,7 @@ Entre otros valores a destacar son el máximo y el mínimo de prompts y chats us
 
 ##### Otras herramientas IA
 
-También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodaciumAI o Copilot.
+También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodiumAI o Copilot.
 
 ### Sprint 3 
 
@@ -281,7 +281,7 @@ Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un t
 
 Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 19.48% de errores medio. Este valor ha aumentado de forma considerable respecto a la ultima vez donde consideramos que hubo 1 error en las 57 pull requests que se hicieron en el primer sprint, eso si, esta sección considera también los usos de copilot de autorellenado de visual studio code, que ocupan un total de 14 de 15 errores encontrados, que se debían a un código autorrellenado que no aportaba nada que quisiera el miembro o otorgaba la solución necesaria.
 
-Una vez dicho esto podemos saber que este sprint hubo otro error de CodaciumAI en una pull request que modificaba archivos de configuración, en la que aportaba una sugerencia que desmantelaba la estructura de la aplicación y producía que fallara todo la rama principal al fusionar las ramas. Para próximos entregables, analizaremos las sugerencias de CodaciumAI en archivos de configuración o archivos claves en la estructura de proyecto para evitar estos errores.
+Una vez dicho esto podemos saber que este sprint hubo otro error de CodiumAI en una pull request que modificaba archivos de configuración, en la que aportaba una sugerencia que desmantelaba la estructura de la aplicación y producía que fallara todo la rama principal al fusionar las ramas. Para próximos entregables, analizaremos las sugerencias de CodiumAI en archivos de configuración o archivos claves en la estructura de proyecto para evitar estos errores.
 
 ## 6. Lecciones aprendidas
 
