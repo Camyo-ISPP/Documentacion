@@ -44,9 +44,11 @@
     - [Devising a Project](#devising-a-project)  
     - [Sprint 1](#sprint-1) 
     - [Sprint 2](#sprint-2)
+    - [Sprint 3](#sprint-3)
 5. [Alucinaciones de IA](#5-alucinaciones-de-ia)
     - [Sprint 1](#sprint-1-1)
     - [Sprint 2](#sprint-2-1)
+    - [Sprint 3](#sprint-3-1)
 6. [Lecciones Aprendidas](#6-lecciones-aprendidas)
 
 
@@ -219,6 +221,33 @@ El mayor problema que muestra Github Copilot a la hora de hacer resumen es su in
 
 Como conclusión, continuaremos con el uso del bot de CodiumAI para nuestro proceso de gestión de solicitudes de cambios de ramas debido a su manejo más simple y enfocado a un entorno de organización, siendo el más compatible con el presupuesto actual del equipo. Debe tenerse en cuenta de que esta opción no es definitiva, y podrá modificarse en futuras entregas, de lo cual se informará si es debido.
 
+#### Encuesta Sprint 3
+
+De forma similar a los dos sprints anteriores, se hizo una encuesta para determinar el uso de IA durante el sprint, con una estructura enfocada en las alucinaciones de IA y sobre las mejoras respecto a los errores cometidos por la IA en el sprint anterior.
+
+A diferencia del sprint anterior, esta vez hemos tenido a 4 personas que no han usado IA de ningún motivo durante este sprint y para profundizar más sobre las razones de esto, se les hizo una pequeña pregunta donde podían opcionalmente poner sus opiniones sobre la misma. Los motivos principales encontrados sobre el uso de IA es la preocupación a desarrollar una dependencia en la IA, eliminando el razonimiento crítico al desarrollar código o hacer cualquier tipo de tareas.
+Como en el sprint anterior tenemos a 2 personas en el grupo aún no utilizando IA para ningún motivo en el desarrollo del proyecto.
+
+Herramientas de IA son las mismas de Sprints anteriores, aunque reduciéndose el uso de las herramientas al haber menos personas usando de IA en el proyecto, habiendo 9 personas usando ChatGPT, una reducción sustancial de Copilot y CodiumAI, habiendo 4 personas en ambas usandolos, y Deepseek como Qwen AI con los mismos usos que el sprint anterior, siendo utilizado por 4 y 3 personas.
+
+##### Chatbots
+
+Lo primero que se pregunto en la encuesta es sobre uso de Chatbots, obteniendo de cada miembro el numero de chats y prompts que hayan abierto a lo largo del tercer sprint. En este sprint se mostro una reducción substancial por parte del equipo sobre la IA, muy presente en los resultados.
+
+En los resultados obtenidos, se contabilizaron un total de 147 prompts en total, comprimidos en un total de 38 chats, dándonos una proporción de 3.86 prompts por chat abierto, una diferencia de uso bastante alta respecto al sprint anterior, pudiendo asumir una cierta reducción de dependencia de usar herramientas IA en el proyecto.
+
+\(Prompts/chat=147/38=3,58\) _Prompts por chat_
+
+Entre otros valores a destacar son el máximo y el mínimo de prompts y chats usados por el equipo, sin contar a aquellos integrantes que no hayan usado IA, que han sido reducidos de forma considerable respecto al último sprint, especialmente los máximos.
+
+| Máximo prompts  | Minimo prompts | Máximo chats | Mínimo chats |
+|-----------------|----------------|--------------|--------------|
+| 50              | 2              | 20           |   1          |
+
+##### Otras herramientas IA
+
+También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 29 recomendaciones o fragmentos de código generados por IA, siendo utilizado menos por el equipo.
+
 ## 5. Alucinaciones de IA 
 
 Dado el impacto que puede tener la fiabilidad de la IA en el desarrollo del proyecto, hemos decidido analizar la tasa de alucinaciones observadas durante los sprints. Este análisis nos permite comprender mejor la precisión de las respuestas de la IA y tomar decisiones sobre su uso en el futuro.
@@ -230,6 +259,7 @@ Algunos de los errores que tuvo el equipo de proyecto con el uso de IA incluyen:
 - Generación de código erróneo (Java, Json, JavaScript, etc.)
 - Desajuste de elementos en el código, destacando un cambio realizado por el bot de pull request que modificó la estructura del modelo Usuario, haciendo que fallará la tabla y el sistema de login.
 - Repetición de errores tras informe del error.
+- Información mal recopilada o errónea
 
 ### Sprint 1 
 
@@ -318,6 +348,59 @@ Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un t
 Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 19.48% de errores medio. Este valor ha aumentado de forma considerable respecto a la ultima vez donde consideramos que hubo 1 error en las 57 pull requests que se hicieron en el primer sprint, eso si, esta sección considera también los usos de copilot de autorellenado de visual studio code, que ocupan un total de 14 de 15 errores encontrados, que se debían a un código autorrellenado que no aportaba nada que quisiera el miembro o otorgaba la solución necesaria.
 
 Una vez dicho esto podemos saber que este sprint hubo otro error de CodiumAI en una pull request que modificaba archivos de configuración, en la que aportaba una sugerencia que desmantelaba la estructura de la aplicación y producía que fallara todo la rama principal al fusionar las ramas. Para próximos entregables, analizaremos las sugerencias de CodiumAI en archivos de configuración o archivos claves en la estructura de proyecto para evitar estos errores.
+
+### Sprint 3
+
+De forma similar al sprint 2, la encuesta recopiló errores y alucinaciones de la IA, esta vez preguntando al grupo si pensaban que habían mejorado su uso de la IA. Como siempre, estos resultados serán comparados con el sprint anterior para decir con certeza si nuestro uso de IA ha mejorado respecto a alucinaciones y asi tener un flujo de trabajo más eficiente.
+
+#### ChatBots
+
+- Respuestas de Miembros que hayan usado Chatbots sobre el porcentaje de alucinaciones
+
+| Prompts |Alucinaciones| %     |
+|---------|-------------|-------|
+| 4       |    0        | 0%    |
+| 2       | 0           | 0%    | 
+| 50      | 25          | 50%   |
+|  12     | 5           | 41.7% |
+| 7       | 2           | 28.5% |
+| 6       | 2           | 33.3% |
+| 2       | 0           | 0%    |
+| 2       | 1           | 50%   |
+| 28      | 13          | 46%   |
+| 24      | 4           | 16.7% |
+| 10      | 1           | 10%   |
+
+
+**Media de alucinaciones ponderada**
+
+Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 36% de errores medio. Aunque según los resultados, tengamos objetivamente casi el mismo porcentaje que el sprint anterior, esto se debe a las tasas más altas de errores de los miembros que han utilizado más la IA, si hacemos una media general de los errores sin tener en cuenta las prompts realizadas por cada persona, obtenemos que de media hay un 25.1% de errores por persona, un valor mucho más reducido que el de una media ponderada. Aún así tendremos más en cuenta la media ponderada al reflejar con mejor exactitud cuantos errores tenemos por prompts hechas por el equipo.
+
+Para seguir bajando nuestra tasa de errores, continuaremos utilizando aquellas lecciones definidas al final de este reporte.
+
+#### Autorrellenado y CodiumAI
+
+- Respuestas de Miembros que hayan usado otras herramientas sobre el porcentaje de alucinaciones
+
+| Usos| Errores | %     |
+|-----|---------|-------|
+| 10  |    0    | 0%    |
+| 10  | 0       | 0%    |
+| 2   |   0     | 0%    |
+| 2   | 0       | 0%    |
+|  2  | 0       | 0%    |
+| 2   | 0       | 0%    |
+| 1   | 0       | 0%    |
+
+**Media de alucinaciones ponderada**
+
+Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 0% de errores medio. Este valor se debe a una combinación de un menor uso del autorrellenado y sugerencias de estas heramientas, asi como de un proceso más definido para evitar errores de ambas partes.
+
+#### Opinión del equipo
+
+Según un 57% de los encuestados que usan IA, se considerá que ha habido una mejora respecto a su uso de IA en el último sprint, centrado en el objetivo de reducir las alucinaciones al máximo posible.
+
+Para mejorar y conseguir esto, el equipo seguirá aplicando metodologías sobre herramientas para reducir el número de alucinaciones que obtenemos en nuestro proyecto, y asi, mejorando nuestra productividad.
 
 ## 6. Lecciones aprendidas
 
