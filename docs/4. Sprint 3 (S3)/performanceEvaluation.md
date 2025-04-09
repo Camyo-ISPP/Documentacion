@@ -628,6 +628,14 @@
 
 **García Martínez, Carlos:**
 
+- Participó en todas las reuniones organizadas.
+- Implementó el sistema de encripción de datos.
+- Participó en el primer anuncio.
+- Participó en el segundo anuncio.
+- Realizó múltiples hotfixes pedidos por compañeros de frontend.
+- Participó en el documento de planificación del PPL.
+- Arreglo y comprobó cobertura de tests
+
 **García Ortíz, Carlos:**
 
 - Preparó la tercera prueba de usuarios pilotos.
