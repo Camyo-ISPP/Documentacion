@@ -623,6 +623,16 @@
 - Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**
+- Revisó pull requests.
+- Realizó múltiples correcciones y mejoras, resolviendo diversos problemas en el Frontend.
+- Mejoró la interfaz visual (UI) de varias pantallas (login, registro, listado de empresas, explorar, mis ofertas).
+- Optimizó la experiencia de usuario (UX) mediante la implementación de medidas de feedback visual, colores y botones intuitivos.
+- Desarrolló componentes reutilizables como modales, listados de ofertas, indicadores de carga, entre otros.
+- Implementó el panel de administrador.
+- Aseguró la calidad y mejoras finales del frontend.
+- Grabó los anuncios para las 2 semanas + recortó y exportó los videos.
+- Añadió la funcionalidad para eliminar cuentas de usuario.
+- Participó en todas las reuniones del equipo.
 
 **Chen, Sheng:**
 
