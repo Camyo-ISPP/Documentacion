@@ -626,6 +626,13 @@
 
 **Chen, Sheng:**
 
+- Implementó los tests de la funcionalidad de oferta, tanto de controlador como de service.
+- Participó en todas las reuniones organizadas.
+- Participó en una refactorización de la funcionalidad de oferta y sus controladores/servicios.
+- Participó en la solución de errores presentes en algunos tests.
+- Revisó pull requests.
+- Comprobó la cobertura de algunos tests.
+
 **García Martínez, Carlos:**
 
 - Participó en todas las reuniones organizadas.
