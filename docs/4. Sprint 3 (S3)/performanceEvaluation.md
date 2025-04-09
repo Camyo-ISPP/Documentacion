@@ -596,6 +596,14 @@
 
 **Pérez Vargas, Diego José:**
 
+- Realizó la implementación de validaciones semánticas para DNI/NIF y números de teléfono y validación sintáctica para archivos y nombres de usuario.
+- Integró la pasarela de pago con la promoción de ofertas y la eliminación de anuncios en el frontend.
+- Revisó pull requests.
+- Participó en la solución de errores en algunos tests.
+- Informó de un problema de seguridad con las contraseñas y lo solucionó.
+- Participó en el documento revision.md.
+- Participó en todas las reuniones del equipo.
+
 **Rodríguez Millán, María Cristina:**  
 
 **Rus Morales, Sonia María:**  
