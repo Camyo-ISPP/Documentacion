@@ -29,6 +29,7 @@
 | Nombre(s) y Apellido(s) | Tipo de Contribución |
 | --- | --- |
 | Placeholder | Placeholder |
+| José Ramón Baños Botón | Notificaciones y Borradores |
 
 # Tabla de Contenidos
 
@@ -226,6 +227,20 @@ Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros d
 ![image](images/crearoferta1.png)
 ![image](images/crearoferta2.png)
 
+Además, hay un botón para poder guardar borradores de las ofertas. 
+
+<p align="center">
+<img src="images/Guardar Borrador.png">
+</p>
+
+En la pantalla de "Mis Ofertas" en "Borradores" podremos ver los borradores que se han creado.
+
+<p align="center">
+<img src="images/Borradores.png">
+</p>
+
+
+
 Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
 
 - **Suscripción Gratis**: Puedes tener hasta **1 oferta activa**. **No** se pueden promocionar ofertas.
@@ -271,6 +286,11 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 
 <p align="center">
 <img src="images/chatemp.png">
+</p>
+
+En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente. 
+<p align="center">
+<img src="images/Notificaciones.png">
 </p>
 
 
