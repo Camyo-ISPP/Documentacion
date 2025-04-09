@@ -26,45 +26,48 @@
 
 ### Contribuciones del Equipo
 
-| Nombre(s) y Apellido(s)       | Tipo de Contribución          |
-|-------------------------------|-------------------------------|
-| Todos los Miembros             | Redacción de sus Contribuciones        |
+| Nombre(s) y Apellido(s) | Tipo de Contribución            |
+| ----------------------- | -------------------------------- |
+| Todos los Miembros      | Redacción de sus Contribuciones |
 
 ## Tabla de Contenidos
 
 1. [Agreed Individual Performance Evaluation ](#agreed-individual-performance-evaluation)
 2. [Individual Contribution Summary](#individual-contribution-summary)
-    - [Devising a Project (#DP1)](#devising-a-project-dp1)
-    - [Sprint 1 (#S1)](#sprint-1-s1)
-    - [Sprint 2 (#S2)](#sprint-2-s2)
+   - [Devising a Project (#DP1)](#devising-a-project-dp1)
+   - [Sprint 1 (#S1)](#sprint-1-s1)
+   - [Sprint 2 (#S2)](#sprint-2-s2)
 
-### Agreed Individual Performance Evaluation  
-**Date:** 18/02/2025  
+### Agreed Individual Performance Evaluation
 
-| Student | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
-|---------|------|-----|-----|-----|------|------|--------------|
-| Baños Botón, José Ramón | 10 | 10 | 10 | | | | 10 |
-| Bruni, Martina | 10 | 10 | 10 | | | | 10 |
-| Cantero Corchero, Isabel | 10 | 10 | 10 | | | | 10 |
-| Chen, Sheng | 10 | 10 | 10 | | | | 10 |
-| García Martínez, Carlos | 10 | 10 | 10 | | | | 10 |
-| García Ortíz, Carlos | 10 | 10 | 10 | | | | 10 |
-| Heras Pérez, Raúl | 10 | 10 | 10 | | | | 10 |
-| Jiménez Guerrero, Pedro | 10 | 10 | 10 | | | | 10 |
-| Meana Iturri, Claudia | 10 | 10 | 10 | | | | 10 |
-| Pérez Garrido, Rubén | 10 | 10 | 10 | | | | 10 |
-| Pérez Gutiérrez, Lucía | 10 | 10 | 10 | | | | 10 |
-| Pérez Manzano, Francisco | 10 | 10 | 10 | | | | 10 |
-| Pérez Vargas, Diego José | 10 | 10 | 10 | | | | 10 |
-| Rodríguez Millán, María Cristina | 10 | 10 | 10 | | | | 10 |
-| Rus Morales, Sonia María | 10 | 10 | 10 | | | | 10 |
-| Vento Conesa, Adriana | 10 | 10 | 10 | | | | 10 |
-| Yao, Jun | 10 | 10 | 10 | | | | 10 |
+**Date:** 18/02/2025
 
-### Individual Contribution Summary  
+| Student                             | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
+| ----------------------------------- | ---- | --- | --- | --- | ---- | ---- | ------------ |
+| Baños Botón, José Ramón         | 10   | 10  | 10  |     |      |      | 10           |
+| Bruni, Martina                      | 10   | 10  | 10  |     |      |      | 10           |
+| Cantero Corchero, Isabel            | 10   | 10  | 10  |     |      |      | 10           |
+| Chen, Sheng                         | 10   | 10  | 10  |     |      |      | 10           |
+| García Martínez, Carlos           | 10   | 10  | 10  |     |      |      | 10           |
+| García Ortíz, Carlos              | 10   | 10  | 10  |     |      |      | 10           |
+| Heras Pérez, Raúl                 | 10   | 10  | 10  |     |      |      | 10           |
+| Jiménez Guerrero, Pedro            | 10   | 10  | 10  |     |      |      | 10           |
+| Meana Iturri, Claudia               | 10   | 10  | 10  |     |      |      | 10           |
+| Pérez Garrido, Rubén              | 10   | 10  | 10  |     |      |      | 10           |
+| Pérez Gutiérrez, Lucía           | 10   | 10  | 10  |     |      |      | 10           |
+| Pérez Manzano, Francisco           | 10   | 10  | 10  |     |      |      | 10           |
+| Pérez Vargas, Diego José          | 10   | 10  | 10  |     |      |      | 10           |
+| Rodríguez Millán, María Cristina | 10   | 10  | 10  |     |      |      | 10           |
+| Rus Morales, Sonia María           | 10   | 10  | 10  |     |      |      | 10           |
+| Vento Conesa, Adriana               | 10   | 10  | 10  |     |      |      | 10           |
+| Yao, Jun                            | 10   | 10  | 10  |     |      |      | 10           |
+
+### Individual Contribution Summary
+
 #### Devising a Project (#DP1)
 
-**Baños Botón, José Ramón:**  
+**Baños Botón, José Ramón:**
+
 - Participó en la creación y desarrollo del documento Clientes vs Usuarios.
 - Participó en el diseño y creación de los diferentes mockups y wireframes de la aplicación.
 - Participó en la clasificación e identificación de riesgos.
@@ -73,14 +76,16 @@
 - Elaboró la Matriz RACI.
 - Participó en 2/3 reuniones del equipo.
 
-**Bruni, Martina:**  
+**Bruni, Martina:**
+
 - Participó en la búsqueda de competidores indirectos.
 - Participó en la búsqueda de competidores directos.
 - Participó en el desarrollo del documento Análisis de Riesgos.
 - Participó en la redacción del plan de contingencia en el documento Análisis de Riesgos.
 - Participó en 2/3 reuniones del equipo.
 
-**Cantero Corchero, Isabel:**  
+**Cantero Corchero, Isabel:**
+
 - Participó en la revisión y aseguramiento de calidad de varias tareas y documentos.
 - Elaboró el informe inicial general de IA.
 - Analizó la aplicación para identificar algunos requisitos y definir los casos de uso necesarios para los wireframes y la planificación de los sprints.
@@ -94,7 +99,8 @@
 - Unificó el estilo de los entregables.
 - Participó en 2/3 reuniones del equipo.
 
-**Chen, Sheng:**  
+**Chen, Sheng:**
+
 - Participó en el desarrollo del documento “Análisis de Costes”.
 - Participó en la elaboración del documento “Análisis de Riesgos”.
 - Elaboró el apartado TCO en el documento “Análisis de Costes”.
@@ -103,7 +109,8 @@
 - Revisó y corrigió el documento “Análisis de Costes” según el feedback de los profesores.
 - Participó en 2/3 reuniones del equipo.
 
-**García Martínez, Carlos:**  
+**García Martínez, Carlos:**
+
 - Repartió las tareas del documento de análisis de competidores.
 - Participó en la elaboración del documento de análisis de competidores.
 - Participó en la búsqueda activa de competidores.
@@ -116,7 +123,8 @@
 - Creó el GitHub project del proyecto general.
 - Elaboró parte de la presentación de la tercera semana.
 
-**García Ortíz, Carlos:**  
+**García Ortíz, Carlos:**
+
 - Participó en la búsqueda y listado de usuarios pilotos.
 - Participó en la redacción del plan de usuarios pilotos.
 - Revisó las encuestas y la selección de usuarios pilotos.
@@ -124,7 +132,8 @@
 - Definió los perfiles de usuarios pilotos a seleccionar.
 - Participó en todas las reuniones del equipo.
 
-**Heras Pérez, Raúl:**  
+**Heras Pérez, Raúl:**
+
 - Participó en la elaboración del documento de análisis de competidores.
 - Participó en la búsqueda activa de competidores.
 - Participó activamente en el análisis de competidores.
@@ -139,7 +148,8 @@
 - Participó en 1/3 reuniones del equipo.
 - Participó activamente en la elaboración de la presentación de la semana 3.
 
-**Jiménez Guerrero, Pedro:**  
+**Jiménez Guerrero, Pedro:**
+
 - Participó en la redacción del documento de MVP.
 - Creó la primera plantilla de portada del equipo.
 - Revisó el documento de idea y tipo de negocio.
@@ -150,7 +160,8 @@
 - Participó en la redacción del documento de lecciones aprendidas.
 - Participó en 1/3 reuniones del equipo.
 
-**Meana Iturri, Claudia:**  
+**Meana Iturri, Claudia:**
+
 - Coordinó y organizó las tareas para elaborar las presentaciones.
 - Elaboró los guiones para los killer openings.
 - Colaboró en la elaboración y revisión de presentaciones.
@@ -159,14 +170,16 @@
 - Ayudó en la organización de las tareas del equipo en varias semanas.
 - Participó en todas las reuniones del equipo.
 
-**Pérez Garrido, Rubén:**  
+**Pérez Garrido, Rubén:**
+
 - Colaboró en la elaboración y revisión de presentaciones.
 - Presentó todas las semanas.
 - Participó en las reuniones del equipo haciendo el rol de secretario.
 - Creó actas de reuniones para tener recogida la información que se trató.
 - Diseñó el logotipo inicial.
 
-**Pérez Gutiérrez, Lucía:**  
+**Pérez Gutiérrez, Lucía:**
+
 - Realizó la encuesta y el informe para el análisis de equipo.
 - Creó el logo de la aplicación.
 - Participó en el diseño y creación de los diferentes mockups de la aplicación.
@@ -178,7 +191,8 @@
 - Creó un GitHub Project para el equipo de Frontend.
 - Participó en todas las reuniones de equipo.
 
-**Pérez Manzano, Francisco:**  
+**Pérez Manzano, Francisco:**
+
 - Participó en el desarrollo del documento análisis de costes.
 - Participó en el plan de gestión de usuarios piloto.
 - Realizó la encuesta para profesionales del sector transporte.
@@ -187,7 +201,8 @@
 - Simplificó mockups.
 - Participó en 2/3 reuniones de grupo.
 
-**Pérez Vargas, Diego José:**  
+**Pérez Vargas, Diego José:**
+
 - Redactó el documento de Innovación.
 - Participó en la búsqueda de competidores directos e indirectos.
 - Revisó los cambios realizados en el documento de análisis de competidores.
@@ -196,7 +211,8 @@
 - Revisó los cambios realizados en el Plan de Gestión de la Calidad del Desarrollo por otros miembros.
 - Participó en 2/3 reuniones del equipo.
 
-**Rodríguez Millán, María Cristina:**  
+**Rodríguez Millán, María Cristina:**
+
 - Redactó el apartado de diseño en el MVP.
 - Redactó el apartado de usabilidad en el MVP.
 - Participó en la búsqueda de usuarios pilotos y empresas.
@@ -205,7 +221,8 @@
 - Revisó el documento realizado por otros compañeros de Análisis de Costes.
 - Realizó cambios en el documento de Análisis de Costes.
 
-**Rus Morales, Sonia María:**  
+**Rus Morales, Sonia María:**
+
 - Redactó el documento de Matriz DAFO.
 - Elaboró parte de la presentación de la segunda semana.
 - Revisó y corrigió el documento Matriz DAFO según el feedback de los profesores.
@@ -216,7 +233,8 @@
 - Elaboró la Matriz RACI.
 - Participó en 2/3 reuniones del equipo.
 
-**Vento Conesa, Adriana:**  
+**Vento Conesa, Adriana:**
+
 - Coordinó y organizó las tareas del equipo.
 - Participó en la revisión y aseguramiento de calidad de documentos de diversos equipos.
 - Colaboró en la elaboración y revisión de presentaciones en varias semanas.
@@ -229,7 +247,8 @@
 - Creó la landing page inicial.
 - Participó en todas las reuniones del equipo.
 
-**Yao, Jun:**  
+**Yao, Jun:**
+
 - Participó en el desarrollo del documento “Análisis de Riesgos”.
 - Participó en el desarrollo del documento “Análisis de Costes”.
 - Participó en 2/3 reuniones del equipo.
@@ -239,7 +258,8 @@
 
 #### Sprint 1 (#S1)
 
-**Baños Botón, José Ramón:**  
+**Baños Botón, José Ramón:**
+
 - Creó la pantalla de Perfil de Empresa.
 - Creó la lista de todas las empresas.
 - Ayudó en la pantalla de creación de ofertas.
@@ -247,7 +267,8 @@
 - Revisó pull requests y las aceptó.
 - Participó en todas las reuniones del equipo.
 
-**Cantero Corchero, Isabel:**  
+**Cantero Corchero, Isabel:**
+
 - Documento de instalación.
 - Reestructuración del proyecto y dependencias.
 - Arreglar la configuración del proyecto.
@@ -260,7 +281,8 @@
 - Aseguró la calidad y mejoras finales del frontend.
 - Participó en todas las reuniones del equipo.
 
-**Chen, Sheng:**  
+**Chen, Sheng:**
+
 - Implementó el controlador de ofertas.
 - Realizó testing informal de mejoras implementadas para comprobar el correcto funcionamiento del controlador y servicio de ofertas.
 - Participó en la depuración del controlador de ofertas.
@@ -271,7 +293,8 @@
 - Revisó pull requests.
 - Participó en todas las reuniones del equipo.
 
-**García Martínez, Carlos:**  
+**García Martínez, Carlos:**
+
 - Configuró SonarQube
 - Participó en el Backend de Usuarios
 - Participó en la elaboración inicial del Diagrama de Clases
@@ -282,7 +305,8 @@
 - Guíó y apoyó en la instalación del proyecto
 - Participó en el deployment del proyecto (destacando el apartado de base de datos)
 
-**García Ortíz, Carlos:**  
+**García Ortíz, Carlos:**
+
 - Preparó la primera prueba de usuarios pilotos.
 - Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
 - Redactó el documento de *Acuerdo de Compromiso con Usuarios Piloto*.
@@ -295,7 +319,8 @@
 - Contactó con los usuarios piloto de ISPP.
 - Participó en todas las reuniones.
 
-**Heras Pérez, Raúl:**  
+**Heras Pérez, Raúl:**
+
 - Diseñó e implementó la pantalla de camionero en el frontend
 - Ayudó a diseñar la barra de navegación
 - Ayudó a diseñar el aspecto general del frontend
@@ -304,8 +329,8 @@
 - Contribuyó a arreglar diversos errores en frontend
 - Participó en todas las reuniones.
 
+**Jiménez Guerrero, Pedro:**
 
-**Jiménez Guerrero, Pedro:**  
 - Preparó la primera prueba de usuarios pilotos
 - Contactó e informó a los usuarios piloto de la metodología
 - Participó en la elaboración del diagrama de clases
@@ -316,7 +341,8 @@
 - Redactó el documento "estudioMapas"
 - Participó en todas las reuniones del equipo salvo la inicial
 
-**Meana Iturri, Claudia:**  
+**Meana Iturri, Claudia:**
+
 - Coordinó y organizó las tareas para elaborar las presentaciones.
 - Realizó la pantalla de detalles de oferta.
 - Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
@@ -326,29 +352,32 @@
 - Participó en 2/3 de las reuniones del equipo.
 - Ayudó a arreglar algunos errores en frontend.
 
-**Pérez Garrido, Rubén:**  
+**Pérez Garrido, Rubén:**
+
 - Colaboró en la elaboración y revisión de presentaciones.
 - Presentó la semana de evaluación.
 - Participó en las reuniones del equipo haciendo el rol de secretario.
 - Creó actas de reuniones para tener recogida la información que se trató.
 - Investigó a cerca de herramientas de testing para el frontend.
 - Investigó en la implementación de un selector de fechas funcional para versión web y móvil.
-- Implementó la conversión de imágenes en la pantalla de registro a base64 para concortar con el backend. 
+- Implementó la conversión de imágenes en la pantalla de registro a base64 para concortar con el backend.
 - Revisó pull request.
 - Realizó el diseño de la pantalla de registro.
 - Realizó el diseño de la pantalla de inicio de sesión.
 - Creo el video de demo de la aplicación.
 
-**Pérez Gutiérrez, Lucía:**  
-- Configuró Expo y apoyó en la instalación del proyecto backend 
-- Participó en el Frontend en la barra de Navegación 
+**Pérez Gutiérrez, Lucía:**
+
+- Configuró Expo y apoyó en la instalación del proyecto backend
+- Participó en el Frontend en la barra de Navegación
 - Participó en el Froontend en la elaboración de la pantalla de lista de ofertas
 - Participó activamente en la resolución de problemas de Frontend
 - Cordinó y organizó las tareas de Frontend
-- Inició el Frontend del repositorio, la organización de Github y el repositorio común 
+- Inició el Frontend del repositorio, la organización de Github y el repositorio común
 - Hizó review de pull requests
 
-**Pérez Manzano, Francisco:**  
+**Pérez Manzano, Francisco:**
+
 - Realizó la creación de modelo, repositorio y servicio de Oferta y sus subclases.
 - Modificó el reporte de IA, añadiendo porcentaje de alucinaciones (haciendo una encuesta) y mejor explicacón del uso de IA.
 - Modificó el reporte de IA a markdown.
@@ -358,7 +387,8 @@
 - Participó en la investigación de pasarela de pago.
 - Participó en todas las reuniones de equipo.
 
-**Pérez Vargas, Diego José:**  
+**Pérez Vargas, Diego José:**
+
 - Participó en la elaboración del Diagrama de Clases.
 - Realizó la implementación y la depuración del controlador de Empresa en el backend.
 - Realizó pruebas informales del servicio y controlador de Empresa para asegurar su calidad y funcionalidad.
@@ -368,7 +398,8 @@
 - Participó en la investigación de la implementación de la pasarela de pago.
 - Participó en todas las reuniones del equipo.
 
-**Rodríguez Millán, María Cristina:**  
+**Rodríguez Millán, María Cristina:**
+
 - Realizó la pantalla de edición de perfil de camioneros.
 - Realizó la pantalla de edición de perfil de empresa.
 - Revisó pull request.
@@ -376,7 +407,8 @@
 - Ayudó con algunos problemas surgidos en Frontend.
 - Realizó algunos cambios en servicios para solucionar problemas.
 
-**Rus Morales, Sonia María:**  
+**Rus Morales, Sonia María:**
+
 - Realizó la pantalla de creación de ofertas.
 - Realizó la pantalla de edición de ofertas.
 - Implementó el componente para eliminar ofertas.
@@ -384,23 +416,25 @@
 - Revisó pull requests y las aceptó.
 - Participó en todas las reuniones del equipo.
 
-**Vento Conesa, Adriana:**    
-- Actualizó y adaptó el *Commitment Agreement* al formato MD.  
-- Creó una plantilla general para documentos MD. 
-- Redactó el informe de contribuciones del Sprint 1.  
-- Proporcionó feedback a la BCC correspondiente a la Semana 4.  
-- Proporcionó feedback a la BCC correspondiente a la Semana 3.  
-- Implementó un buzón de sugerencias para recopilar ideas y mejoras del equipo.  
-- Hizo la implementación y mejora de la autenticación de usuario (codificación, pruebas y depuración).  
-- Resolvió errores críticos relacionados con la autenticación de usuario.  
-- Participó en la preparación y ejecución del *deployment* (backend y frontend).  
+**Vento Conesa, Adriana:**
+
+- Actualizó y adaptó el *Commitment Agreement* al formato MD.
+- Creó una plantilla general para documentos MD.
+- Redactó el informe de contribuciones del Sprint 1.
+- Proporcionó feedback a la BCC correspondiente a la Semana 4.
+- Proporcionó feedback a la BCC correspondiente a la Semana 3.
+- Implementó un buzón de sugerencias para recopilar ideas y mejoras del equipo.
+- Hizo la implementación y mejora de la autenticación de usuario (codificación, pruebas y depuración).
+- Resolvió errores críticos relacionados con la autenticación de usuario.
+- Participó en la preparación y ejecución del *deployment* (backend y frontend).
 - Documentó los controladores.
-- Realizó testing informal de mejoras implementadas para asegurar calidad y funcionalidad.  
-- Participó en la expansión del diagrama de clases.  
-- Participó en reuniones de planificación y retrospectivas del equipo como parte del equipo de coordinación.  
+- Realizó testing informal de mejoras implementadas para asegurar calidad y funcionalidad.
+- Participó en la expansión del diagrama de clases.
+- Participó en reuniones de planificación y retrospectivas del equipo como parte del equipo de coordinación.
 - Participó activamente en todas las reuniones del equipo.
 
-**Yao, Jun:**  
+**Yao, Jun:**
+
 - Implementó el controlador de camionero.
 - Realizó testing informal de mejoras implementadas para comprobar el correcto funcionamiento del controlador y servicio de camionero.
 - Participó en la depuración del controlador de camionero.
@@ -411,7 +445,8 @@
 
 #### Sprint 2 (#S2)
 
-**Baños Botón, José Ramón:**  
+**Baños Botón, José Ramón:**
+
 - Participó en la búsqueda de implementación de los mapas.
 - Participó en la implementación del frontend de Reseñas.
 - Participó en la implementación del frontend de Valoraciones.
@@ -419,7 +454,8 @@
 - Participó en el documento revision.md.
 - Participó en todas las reuniones del equipo.
 
-**Cantero Corchero, Isabel:**  
+**Cantero Corchero, Isabel:**
+
 - Reestructuración del sistema de archivos del frontend.
 - Mejoras en la UI/UX de la plataforma web.
 - Implementación del control de acceso según rol y protección de rutas.
@@ -432,8 +468,8 @@
 - Aseguró la calidad y mejoras finales del frontend.
 - Participó en todas las reuniones del equipo.
 
+**Chen, Sheng:**
 
-**Chen, Sheng:**  
 - Participó en la implementación del backend de suscripción.
 - Implementó el sistema de oferta patrocinada.
 - Participó en la corrección del backend de oferta patrocinada.
@@ -443,7 +479,8 @@
 - Realizó gráficos de barras con los datos positivos y negativos de los tres casos de costes.
 - Realizó el testing de OfertaController y OfertaService.
 
-**García Martínez, Carlos:**  
+**García Martínez, Carlos:**
+
 - Participó activamente en la resolución de problemas de Backend
 - Cordinó y organizó las tareas de Backend
 - Participó en todas las reuniones de equipo
@@ -452,7 +489,8 @@
 - Implemento la lógica de reseña en Backend
 - Pariticipó en la encripción de datos sensibles
 
-**García Ortíz, Carlos:**  
+**García Ortíz, Carlos:**
+
 - Preparó la segunda prueba de usuarios pilotos.
 - Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
 - Revisó 1 pull request.
@@ -462,14 +500,15 @@
 - Remodeló la entidad oferta para el listado, aceptación y rechazo de transportistas.
 - Participó en todas las reuniones.
 
-**Heras Pérez, Raúl:**  
+**Heras Pérez, Raúl:**
+
 - Implementó el chat en frontend.
 - Implementó la conexión con la API de Firebase para el chat.
 - Diseñó la interfaz del chat.
 - Implementó la navegación al chat dentro de la aplicación.
 - Participó en todas las reuniones del equipo.
 
-**Jiménez Guerrero, Pedro:**  
+**Jiménez Guerrero, Pedro:**
 
 - Configuró la base de datos de testing.
 - Implementó los tests de las clases CamioneroService y CamioneroController.
@@ -481,8 +520,8 @@
 - Preparó las pruebas para los usuarios piloto.
 - Participó en todas las reuniones del equipo.
 
-
 **Meana Iturri, Claudia:**
+
 - Coordinó y organizó las tareas para elaborar las presentaciones.
 - Realizó la pantalla de buscar de oferta.
 - Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
@@ -491,7 +530,8 @@
 - Participó en todas las reuniones del equipo.
 - Ayudó a arreglar algunos errores en frontend.
 
-**Pérez Garrido, Rubén:**  
+**Pérez Garrido, Rubén:**
+
 - Colaboró en la elaboración y revisión de presentaciones.
 - Presentó la semana de evaluación.
 - Participó en las reuniones del equipo haciendo el rol de secretario.
@@ -504,16 +544,18 @@
 - Revisó pull requests.
 - Creo el video de demo de la aplicación.
 
-**Pérez Gutiérrez, Lucía:**  
+**Pérez Gutiérrez, Lucía:**
+
 - Participo en todas la reuniones y organizó la del equipo de frontend.
 - Hizo una investigación exahustiva de la aplicación frontend para la planificación al inicio del sprint.
 - Reviso varias Pull Requests.
 - Se encargó de la funcionalidad de promocionar oferta
 - Participó en la investiación de los mapas, finalmente acabando por sacarlos del alcance
 - Participó en la revisión del documento revision.md
-- Planteo una futura mejora para las reseñas 
+- Planteo una futura mejora para las reseñas
 
-**Pérez Manzano, Francisco:**  
+**Pérez Manzano, Francisco:**
+
 - Participo en la mitad de reuniones de equipo.
 - Preparó el backend de pago con ayuda de Diego José Pérez Vargas.
 - Recopiló y categorizó el feedback de usuarios piloto de casos de uso.
@@ -523,6 +565,7 @@
 - Actualizó el documento de IA para reflejar su uso en el sprint 2.
 
 **Pérez Vargas, Diego José:**
+
 - Participó en todas las reuniones del equipo.
 - Ayudó a Francisco Pérez Manzano a implementar el backend de pasarela de pago.
 - Realizó la implementación de la pasarela de pago en el frontend.
@@ -530,14 +573,16 @@
 - Redactó el documento de Investigación y Conformidad con el RGPD y la LOPDGDD.
 - Redactó el documento de Términos y Condiciones de Camyo.
 
-**Rodríguez Millán, María Cristina:**  
+**Rodríguez Millán, María Cristina:**
+
 - Participó en las reuniones del equipo.
 - Planteó el sistema de reseñas y buscó herramientas para ello.
 - Ayudó con la elaboración de las presentaciones.
 - Revisó pull request.
 - Presentó una de las semanas.
 
-**Rus Morales, Sonia María:**  
+**Rus Morales, Sonia María:**
+
 - Participó en la implementación del frontend de Reseñas.
 - Participó en la implementación del frontend de Valoraciones.
 - Participó en la implementación del frontend de crear, editar y eliminar Reseñas.
@@ -548,16 +593,18 @@
 - Participó en todas las reuniones del equipo.
 
 **Vento Conesa, Adriana:**
+
 - Participó activamente en reuniones de planificación y retrospectivas del equipo.
-- Implementó funcionalidades frontend para mejorar la lógica de suscripciones, incluyendo la creación de forms condicionales, números de ofertas condicionales, y la modularización de funcionalidades.  
-- Trabajó en la migración de todas las ofertas de Home a una pestaña separada (Frontend 66).  
-- Redactó y actualizó documentación, como el informe de contribuciones del Sprint 2, secciones de revisión de características y plantillas obligatorias para documentación del Sprint.  
-- Proporcionó feedback grupal y documentó observaciones en la BCC correspondiente a varias semanas.  
-- Realizó revisiones de pull requests (#157 y #146).  
-- Resolvió errores relacionados con la base de datos durante el despliegue.  
+- Implementó funcionalidades frontend para mejorar la lógica de suscripciones, incluyendo la creación de forms condicionales, números de ofertas condicionales, y la modularización de funcionalidades.
+- Trabajó en la migración de todas las ofertas de Home a una pestaña separada (Frontend 66).
+- Redactó y actualizó documentación, como el informe de contribuciones del Sprint 2, secciones de revisión de características y plantillas obligatorias para documentación del Sprint.
+- Proporcionó feedback grupal y documentó observaciones en la BCC correspondiente a varias semanas.
+- Realizó revisiones de pull requests (#157 y #146).
+- Resolvió errores relacionados con la base de datos durante el despliegue.
 - Participó en la configuración y preparación del deployment para el Sprint 2, realizando pruebas y ajustes necesarios.
 
-**Yao, Jun:**  
+**Yao, Jun:**
+
 - Participó en la implementación del backend de suscripción.
 - Participó en la correción del backend de suscripción.
 - Participó en la implementación del backend de contacto directo(al final es de frontend).
@@ -567,32 +614,42 @@
 
 #### Sprint 3 (#S3)
 
-**Baños Botón, José Ramón:**  
+**Baños Botón, José Ramón:**
+
 - Participó en la implementación de frontend de las notificaciones del chat.
 - Participó en el primer anuncio de mitad del sprint 3.
 - Participó en la implementación de frontend de los borradores.
 - Participó en el documento revision.md.
 - Participó en todas las reuniones del equipo.
 
-**Cantero Corchero, Isabel:**  
+**Cantero Corchero, Isabel:**
 
-**Chen, Sheng:**  
+**Chen, Sheng:**
 
-**García Martínez, Carlos:**  
+**García Martínez, Carlos:**
 
-**García Ortíz, Carlos:**  
+**García Ortíz, Carlos:**
+
+- Preparó la tercera prueba de usuarios pilotos.
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
+- Analizó y adjuntó el feedback de los usuarios pilotos correspondiende a la segunda prueba.
+- Revisó 1 pull request.
+- Realizó ajustes a backend para las funcionalidades de panel de administrador, eliminación de cuenta y eliminación de anuncios.
+- Implementó la funcionalidad de subir curriculums pdf de camioneros y descargarlos.
+- Participó en una refactorización de oferta y sus controladores/servicios.
+- Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
 
-**Jiménez Guerrero, Pedro:**  
+**Jiménez Guerrero, Pedro:**
 
 **Meana Iturri, Claudia:**
 
-**Pérez Garrido, Rubén:**  
+**Pérez Garrido, Rubén:**
 
-**Pérez Gutiérrez, Lucía:**  
+**Pérez Gutiérrez, Lucía:**
 
-**Pérez Manzano, Francisco:**  
+**Pérez Manzano, Francisco:**
 
 **Pérez Vargas, Diego José:**
 
@@ -604,9 +661,9 @@
 - Participó en el documento revision.md.
 - Participó en todas las reuniones del equipo.
 
-**Rodríguez Millán, María Cristina:**  
+**Rodríguez Millán, María Cristina:**
 
-**Rus Morales, Sonia María:**  
+**Rus Morales, Sonia María:**
 
 - Implementó la lógica de suscripciones en las rutas y botones.
 - Colaboró en la grabación de los anuncios.
@@ -616,4 +673,4 @@
 
 **Vento Conesa, Adriana:**
 
-**Yao, Jun:**  
+**Yao, Jun:**
