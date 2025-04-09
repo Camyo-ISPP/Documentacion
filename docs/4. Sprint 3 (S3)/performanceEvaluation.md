@@ -608,6 +608,12 @@
 
 **Rus Morales, Sonia María:**  
 
+- Implementó la lógica de suscripciones en las rutas y botones.
+- Colaboró en la grabación de los anuncios.
+- Ayudó con los problemas de la implementación de los borradores.
+- Realizó el documento del storyboard para transportistas.
+- Participó en todas las reuniones del equipo.
+
 **Vento Conesa, Adriana:**
 
 **Yao, Jun:**  
