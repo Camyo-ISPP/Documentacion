@@ -60,6 +60,10 @@
    7.1 [Reseñas empresas](#71-reseñas-empresas)  
    7.2 [Reseñas camioneros](#72-reseñas-camioneros)  
    7.3 [Crear y editar reseñas](#73-crear-y-editar-reseñas)
+8. [Pagos](#8-pagos)  
+   8.1 [Eliminar anuncios](#81-eliminar-anuncios)  
+   8.2 [Finalizar compra](#82-finalizar-compra)  
+
 
 ## 1. Resumen Ejecutivo
 
@@ -323,5 +327,39 @@ Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña.
 <img src="images/resena_editar.png">
 </p>
 
+## 8. Pagos
+
+### 8.1 Eliminar anuncios
+
+Por defecto, se muestran anuncios a los usuarios de la aplicación en ciertas pantallas. En el perfil de usuario, tanto camionero como empresa, se encuentra un botón de **Eliminar anuncios**. Al pulsarlo, el usuario será redirigido a la página de compra. Una vez realizado el pago, no se le mostrarán más anuncios al usuario.
+
+![image](https://i.imgur.com/mSU01lU.png)
+
+### 8.2 Finalizar compra
+
+Para acceder a la página para finalizar la compra, primero se deberá interactuar con un botón que lleve a ella. Este puede ser:
+
+- El botón **Cambiar a este plan** en uno de los planes de suscripción (véase [6.3 Suscripciones](#63-suscripciones))
+- El botón **Patrocinar** en los listados de oferta para empresas (véase [6.4 Promocionar Oferta](#64-promocionar-oferta) o [6.6 Mis Ofertas](#66-mis-ofertas))
+- El botón **Eliminar anuncios** en el perfil de usuario (véase [8.1 Eliminar anuncios](#81-eliminar-anuncios))
+
+Una vez se haya pulsado uno de estos botones, el usuario será redirigido a la siguiente página:
+
+![image](https://i.imgur.com/MkW51XP.png)
+
+En ella, se muestra un resumen de la compra, con el precio de la misma. El pago comienza cuando se interactúa con el botón **Continuar al pago**. A partir de aquí, se podrá introducir la información de pago.
+
+![image](https://i.imgur.com/BVs4iyd.png)
+
+El pago se realiza cuando se pulsa **Confirmar pago**. Si el pago se realiza correctamente, se mostrará un mensaje de éxito y se redirigirá al usuario a la página principal. De lo contrario, se mostrará un error debajo del botón **Confirmar pago** y en alguno de los campos de información de pago, si el problema proviene de ahí.
+
+![image](https://i.imgur.com/pnrKbFg.png)
+![image](https://i.imgur.com/BQ3H5Es.png)
+
+La compra se puede cancelar pulsando la flecha a la izquierda del título **Finalizar compra**. El usuario volverá a la página en la que estaba antes.
+
+Nota: si se intenta acceder a la página de finalización de compra de otra forma que no sea las indicadas anteriormente, se mostrará un error. Esto se debe a que la interacción con los botones, además de redirigir al pago, le pasan a esta página el tipo de compra y, en caso de ser el patrocinio de una oferta, su ID.
+
+![image](https://i.imgur.com/AfiY2PL.png)
 
 
