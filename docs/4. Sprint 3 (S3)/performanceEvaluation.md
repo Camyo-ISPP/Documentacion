@@ -47,7 +47,7 @@
 | Student                             | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
 | ----------------------------------- | ---- | --- | --- | --- | ---- | ---- | ------------ |
 | Baños Botón, José Ramón         | 10   | 10  | 10  |  10   |      |      | 10           |
-| Bruni, Martina                      | 10   | 10  | 10  |  10   |      |      | 10           |
+| Bruni, Martina                      | 10   |  |  |   |      |      |           |
 | Cantero Corchero, Isabel            | 10   | 10  | 10  |  10   |      |      | 10           |
 | Chen, Sheng                         | 10   | 10  | 10  |  10   |      |      | 10           |
 | García Martínez, Carlos           | 10   | 10  | 10  |  10   |      |      | 10           |
