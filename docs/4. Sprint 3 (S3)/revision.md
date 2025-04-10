@@ -60,9 +60,8 @@
    6.5 [Chat](#65-chat)  
    6.6 [Mis Ofertas](#66-mis-ofertas)  
 7. [Reseñas](#7-reseñas)  
-   7.1 [Reseñas empresas](#71-reseñas-empresas)  
-   7.2 [Reseñas camioneros](#72-reseñas-camioneros)  
-   7.3 [Crear y editar reseñas](#73-crear-y-editar-reseñas)
+   7.1 [Crear y ver Reseñas](#71-crear-y-ver-reseñas)  
+   7.2 [Editar y Eliminar reseñas](#72-editar-y-eliminar-reseñas)
 8. [Pagos](#8-pagos)  
    8.1 [Finalizar compra](#81-finalizar-compra)  
 
@@ -359,7 +358,7 @@ También pueden ver las reseñas de un usuario y su valoración media. En este c
 </p>
 
 
-### 7.3 Editar y Borrar reseñas
+### 7.2 Editar y Eliminar reseñas
 Cuando un usuario visite un perfil público en el que ha dejado una reseña podrá editar y borrar su reseña
 
 <p align="center">
