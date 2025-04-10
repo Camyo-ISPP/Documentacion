@@ -694,6 +694,13 @@
 
 **Pérez Manzano, Francisco:**
 
+- Participo en las reuniones de equipo
+- Creo los tests para pago de stripe en banco, tanto mockeados e von integración
+- Reviso pull requests
+- Creo la encuesta y recopiló los resultados del uso de IA
+- Comparo CodiumAI y Copilot para ver que herramienta era más eficiente implementar al flujo de trabajo de pull requests
+- Preparó cambios para la implementación de eliminar anuncios en backend
+  
 **Pérez Vargas, Diego José:**
 
 - Realizó la implementación de validaciones semánticas para DNI/NIF y números de teléfono y validación sintáctica para archivos y nombres de usuario.
@@ -727,3 +734,10 @@
 **Vento Conesa, Adriana:**
 
 **Yao, Jun:**
+- Implementó los tests de la funcionalidad de usuario,suscripción y reseña, tanto de controlador como de service.
+- Participó en todas las reuniones organizadas.
+- Participó en la solución de errores presentes en algunos tests.
+- Revisó pull requests.
+- Comprobó la cobertura de algunos tests.
+- Arregló algunos conflictos de testing usuario.
+- Revisó los documentos.
