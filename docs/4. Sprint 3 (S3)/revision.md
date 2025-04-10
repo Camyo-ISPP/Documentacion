@@ -224,7 +224,9 @@ Perfil público de empresa donde se pueden consultar los datos de contacto, desc
 
 Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros desde tu perfil. Para hacerlo, debes rellenar los campos requeridos según el tipo de oferta que quieras publicar, ya sea de carga o de trabajo. Tras publicarla, esta oferta será visible para el resto de usuarios.
 
-![image](../3.%20Sprint%202%20(S2)/images/crearoferta1.png)
+<p align="center">
+<img src="images/crearoferta1.png">
+</p>
 
 <p align="center">
 <img src="images/crearoferta2.png">
