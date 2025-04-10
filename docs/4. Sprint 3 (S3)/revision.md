@@ -31,6 +31,7 @@
 | Raúl Heras Pérez | Mapas |
 | José Ramón Baños Botón | Notificaciones y Borradores |
 | Claudia Meana Iturri| Actualización general de imágenes y texto de varios apartados |
+| Diego José Pérez Vargas | Pagos |
 
 # Tabla de Contenidos
 
