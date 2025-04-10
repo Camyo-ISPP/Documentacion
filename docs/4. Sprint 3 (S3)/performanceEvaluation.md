@@ -46,23 +46,23 @@
 
 | Student                             | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
 | ----------------------------------- | ---- | --- | --- | --- | ---- | ---- | ------------ |
-| Baños Botón, José Ramón         | 10   | 10  | 10  |     |      |      | 10           |
-| Bruni, Martina                      | 10   | 10  | 10  |     |      |      | 10           |
-| Cantero Corchero, Isabel            | 10   | 10  | 10  |     |      |      | 10           |
-| Chen, Sheng                         | 10   | 10  | 10  |     |      |      | 10           |
-| García Martínez, Carlos           | 10   | 10  | 10  |     |      |      | 10           |
-| García Ortíz, Carlos              | 10   | 10  | 10  |     |      |      | 10           |
-| Heras Pérez, Raúl                 | 10   | 10  | 10  |     |      |      | 10           |
-| Jiménez Guerrero, Pedro            | 10   | 10  | 10  |     |      |      | 10           |
-| Meana Iturri, Claudia               | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Garrido, Rubén              | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Gutiérrez, Lucía           | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Manzano, Francisco           | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Vargas, Diego José          | 10   | 10  | 10  |     |      |      | 10           |
-| Rodríguez Millán, María Cristina | 10   | 10  | 10  |     |      |      | 10           |
-| Rus Morales, Sonia María           | 10   | 10  | 10  |     |      |      | 10           |
-| Vento Conesa, Adriana               | 10   | 10  | 10  |     |      |      | 10           |
-| Yao, Jun                            | 10   | 10  | 10  |     |      |      | 10           |
+| Baños Botón, José Ramón         | 10   | 10  | 10  |  10   |      |      | 10           |
+| Bruni, Martina                      | 10   | 10  | 10  |  10   |      |      | 10           |
+| Cantero Corchero, Isabel            | 10   | 10  | 10  |  10   |      |      | 10           |
+| Chen, Sheng                         | 10   | 10  | 10  |  10   |      |      | 10           |
+| García Martínez, Carlos           | 10   | 10  | 10  |  10   |      |      | 10           |
+| García Ortíz, Carlos              | 10   | 10  | 10  |  10   |      |      | 10           |
+| Heras Pérez, Raúl                 | 10   | 10  | 10  |  10   |      |      | 10           |
+| Jiménez Guerrero, Pedro            | 10   | 10  | 10  | 10    |      |      | 10           |
+| Meana Iturri, Claudia               | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Garrido, Rubén              | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Gutiérrez, Lucía           | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Manzano, Francisco           | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Vargas, Diego José          | 10   | 10  | 10  |  10   |      |      | 10           |
+| Rodríguez Millán, María Cristina | 10   | 10  | 10  |  10   |      |      | 10           |
+| Rus Morales, Sonia María           | 10   | 10  | 10  |  10   |      |      | 10           |
+| Vento Conesa, Adriana               | 10   | 10  | 10  |  10   |      |      | 10           |
+| Yao, Jun                            | 10   | 10  | 10  |  10   |      |      | 10           |
 
 ### Individual Contribution Summary
 
@@ -681,6 +681,13 @@
 - Participó en todas las reuniones del equipo.
 - 
 **Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Revisó y añadió validaciones en las creaciones y ediciones de perfil y oferta.
+- Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Presentó ambas semanas.
 
 **Pérez Garrido, Rubén:**
 - Colaboró en la elaboración y revisión de presentaciones.
