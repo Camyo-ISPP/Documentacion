@@ -734,3 +734,10 @@
 **Vento Conesa, Adriana:**
 
 **Yao, Jun:**
+- Implementó los tests de la funcionalidad de usuario,suscripción y reseña, tanto de controlador como de service.
+- Participó en todas las reuniones organizadas.
+- Participó en la solución de errores presentes en algunos tests.
+- Revisó pull requests.
+- Comprobó la cobertura de algunos tests.
+- Arregló algunos conflictos de testing usuario.
+- Revisó los documentos.
