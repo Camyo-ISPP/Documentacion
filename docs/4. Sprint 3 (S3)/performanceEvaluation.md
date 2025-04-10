@@ -667,6 +667,11 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
+- Implementó los mapas y el componente de elección de ciudad en ofertas.
+- Revisó 2 pull requests.
+- Realizó ajustes en frontend para implementar anuncios (trabajo en desarrollo).
+- Revisó los documentos y la aplicación antes de la entrega.
+- Ayudó a elaborar la presentación mid-sprint.
 
 **Jiménez Guerrero, Pedro:**
 - Elaboró los tests de las clases EmpresaService, EmpresaController, AuthController y AuthService.
