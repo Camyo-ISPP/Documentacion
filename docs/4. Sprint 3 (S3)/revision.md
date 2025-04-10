@@ -286,9 +286,13 @@ Además, hay un botón para poder guardar borradores de las ofertas.
 En la pantalla de "Mis Ofertas" en "Borradores" podremos ver los borradores que se han creado.
 
 <p align="center">
-<img src="images/Borradores.png">
+<img src="images/listaBorradores.png">
 </p>
 
+Además está la posibilidad de editar estos borradores, eliminarlos o publicarlos
+<p align="center">
+<img src="images/editarBorrador.png">
+</p>
 
 
 Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
@@ -338,48 +342,35 @@ Listado de ofertas de trabajo o carga creadas por la empresa que han sido asigna
 
 
 ## 7. Reseñas
-### 7.1 Reseñas empresas
-Una vez registrado como empresa, en su perfil, podemos ver si dicha empresa tiene o no alguna reseña y su valoración media.
+### 7.1 Crear y ver reseñas 
+Tanto para camionero como para perfil se les permitirá valorar a las empresas o camioneros recientes y ver los comentarios que han sido dejados por la empresas o camioneros con los q se ha trabajado recientemente.
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_miperfilempresa.png">
+<img src="images/valorarEnPerfil.png">
+</p>
+<p align="center">
+<img src="images/crearReseña.png">
 </p>
 
-También pueden ver las reseñas de la empresa cualquier otro usuario.
+También pueden ver las reseñas de un usuario y su valoración media. En este caso de un camionero.
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_publicempresa.png">
+<img src="images/recibirReseñas.png">
 </p>
 
-### 7.2 Reseñas camioneros
-Una vez registrado como camionero, en su perfil, podemos ver si dicho camionero tiene o no alguna reseña y su valoración media.
+
+### 7.3 Editar y Borrar reseñas
+Cuando un usuario visite un perfil público en el que ha dejado una reseña podrá editar y borrar su reseña
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_miperfilcamionero.png">
+<img src="images/editarReseña.png">
 </p>
-
-También pueden ver las reseñas del camionero cualquier otro usuario.
-
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_publiccamionero.png">
+<img src="images/modalResena.png">
 </p>
 
-### 7.3 Crear y editar reseñas
-Un usuario podrá crear una reseña pulsando en el botón "Escribir reseña".
 
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_crear.png">
-</p>
 
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_creada.png">
-</p>
-
-Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña. 
-
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_editar.png">
-</p>
 
 ## 8. Pagos
 
