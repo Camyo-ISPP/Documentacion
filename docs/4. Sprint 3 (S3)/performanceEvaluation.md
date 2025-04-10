@@ -698,6 +698,14 @@
 - Creó y editó las 2 demos de la aplicación.
 
 **Pérez Gutiérrez, Lucía:**
+- Realizó la planificación de frontend del sprint
+- Participó en todas las reuniónes
+- Participó en la redacción del plan de PPL
+- Participó en el primer anuncio
+- Mejoró la lógica general de reseñas en la aplicación añadiendo funcionalidades importantes
+- Participó en la mejora de borradores
+- Arreglo diversos fallos pequeños como margenes, y pequeños errores en la aplicación
+- Revisó Pull Requests 
 
 **Pérez Manzano, Francisco:**
 
