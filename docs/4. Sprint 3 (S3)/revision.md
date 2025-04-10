@@ -178,22 +178,27 @@ Y la opción de eliminar la oferta:
 
 
 ### 4.4 Listado de empresas
-Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados.
+Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados. Se accede mediante el botón de menú sobre empresa.
 
-![image](../3.%20Sprint%202%20(S2)/images/listaempresas.png)
+![image](https://github.com/user-attachments/assets/dc310496-9942-4df9-ba42-b47a2b8f8ade)
+
 
 ### 4.5 Detalle de empresa
-Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. También se muestra una sección para valoraciones de otros usuarios.
+Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. Se ve las ofertas patrocinadas de la empresa en las ofertas activas. También se muestra una sección para valoraciones de otros usuarios.
 
-![image](../3.%20Sprint%202%20(S2)/images/detalleempresa.png)
+![image](https://github.com/user-attachments/assets/76b45642-924d-4f57-a49d-cc7f5a74e7d1)
+![image](https://github.com/user-attachments/assets/a11b1288-a9a7-402d-af08-ea9252bea6a9)
+
 
 ## 5. Camionero
 
 ### 5.1 Perfil de camionero
 
-Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click en el icono de lápiz de al lado de la foto de perfil.
+Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click en el icono de lápiz de al lado de la foto de perfil. Se accede haciendo clic sobre la imagen de perfil en la parte superior derecha de la pantalla, y después en ver perfil.
+![image](https://github.com/user-attachments/assets/fc43da7f-31e1-434d-8b50-5a74741dbcaf)
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilcam.png)
+![image](https://github.com/user-attachments/assets/5d392ae6-7f58-492a-99c6-3d9ef42345cd)
+
 
 Perfil público visible para las empresas, donde se muestra información laboral, contacto y reseñas recibidas.
 
