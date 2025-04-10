@@ -671,6 +671,12 @@
 **Meana Iturri, Claudia:**
 
 **Pérez Garrido, Rubén:**
+- Colaboró en la elaboración y revisión de presentaciones.
+- Participó en las reuniones del equipo haciendo el rol de secretario.
+- Creó actas de reuniones para tener recogida la información que se trató.
+- Revisó pull requests.
+- Editó los 2 anuncios.
+- Creó y editó las 2 demos de la aplicación.
 
 **Pérez Gutiérrez, Lucía:**
 
