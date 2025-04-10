@@ -28,7 +28,7 @@
 
 | Nombre(s) y Apellido(s) | Tipo de Contribución |
 | --- | --- |
-| Placeholder | Placeholder |
+| Raúl Heras Pérez | Mapas |
 | José Ramón Baños Botón | Notificaciones y Borradores |
 
 # Tabla de Contenidos
@@ -86,7 +86,7 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Url de la herramienta de seguimiento  | https://app.clockify.me/login |
 | Credenciales para la herramienta de seguimiento  | Email: [profesores.camyo@gmail.com](mailto:profesores.camyo@gmail.com)<br>Contraseña de la cuenta de google: Profesores.camyo!01 <br> Para acceder, hagan login con este email y recibirán un correo al correo con el código para acceder. |
 | Requisitos potenciales para usar el sistema | Ninguno. |
-| Url de la demo | **[Placeholder!]** |
+| Url de la demo | https://www.youtube.com/watch?v=n2l7PjXaTwg |
 | Usuario de Empresa (Camyo) | **Usuario:** emp_etsii1  **Contraseña:** etsiipass<br>**Usuario:** emp_etsii2  **Contraseña:** etsiipass |
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |
@@ -98,25 +98,25 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 Pantalla inicial del registro donde el usuario debe elegir si se registrará como Camionero o Empresa.
 
 
-![image](images/registro1.png)
+![image](../3.%20Sprint%202%20(S2)/images/registro1.png)
 
 #### 3.1.1 Registro como camionero
 Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo.
 
-![image](images/registro2.png)
-![image](images/registro3.png)
+![image](../3.%20Sprint%202%20(S2)/images/registro2.png)
+![image](../3.%20Sprint%202%20(S2)/images/registro3.png)
 
 #### 3.1.2 Registro como empresa
 Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. 
 
-![image](images/registro4.png)
-![image](images/registro5.png)
+![image](../3.%20Sprint%202%20(S2)/images/registro4.png)
+![image](../3.%20Sprint%202%20(S2)/images/registro5.png)
 
 
 ### 3.2 Inicio de sesión
 Formulario para que usuarios registrados ingresen con su nombre de usuario y contraseña. Incluye opción para redirigirse al registro si aún no tienen cuenta.
 
-![image](images/iniciosesion.png)
+![image](../3.%20Sprint%202%20(S2)/images/iniciosesion.png)
 
 
 
@@ -132,14 +132,14 @@ Formulario para que usuarios registrados ingresen con su nombre de usuario y con
 Pantalla principal para usuarios no autenticados, destacando el objetivo de la plataforma y mostrando ofertas recientes disponibles para explorar sin necesidad de iniciar sesión.
 
 ![image](images/home.png)
-![image](images/home-2.png)
-![image](images/home-3.png)
+![image](images/home2.png)
+![image](images/home3.png)
 
 **Usuario registrado:**
 
 Pantalla de bienvenida personalizada para usuarios registrados, con accesos rápidos al perfil y a vacantes, además de una lista de ofertas recientes divididas por tipo: carga y trabajo.
 
-![image](images/home-4.png)
+![image](images/home4.png)
 
 ### 4.2 Explorar y buscar ofertas
 
@@ -155,25 +155,25 @@ La pantalla tiene una seccion de búsqueda que permite filtrar ofertas según lo
 ### 4.3 Detalle de oferta
 Vista del detalle de una oferta visible para visitantes, que muestra los datos pero requiere iniciar sesión para poder solicitarla.
 
-![image](images/detalleoferta2.png)
+![image](../3.%20Sprint%202%20(S2)/images/detalleoferta2.png)
 
-Pantalla de detalle de una oferta para usuarios autenticados, con botón activo para solicitarla y toda la información relevante del transporte: presupuesto, licencias, origen/destino, fechas y carga.
+Pantalla de detalle de una oferta para usuarios autenticados, con botón activo para solicitarla y toda la información relevante del transporte: presupuesto, licencias, origen/destino, fechas y carga. Para las ofertas de carga se incluye un mapa con la ruta entre origen y destino.
 
-![image](images/detalleoferta1.png)
+![image](images/detalles_oferta_mapa.png)
 
 Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado.
 
-![image](images/solicitud.png)
+![image](../3.%20Sprint%202%20(S2)/images/solicitud.png)
 
 ### 4.4 Listado de empresas
 Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados.
 
-![image](images/listaempresas.png)
+![image](../3.%20Sprint%202%20(S2)/images/listaempresas.png)
 
 ### 4.5 Detalle de empresa
 Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. También se muestra una sección para valoraciones de otros usuarios.
 
-![image](images/detalleempresa.png)
+![image](../3.%20Sprint%202%20(S2)/images/detalleempresa.png)
 
 ## 5. Camionero
 
@@ -181,31 +181,46 @@ Vista del perfil de una empresa con su información de contacto, descripción, s
 
 Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click en el icono de lápiz de al lado de la foto de perfil.
 
-![image](images/miperfilcam.png)
+![image](../3.%20Sprint%202%20(S2)/images/miperfilcam.png)
 
 Perfil público visible para las empresas, donde se muestra información laboral, contacto y reseñas recibidas.
 
-![image](images/miperfilcam2.png)
+![image](../3.%20Sprint%202%20(S2)/images/miperfilcam2.png)
 
 ### 5.2 Mis Ofertas
 
 Una vez iniciada la sesión como camionero, aparece en la barra de navegación la sección "Mis Ofertas" que muestra las solicitudes que ha realizado el camionero y se pueden filtrar por ofertas pendientes (en espera de respuesta por parte de la empresa), asignadas (ofertas aceptadas por la empresa) o descartadas (ofertas en las que el camionero no fue seleccionado para el trabajo o carga).
 
-![image](images/misofertas1.png)
-![image](images/misofertas2.png)
-![image](images/misofertas3.png)
+![image](../3.%20Sprint%202%20(S2)/images/misofertas1.png)
+![image](../3.%20Sprint%202%20(S2)/images/misofertas2.png)
+![image](../3.%20Sprint%202%20(S2)/images/misofertas3.png)
 
 ### 5.3 Chat
 Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
 
 <p align="center">
-<img src="images/barrachat.png">
+<img src="images/barramensajes.png">
 </p>
 
 En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
 
 <p align="center">
-<img src="images/chatcam.png">
+<img src="images/mensajes.png">
+</p>
+
+<p align="center">
+<img src="images/mensajesdentro.png">
+</p>
+
+La pantalla también cuenta con un buscador que filtra por el nombre del usuario con el que se quiera contactar. Solo aparecerán aquellos usuarios con los que tenga un chat abierto previamente.
+
+<p align="center">
+<img src="images/buscarchat.png">
+</p>
+
+En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente. 
+<p align="center">
+<img src="images/Notificaciones.png">
 </p>
 
 ## 6. Empresas
@@ -214,18 +229,20 @@ En la pantalla de chats se podrán ver los chats abiertos. Una vez que se selecc
 
 Vista privada del perfil de empresa, con acceso para editar información, publicar nuevas ofertas y gestionar el plan de suscripción. Muestra también las ofertas activas y las reseñas recibidas.
 
-![image](images/miperfilemp.png)
+![image](../3.%20Sprint%202%20(S2)/images/miperfilemp.png)
 
 Perfil público de empresa donde se pueden consultar los datos de contacto, descripción, web, ofertas abiertas y reseñas de la empresa.
 
-![image](images/miperfilemp2.png)
+![image](../3.%20Sprint%202%20(S2)/images/miperfilemp2.png)
 
 ### 6.2 Crear Oferta
 
 Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros desde tu perfil. Para hacerlo, debes rellenar los campos requeridos según el tipo de oferta que quieras publicar, ya sea de carga o de trabajo. Tras publicarla, esta oferta será visible para el resto de usuarios.
 
-![image](images/crearoferta1.png)
-![image](images/crearoferta2.png)
+<p align="center">
+<img src="images/crearoferta.jpg">
+</p>
+
 
 Además, hay un botón para poder guardar borradores de las ofertas. 
 
@@ -263,7 +280,7 @@ En la pantalla de perfil de empresa, verás un botón para crear una nueva ofert
 
 Pantalla donde las empresas pueden elegir entre tres planes: Gratis, Básico y Premium, con distintas capacidades para publicar ofertas de empleo según el nivel de suscripción.
 
-![image](images/suscripciones.png)
+![image](../3.%20Sprint%202%20(S2)/images/suscripciones.png)
 
 ### 6.4 Promocionar Oferta
 
@@ -276,29 +293,13 @@ En el perfil de oferta se podrán ver las ofertas abiertas de las empresas, y en
 ![{E9148651-6596-4819-809D-2CE320397739}](https://github.com/user-attachments/assets/12a47bb5-791f-4081-9928-319051e8b21e)
 
 ### 6.5 Chat
-Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
-
-<p align="center">
-<img src="images/barrachat2.png">
-</p>
-
-En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
-
-<p align="center">
-<img src="images/chatemp.png">
-</p>
-
-En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente. 
-<p align="center">
-<img src="images/Notificaciones.png">
-</p>
-
+Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes". Tienen las mismas características que el panel de mensajes de camioneros (véase [5.3 Chat](#53-chat)).
 
 ### 6.6 Mis Ofertas
 Listado de ofertas de trabajo o carga creadas por la empresa que han sido asignadas (abiertas) o no (cerrradas) a algún camionero.
 
-![image](images/misofertasemp1.png)
-![image](images/misofertasemp2.png)
+![image](../3.%20Sprint%202%20(S2)/images/misofertasemp1.png)
+![image](../3.%20Sprint%202%20(S2)/images/misofertasemp2.png)
 
 
 
@@ -308,43 +309,43 @@ Listado de ofertas de trabajo o carga creadas por la empresa que han sido asigna
 Una vez registrado como empresa, en su perfil, podemos ver si dicha empresa tiene o no alguna reseña y su valoración media.
 
 <p align="center">
-<img src="images/resena_miperfilempresa.png">
+<img src="../3. Sprint 2 (S2)/images/resena_miperfilempresa.png">
 </p>
 
 También pueden ver las reseñas de la empresa cualquier otro usuario.
 
 <p align="center">
-<img src="images/resena_publicempresa.png">
+<img src="../3. Sprint 2 (S2)/images/resena_publicempresa.png">
 </p>
 
 ### 7.2 Reseñas camioneros
 Una vez registrado como camionero, en su perfil, podemos ver si dicho camionero tiene o no alguna reseña y su valoración media.
 
 <p align="center">
-<img src="images/resena_miperfilcamionero.png">
+<img src="../3. Sprint 2 (S2)/images/resena_miperfilcamionero.png">
 </p>
 
 También pueden ver las reseñas del camionero cualquier otro usuario.
 
 <p align="center">
-<img src="images/resena_publiccamionero.png">
+<img src="../3. Sprint 2 (S2)/images/resena_publiccamionero.png">
 </p>
 
 ### 7.3 Crear y editar reseñas
 Un usuario podrá crear una reseña pulsando en el botón "Escribir reseña".
 
 <p align="center">
-<img src="images/resena_crear.png">
+<img src="../3. Sprint 2 (S2)/images/resena_crear.png">
 </p>
 
 <p align="center">
-<img src="images/resena_creada.png">
+<img src="../3. Sprint 2 (S2)/images/resena_creada.png">
 </p>
 
 Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña. 
 
 <p align="center">
-<img src="images/resena_editar.png">
+<img src="../3. Sprint 2 (S2)/images/resena_editar.png">
 </p>
 
 ## 8. Pagos

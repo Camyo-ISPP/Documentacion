@@ -667,6 +667,11 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
+- Implementó los mapas y el componente de elección de ciudad en ofertas.
+- Revisó 2 pull requests.
+- Realizó ajustes en frontend para implementar anuncios (trabajo en desarrollo).
+- Revisó los documentos y la aplicación antes de la entrega.
+- Ayudó a elaborar la presentación mid-sprint.
 
 **Jiménez Guerrero, Pedro:**
 - Elaboró los tests de las clases EmpresaService, EmpresaController, AuthController y AuthService.
@@ -689,6 +694,13 @@
 
 **Pérez Manzano, Francisco:**
 
+- Participo en las reuniones de equipo
+- Creo los tests para pago de stripe en banco, tanto mockeados e von integración
+- Reviso pull requests
+- Creo la encuesta y recopiló los resultados del uso de IA
+- Comparo CodiumAI y Copilot para ver que herramienta era más eficiente implementar al flujo de trabajo de pull requests
+- Preparó cambios para la implementación de eliminar anuncios en backend
+  
 **Pérez Vargas, Diego José:**
 
 - Realizó la implementación de validaciones semánticas para DNI/NIF y números de teléfono y validación sintáctica para archivos y nombres de usuario.
@@ -721,4 +733,19 @@
 
 **Vento Conesa, Adriana:**
 
+- Participó activamente en reuniones de planificación con los coordinadores y sesiones grupales.
+- Implementó mejoras frontend clave, como la mejora de filtros e interfaz (Tarea Frontend 70), el rediseño de la pasarela de pago (Tarea Frontend 68) y la mejora del estilo del chat (Tarea Frontend 79).
+- Contribuyó a la unificación y mejora de la UI, incluyendo ajustes en la barra de navegación y estandarización de estilos visuales.
+- Redactó y actualizó documentación obligatoria para el Sprint 3.
+- Proporcionó feedback grupal e individual, documentando observaciones en la BCC correspondiente a varias semanas.
+- Realizó revisiones técnicas, identificando y corrigiendo errores relacionados con el despliegue y la base de datos antes de la entrega.
+- Participó activamente en la configuración y pruebas necesarias para el despliegue del Sprint.
+
 **Yao, Jun:**
+- Implementó los tests de la funcionalidad de usuario,suscripción y reseña, tanto de controlador como de service.
+- Participó en todas las reuniones organizadas.
+- Participó en la solución de errores presentes en algunos tests.
+- Revisó pull requests.
+- Comprobó la cobertura de algunos tests.
+- Arregló algunos conflictos de testing usuario.
+- Revisó los documentos.
