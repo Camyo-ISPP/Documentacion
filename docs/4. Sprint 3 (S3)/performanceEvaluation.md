@@ -733,6 +733,14 @@
 
 **Vento Conesa, Adriana:**
 
+- Participó activamente en reuniones de planificación con los coordinadores y sesiones grupales.
+- Implementó mejoras frontend clave, como la mejora de filtros e interfaz (Tarea Frontend 70), el rediseño de la pasarela de pago (Tarea Frontend 68) y la mejora del estilo del chat (Tarea Frontend 79).
+- Contribuyó a la unificación y mejora de la UI, incluyendo ajustes en la barra de navegación y estandarización de estilos visuales.
+- Redactó y actualizó documentación obligatoria para el Sprint 3.
+- Proporcionó feedback grupal e individual, documentando observaciones en la BCC correspondiente a varias semanas.
+- Realizó revisiones técnicas, identificando y corrigiendo errores relacionados con el despliegue y la base de datos antes de la entrega.
+- Participó activamente en la configuración y pruebas necesarias para el despliegue del Sprint.
+
 **Yao, Jun:**
 - Implementó los tests de la funcionalidad de usuario,suscripción y reseña, tanto de controlador como de service.
 - Participó en todas las reuniones organizadas.
