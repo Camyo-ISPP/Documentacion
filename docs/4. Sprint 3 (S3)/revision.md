@@ -62,8 +62,7 @@
    7.2 [Reseñas camioneros](#72-reseñas-camioneros)  
    7.3 [Crear y editar reseñas](#73-crear-y-editar-reseñas)
 8. [Pagos](#8-pagos)  
-   8.1 [Eliminar anuncios](#81-eliminar-anuncios)  
-   8.2 [Finalizar compra](#82-finalizar-compra)  
+   8.1 [Finalizar compra](#81-finalizar-compra)  
 
 
 ## 1. Resumen Ejecutivo
@@ -350,19 +349,12 @@ Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña.
 
 ## 8. Pagos
 
-### 8.1 Eliminar anuncios
-
-Por defecto, se muestran anuncios a los usuarios de la aplicación en ciertas pantallas. En el perfil de usuario, tanto camionero como empresa, se encuentra un botón de **Eliminar anuncios**. Al pulsarlo, el usuario será redirigido a la página de compra. Una vez realizado el pago, no se le mostrarán más anuncios al usuario.
-
-![image](https://i.imgur.com/mSU01lU.png)
-
-### 8.2 Finalizar compra
+### 8.1 Finalizar compra
 
 Para acceder a la página para finalizar la compra, primero se deberá interactuar con un botón que lleve a ella. Este puede ser:
 
 - El botón **Cambiar a este plan** en uno de los planes de suscripción (véase [6.3 Suscripciones](#63-suscripciones))
 - El botón **Patrocinar** en los listados de oferta para empresas (véase [6.4 Promocionar Oferta](#64-promocionar-oferta) o [6.6 Mis Ofertas](#66-mis-ofertas))
-- El botón **Eliminar anuncios** en el perfil de usuario (véase [8.1 Eliminar anuncios](#81-eliminar-anuncios))
 
 Una vez se haya pulsado uno de estos botones, el usuario será redirigido a la siguiente página:
 
