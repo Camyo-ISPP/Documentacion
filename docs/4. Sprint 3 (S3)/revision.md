@@ -216,9 +216,12 @@ Perfil público visible para las empresas, donde se muestra información laboral
 
 Una vez iniciada la sesión como camionero, aparece en la barra de navegación la sección "Mis Ofertas" que muestra las solicitudes que ha realizado el camionero y se pueden filtrar por ofertas pendientes (en espera de respuesta por parte de la empresa), asignadas (ofertas aceptadas por la empresa) o descartadas (ofertas en las que el camionero no fue seleccionado para el trabajo o carga).
 
-![image](../3.%20Sprint%202%20(S2)/images/misofertas1.png)
-![image](../3.%20Sprint%202%20(S2)/images/misofertas2.png)
-![image](../3.%20Sprint%202%20(S2)/images/misofertas3.png)
+![image](https://github.com/user-attachments/assets/58a0555d-3912-4dc7-93d3-8f9c75e38aff)
+
+![image](https://github.com/user-attachments/assets/3d0413f7-da11-4017-aca2-5b7c410aa7a2)
+
+![image](https://github.com/user-attachments/assets/06c63099-cb29-4ebb-b9e1-92e6aa617da8)
+
 
 ### 5.3 Chat
 Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
@@ -254,11 +257,14 @@ En la pantalla de chat se podrá visualizar las notificaciones para saber si tie
 
 Vista privada del perfil de empresa, con acceso para editar información, publicar nuevas ofertas y gestionar el plan de suscripción. Muestra también las ofertas activas y las reseñas recibidas.
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilemp.png)
+![image](https://github.com/user-attachments/assets/379229be-c4b6-43d8-abad-2766d1d74b5b)
+![image](https://github.com/user-attachments/assets/5dfb7fcb-bba5-4599-a230-5409ba1279da)
+
 
 Perfil público de empresa donde se pueden consultar los datos de contacto, descripción, web, ofertas abiertas y reseñas de la empresa.
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilemp2.png)
+![image](https://github.com/user-attachments/assets/9dee2df4-2f18-439e-97c8-1c0636a0bb2f)
+
 
 ### 6.2 Crear Oferta
 
