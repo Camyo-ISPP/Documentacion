@@ -688,6 +688,16 @@
 
 **Rodríguez Millán, María Cristina:**
 
+- Comenzó la implementación del modo borrador de las ofertas.
+- Comenzó la implementación de edición de ofertas.
+- Planificó y redactó un documento para el primer anuncio.
+- Ayudó con la grabación del primer anuncio.
+- Revisó pull request.
+- Arregló algunos conflictos de la rama de borrador.
+- Planificó el segundo anuncio.
+- Ayudó con la grabación del segundo anuncio.
+- Presentó las 2 semanas.
+
 **Rus Morales, Sonia María:**
 
 - Implementó la lógica de suscripciones en las rutas y botones.
