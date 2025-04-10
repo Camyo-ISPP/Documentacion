@@ -154,7 +154,7 @@ La pantalla tiene una seccion de búsqueda que permite filtrar ofertas según lo
 ### 4.3 Detalle de oferta
 Vista del detalle de una oferta visible para visitantes, que muestra los datos pero requiere iniciar sesión para poder solicitarla.
 
-![image](../3.%20Sprint%202%20(S2)/images/detalleoferta2.png)
+![image](https://github.com/user-attachments/assets/e2797c89-e28d-4faa-8a91-5a8ba054da2b)
 
 Pantalla de detalle de una oferta para usuarios autenticados, con botón activo para solicitarla y toda la información relevante del transporte: presupuesto, licencias, origen/destino, fechas y carga. Para las ofertas de carga se incluye un mapa con la ruta entre origen y destino.
 
@@ -163,6 +163,19 @@ Pantalla de detalle de una oferta para usuarios autenticados, con botón activo 
 Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado.
 
 ![image](../3.%20Sprint%202%20(S2)/images/solicitud.png)
+
+En el caso de estar iniciado sesión como empresa, y entramos en detalle de oferta en una oferta propia. Veríamos las camioneros que han solicitado la oferta:
+
+![image](https://github.com/user-attachments/assets/be61c861-5a6e-4e8a-b41b-7600c6f25798)
+
+Los camioneros que han aplicado a la oferta y la empresa que ha hecho la oferta ha rechazado:
+
+![image](https://github.com/user-attachments/assets/d9d500cc-4dac-4926-bfd3-ed2ebcb470a9)
+
+Y la opción de eliminar la oferta:
+
+![image](https://github.com/user-attachments/assets/c0850258-e05e-49ce-8438-f22a1b2456eb)
+
 
 ### 4.4 Listado de empresas
 Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados.
