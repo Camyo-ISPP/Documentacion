@@ -131,25 +131,25 @@ Formulario para que usuarios registrados ingresen con su nombre de usuario y con
 
 Pantalla principal para usuarios no autenticados, destacando el objetivo de la plataforma y mostrando ofertas recientes disponibles para explorar sin necesidad de iniciar sesión.
 
-![image](../3.%20Sprint%202%20(S2)/images/home.png)
-![image](../3.%20Sprint%202%20(S2)/images/home-2.png)
-![image](../3.%20Sprint%202%20(S2)/images/home-3.png)
+![image](images/home.png)
+![image](images/home2.png)
+![image](images/home3.png)
 
 **Usuario registrado:**
 
 Pantalla de bienvenida personalizada para usuarios registrados, con accesos rápidos al perfil y a vacantes, además de una lista de ofertas recientes divididas por tipo: carga y trabajo.
 
-![image](../3.%20Sprint%202%20(S2)/images/home-4.png)
+![image](images/home4.png)
 
 ### 4.2 Explorar y buscar ofertas
 
 Vista general del buscador de ofertas donde los usuarios pueden explorar las ofertas publicadas.
 
-![image](../3.%20Sprint%202%20(S2)/images/buscarofertas.png)
+![image](images/buscarofertas.png)
 
 La pantalla tiene una seccion de búsqueda que permite filtrar ofertas según los requisitos del usuario, mostrando resultados relevantes en tiempo real.
 
-![image](../3.%20Sprint%202%20(S2)/images/buscarofertas2.png)
+![image](images/buscarofertas2.png)
 
 
 ### 4.3 Detalle de oferta
@@ -199,13 +199,28 @@ Una vez iniciada la sesión como camionero, aparece en la barra de navegación l
 Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/barrachat.png">
+<img src="images/barramensajes.png">
 </p>
 
 En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/chatcam.png">
+<img src="images/mensajes.png">
+</p>
+
+<p align="center">
+<img src="images/mensajesdentro.png">
+</p>
+
+La pantalla también cuenta con un buscador que filtra por el nombre del usuario con el que se quiera contactar. Solo aparecerán aquellos usuarios con los que tenga un chat abierto previamente.
+
+<p align="center">
+<img src="images/buscarchat.png">
+</p>
+
+En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente. 
+<p align="center">
+<img src="images/Notificaciones.png">
 </p>
 
 ## 6. Empresas
@@ -278,23 +293,7 @@ En el perfil de oferta se podrán ver las ofertas abiertas de las empresas, y en
 ![{E9148651-6596-4819-809D-2CE320397739}](https://github.com/user-attachments/assets/12a47bb5-791f-4081-9928-319051e8b21e)
 
 ### 6.5 Chat
-Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
-
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/barrachat2.png">
-</p>
-
-En la pantalla de chats se podrán ver los chats abiertos. Una vez que se seleccione el chat, se abrirá automáticamente a la derecha de la lista, por lo que se podrá comenzar a enviar y recibir mensajes.
-
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/chatemp.png">
-</p>
-
-En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente. 
-<p align="center">
-<img src="images/Notificaciones.png">
-</p>
-
+Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes". Tienen las mismas características que el panel de mensajes de camioneros (véase [5.3 Chat](#53-chat)).
 
 ### 6.6 Mis Ofertas
 Listado de ofertas de trabajo o carga creadas por la empresa que han sido asignadas (abiertas) o no (cerrradas) a algún camionero.
