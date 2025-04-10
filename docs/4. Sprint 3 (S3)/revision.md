@@ -97,25 +97,25 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 Pantalla inicial del registro donde el usuario debe elegir si se registrará como Camionero o Empresa.
 
 
-![image](../3.%20Sprint%202%20(S2)/images/registro1.png)
+![image](./images/registro_opciones.png)
 
 #### 3.1.1 Registro como camionero
-Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo.
+Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo. Cabe destacar la obligación de aceptar términos y condiciones.
 
-![image](../3.%20Sprint%202%20(S2)/images/registro2.png)
-![image](../3.%20Sprint%202%20(S2)/images/registro3.png)
+![image](images/registro_camionero.png)
+![image](images/registro_camionero2.png)
 
 #### 3.1.2 Registro como empresa
-Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. 
+Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. Cabe destacar la obligación de aceptar términos y condiciones.
 
-![image](../3.%20Sprint%202%20(S2)/images/registro4.png)
-![image](../3.%20Sprint%202%20(S2)/images/registro5.png)
+![image](images/registro_empresa.png)
+![image](images/registro_empresa2.png)
 
 
 ### 3.2 Inicio de sesión
 Formulario para que usuarios registrados ingresen con su nombre de usuario y contraseña. Incluye opción para redirigirse al registro si aún no tienen cuenta.
 
-![image](../3.%20Sprint%202%20(S2)/images/iniciosesion.png)
+![image](images/inicio_sesion.png)
 
 
 
