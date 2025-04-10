@@ -38,12 +38,7 @@
     - [Pruebas de integración](#pruebas-de-integración)
     - [Pruebas de aceptación](#pruebas-de-aceptación)
     - [Pruebas de rendimiento](#pruebas-de-rendimiento)
-4. [Resultados](#resultados)
-    - [Pruebas unitarias](#pruebas-unitarias-1)
-    - [Pruebas de integración](#pruebas-de-integración-1)
-    - [Pruebas de aceptación](#pruebas-de-aceptación-1)
-    - [Pruebas de rendimiento](#pruebas-de-rendimiento-1)
-5. [Conclusión](#conclusion)
+
 
 ## Alcance
 
@@ -152,27 +147,4 @@ Para estas pruebas se usará [JMeter](https://www.baeldung.com/jmeter)
   - Listado de ofertas y empresas
   - Registro e inicio de sesión 
   - Publicación de ofertas y patrocinio
-
-## Resultados
-
-### Pruebas unitarias
-
-
-
-### Pruebas de Integración
-
-
-
-### Pruebas de aceptación
-
-
-
-### Pruebas de rendimiento
-
-
-
-## Conclusión
-
-
-
 
