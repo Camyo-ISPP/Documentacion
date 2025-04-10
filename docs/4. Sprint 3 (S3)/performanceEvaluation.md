@@ -32,11 +32,13 @@
 
 ## Tabla de Contenidos
 
-1. [Agreed Individual Performance Evaluation ](#agreed-individual-performance-evaluation)
-2. [Individual Contribution Summary](#individual-contribution-summary)
-   - [Devising a Project (#DP1)](#devising-a-project-dp1)
-   - [Sprint 1 (#S1)](#sprint-1-s1)
-   - [Sprint 2 (#S2)](#sprint-2-s2)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Agreed Individual Performance Evaluation](#agreed-individual-performance-evaluation)
+  - [Individual Contribution Summary](#individual-contribution-summary)
+    - [Devising a Project (#DP1)](#devising-a-project-dp1)
+    - [Sprint 1 (#S1)](#sprint-1-s1)
+    - [Sprint 2 (#S2)](#sprint-2-s2)
+    - [Sprint 3 (#S3)](#sprint-3-s3)
 
 ### Agreed Individual Performance Evaluation
 
@@ -667,7 +669,12 @@
 **Heras Pérez, Raúl:**
 
 **Jiménez Guerrero, Pedro:**
-
+- Elaboró los tests de las clases EmpresaService, EmpresaController, AuthController y AuthService.
+- Redactó el documento de plan de pruebas.
+- Revisó pull requests.
+- Preparó las pruebas para los usuarios piloto.
+- Participó en todas las reuniones del equipo.
+- 
 **Meana Iturri, Claudia:**
 
 **Pérez Garrido, Rubén:**
