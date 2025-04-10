@@ -162,7 +162,8 @@ Pantalla de detalle de una oferta para usuarios autenticados, con botón activo 
 
 Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado.
 
-![image](../3.%20Sprint%202%20(S2)/images/solicitud.png)
+![image](https://github.com/user-attachments/assets/a5e70e85-f033-4b50-a4fa-80aecd7cb693)
+
 
 En el caso de estar iniciado sesión como empresa, y entramos en detalle de oferta en una oferta propia. Veríamos las camioneros que han solicitado la oferta:
 
@@ -194,15 +195,22 @@ Vista del perfil de una empresa con su información de contacto, descripción, s
 
 ### 5.1 Perfil de camionero
 
-Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click en el icono de lápiz de al lado de la foto de perfil. Se accede haciendo clic sobre la imagen de perfil en la parte superior derecha de la pantalla, y después en ver perfil.
+Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click sobre la imagen de perfil en la parte superior derecha de la pantalla, y después en ver perfil. Dentro de tu perfil podrás editar el perfil haciendo click sobre el lapiz al lado de la foto de perfil y si quisiera eliminar su cuenta se hace abajo en eliminar cuenta
 ![image](https://github.com/user-attachments/assets/fc43da7f-31e1-434d-8b50-5a74741dbcaf)
 
 ![image](https://github.com/user-attachments/assets/5d392ae6-7f58-492a-99c6-3d9ef42345cd)
 
+En la edición de perfil el usuario podrá editar:
+![image](https://github.com/user-attachments/assets/896b41fa-3256-4014-a6f8-a641d5c306ba)
+
+![image](https://github.com/user-attachments/assets/cadb5a05-90ca-4685-9707-cba0ee80d4dd)
+
+![image](https://github.com/user-attachments/assets/7a9766b1-3dd1-4e4a-93cb-4aa7a9ac26e0)
 
 Perfil público visible para las empresas, donde se muestra información laboral, contacto y reseñas recibidas.
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilcam2.png)
+![image](https://github.com/user-attachments/assets/4be39ed4-dd9a-4004-8e57-66e8b0f7015e)
+
 
 ### 5.2 Mis Ofertas
 
