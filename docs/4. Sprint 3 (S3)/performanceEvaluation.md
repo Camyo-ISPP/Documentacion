@@ -694,6 +694,13 @@
 
 **Pérez Manzano, Francisco:**
 
+- Participo en las reuniones de equipo
+- Creo los tests para pago de stripe en banco, tanto mockeados e von integración
+- Reviso pull requests
+- Creo la encuesta y recopiló los resultados del uso de IA
+- Comparo CodiumAI y Copilot para ver que herramienta era más eficiente implementar al flujo de trabajo de pull requests
+- Preparó cambios para la implementación de eliminar anuncios en backend
+  
 **Pérez Vargas, Diego José:**
 
 - Realizó la implementación de validaciones semánticas para DNI/NIF y números de teléfono y validación sintáctica para archivos y nombres de usuario.
