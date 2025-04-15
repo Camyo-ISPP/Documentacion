@@ -30,6 +30,8 @@
 | --- | --- |
 | Raúl Heras Pérez | Mapas |
 | José Ramón Baños Botón | Notificaciones y Borradores |
+| Claudia Meana Iturri| Actualización general de imágenes y texto de varios apartados |
+| Diego José Pérez Vargas | Pagos |
 
 # Tabla de Contenidos
 
@@ -58,12 +60,10 @@
    6.5 [Chat](#65-chat)  
    6.6 [Mis Ofertas](#66-mis-ofertas)  
 7. [Reseñas](#7-reseñas)  
-   7.1 [Reseñas empresas](#71-reseñas-empresas)  
-   7.2 [Reseñas camioneros](#72-reseñas-camioneros)  
-   7.3 [Crear y editar reseñas](#73-crear-y-editar-reseñas)
+   7.1 [Crear y ver Reseñas](#71-crear-y-ver-reseñas)  
+   7.2 [Editar y Eliminar reseñas](#72-editar-y-eliminar-reseñas)
 8. [Pagos](#8-pagos)  
-   8.1 [Eliminar anuncios](#81-eliminar-anuncios)  
-   8.2 [Finalizar compra](#82-finalizar-compra)  
+   8.1 [Finalizar compra](#81-finalizar-compra)  
 
 
 ## 1. Resumen Ejecutivo
@@ -98,25 +98,25 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 Pantalla inicial del registro donde el usuario debe elegir si se registrará como Camionero o Empresa.
 
 
-![image](../3.%20Sprint%202%20(S2)/images/registro1.png)
+![image](./images/registro_opciones.png)
 
 #### 3.1.1 Registro como camionero
-Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo.
+Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo. Cabe destacar la obligación de aceptar términos y condiciones.
 
-![image](../3.%20Sprint%202%20(S2)/images/registro2.png)
-![image](../3.%20Sprint%202%20(S2)/images/registro3.png)
+![image](images/registro_camionero.png)
+![image](images/registro_camionero2.png)
 
 #### 3.1.2 Registro como empresa
-Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. 
+Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. Cabe destacar la obligación de aceptar términos y condiciones.
 
-![image](../3.%20Sprint%202%20(S2)/images/registro4.png)
-![image](../3.%20Sprint%202%20(S2)/images/registro5.png)
+![image](images/registro_empresa.png)
+![image](images/registro_empresa2.png)
 
 
 ### 3.2 Inicio de sesión
 Formulario para que usuarios registrados ingresen con su nombre de usuario y contraseña. Incluye opción para redirigirse al registro si aún no tienen cuenta.
 
-![image](../3.%20Sprint%202%20(S2)/images/iniciosesion.png)
+![image](images/inicio_sesion.png)
 
 
 
@@ -155,7 +155,7 @@ La pantalla tiene una seccion de búsqueda que permite filtrar ofertas según lo
 ### 4.3 Detalle de oferta
 Vista del detalle de una oferta visible para visitantes, que muestra los datos pero requiere iniciar sesión para poder solicitarla.
 
-![image](../3.%20Sprint%202%20(S2)/images/detalleoferta2.png)
+![image](https://github.com/user-attachments/assets/e2797c89-e28d-4faa-8a91-5a8ba054da2b)
 
 Pantalla de detalle de una oferta para usuarios autenticados, con botón activo para solicitarla y toda la información relevante del transporte: presupuesto, licencias, origen/destino, fechas y carga. Para las ofertas de carga se incluye un mapa con la ruta entre origen y destino.
 
@@ -163,37 +163,66 @@ Pantalla de detalle de una oferta para usuarios autenticados, con botón activo 
 
 Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado.
 
-![image](../3.%20Sprint%202%20(S2)/images/solicitud.png)
+![image](https://github.com/user-attachments/assets/a5e70e85-f033-4b50-a4fa-80aecd7cb693)
+
+
+En el caso de estar iniciado sesión como empresa, y entramos en detalle de oferta en una oferta propia. Veríamos las camioneros que han solicitado la oferta:
+
+![image](https://github.com/user-attachments/assets/be61c861-5a6e-4e8a-b41b-7600c6f25798)
+
+Los camioneros que han aplicado a la oferta y la empresa que ha hecho la oferta ha rechazado:
+
+![image](https://github.com/user-attachments/assets/d9d500cc-4dac-4926-bfd3-ed2ebcb470a9)
+
+Y la opción de eliminar la oferta:
+
+![image](https://github.com/user-attachments/assets/c0850258-e05e-49ce-8438-f22a1b2456eb)
+
 
 ### 4.4 Listado de empresas
-Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados.
+Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados. Se accede mediante el botón de menú sobre empresa.
 
-![image](../3.%20Sprint%202%20(S2)/images/listaempresas.png)
+![image](https://github.com/user-attachments/assets/dc310496-9942-4df9-ba42-b47a2b8f8ade)
+
 
 ### 4.5 Detalle de empresa
-Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. También se muestra una sección para valoraciones de otros usuarios.
+Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. Se ve las ofertas patrocinadas de la empresa en las ofertas activas. También se muestra una sección para valoraciones de otros usuarios.
 
-![image](../3.%20Sprint%202%20(S2)/images/detalleempresa.png)
+![image](https://github.com/user-attachments/assets/76b45642-924d-4f57-a49d-cc7f5a74e7d1)
+![image](https://github.com/user-attachments/assets/a11b1288-a9a7-402d-af08-ea9252bea6a9)
+
 
 ## 5. Camionero
 
 ### 5.1 Perfil de camionero
 
-Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click en el icono de lápiz de al lado de la foto de perfil.
+Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click sobre la imagen de perfil en la parte superior derecha de la pantalla, y después en ver perfil. Dentro de tu perfil podrás editar el perfil haciendo click sobre el lapiz al lado de la foto de perfil y si quisiera eliminar su cuenta se hace abajo en eliminar cuenta
+![image](https://github.com/user-attachments/assets/fc43da7f-31e1-434d-8b50-5a74741dbcaf)
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilcam.png)
+![image](https://github.com/user-attachments/assets/5d392ae6-7f58-492a-99c6-3d9ef42345cd)
+
+En la edición de perfil el usuario podrá editar:
+![image](https://github.com/user-attachments/assets/896b41fa-3256-4014-a6f8-a641d5c306ba)
+
+![image](https://github.com/user-attachments/assets/cadb5a05-90ca-4685-9707-cba0ee80d4dd)
+
+![image](https://github.com/user-attachments/assets/7a9766b1-3dd1-4e4a-93cb-4aa7a9ac26e0)
 
 Perfil público visible para las empresas, donde se muestra información laboral, contacto y reseñas recibidas.
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilcam2.png)
+![image](https://github.com/user-attachments/assets/4be39ed4-dd9a-4004-8e57-66e8b0f7015e)
+
 
 ### 5.2 Mis Ofertas
 
 Una vez iniciada la sesión como camionero, aparece en la barra de navegación la sección "Mis Ofertas" que muestra las solicitudes que ha realizado el camionero y se pueden filtrar por ofertas pendientes (en espera de respuesta por parte de la empresa), asignadas (ofertas aceptadas por la empresa) o descartadas (ofertas en las que el camionero no fue seleccionado para el trabajo o carga).
 
-![image](../3.%20Sprint%202%20(S2)/images/misofertas1.png)
-![image](../3.%20Sprint%202%20(S2)/images/misofertas2.png)
-![image](../3.%20Sprint%202%20(S2)/images/misofertas3.png)
+![image](https://github.com/user-attachments/assets/58a0555d-3912-4dc7-93d3-8f9c75e38aff)
+
+![image](https://github.com/user-attachments/assets/3d0413f7-da11-4017-aca2-5b7c410aa7a2)
+
+![image](https://github.com/user-attachments/assets/06c63099-cb29-4ebb-b9e1-92e6aa617da8)
+
 
 ### 5.3 Chat
 Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
@@ -229,11 +258,14 @@ En la pantalla de chat se podrá visualizar las notificaciones para saber si tie
 
 Vista privada del perfil de empresa, con acceso para editar información, publicar nuevas ofertas y gestionar el plan de suscripción. Muestra también las ofertas activas y las reseñas recibidas.
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilemp.png)
+![image](https://github.com/user-attachments/assets/379229be-c4b6-43d8-abad-2766d1d74b5b)
+![image](https://github.com/user-attachments/assets/5dfb7fcb-bba5-4599-a230-5409ba1279da)
+
 
 Perfil público de empresa donde se pueden consultar los datos de contacto, descripción, web, ofertas abiertas y reseñas de la empresa.
 
-![image](../3.%20Sprint%202%20(S2)/images/miperfilemp2.png)
+![image](https://github.com/user-attachments/assets/9dee2df4-2f18-439e-97c8-1c0636a0bb2f)
+
 
 ### 6.2 Crear Oferta
 
@@ -253,9 +285,13 @@ Además, hay un botón para poder guardar borradores de las ofertas.
 En la pantalla de "Mis Ofertas" en "Borradores" podremos ver los borradores que se han creado.
 
 <p align="center">
-<img src="images/Borradores.png">
+<img src="images/listaBorradores.png">
 </p>
 
+Además está la posibilidad de editar estos borradores, eliminarlos o publicarlos
+<p align="center">
+<img src="images/editarBorrador.png">
+</p>
 
 
 
@@ -306,64 +342,44 @@ Listado de ofertas de trabajo o carga creadas por la empresa que han sido asigna
 
 
 ## 7. Reseñas
-### 7.1 Reseñas empresas
-Una vez registrado como empresa, en su perfil, podemos ver si dicha empresa tiene o no alguna reseña y su valoración media.
+### 7.1 Crear y ver reseñas 
+Tanto para camionero como para perfil se les permitirá valorar a las empresas o camioneros recientes y ver los comentarios que han sido dejados por la empresas o camioneros con los q se ha trabajado recientemente.
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_miperfilempresa.png">
+<img src="images/valorarEnPerfil.png">
+</p>
+<p align="center">
+<img src="images/crearReseña.png">
 </p>
 
-También pueden ver las reseñas de la empresa cualquier otro usuario.
+También pueden ver las reseñas de un usuario y su valoración media. En este caso de un camionero.
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_publicempresa.png">
+<img src="images/recibirReseñas.png">
 </p>
 
-### 7.2 Reseñas camioneros
-Una vez registrado como camionero, en su perfil, podemos ver si dicho camionero tiene o no alguna reseña y su valoración media.
+
+### 7.2 Editar y Eliminar reseñas
+Cuando un usuario visite un perfil público en el que ha dejado una reseña podrá editar y borrar su reseña
 
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_miperfilcamionero.png">
+<img src="images/editarReseña.png">
 </p>
-
-También pueden ver las reseñas del camionero cualquier otro usuario.
-
 <p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_publiccamionero.png">
+<img src="images/modalResena.png">
 </p>
 
-### 7.3 Crear y editar reseñas
-Un usuario podrá crear una reseña pulsando en el botón "Escribir reseña".
 
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_crear.png">
-</p>
 
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_creada.png">
-</p>
-
-Luego, el usuario pulsando el botón "Editar reseña" podra editar la reseña. 
-
-<p align="center">
-<img src="../3. Sprint 2 (S2)/images/resena_editar.png">
-</p>
 
 ## 8. Pagos
 
-### 8.1 Eliminar anuncios
-
-Por defecto, se muestran anuncios a los usuarios de la aplicación en ciertas pantallas. En el perfil de usuario, tanto camionero como empresa, se encuentra un botón de **Eliminar anuncios**. Al pulsarlo, el usuario será redirigido a la página de compra. Una vez realizado el pago, no se le mostrarán más anuncios al usuario.
-
-![image](https://i.imgur.com/mSU01lU.png)
-
-### 8.2 Finalizar compra
+### 8.1 Finalizar compra
 
 Para acceder a la página para finalizar la compra, primero se deberá interactuar con un botón que lleve a ella. Este puede ser:
 
 - El botón **Cambiar a este plan** en uno de los planes de suscripción (véase [6.3 Suscripciones](#63-suscripciones))
 - El botón **Patrocinar** en los listados de oferta para empresas (véase [6.4 Promocionar Oferta](#64-promocionar-oferta) o [6.6 Mis Ofertas](#66-mis-ofertas))
-- El botón **Eliminar anuncios** en el perfil de usuario (véase [8.1 Eliminar anuncios](#81-eliminar-anuncios))
 
 Una vez se haya pulsado uno de estos botones, el usuario será redirigido a la siguiente página:
 
