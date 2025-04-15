@@ -258,6 +258,7 @@ En la pantalla de "Mis Ofertas" en "Borradores" podremos ver los borradores que 
 
 
 
+
 Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
 
 - **Suscripción Gratis**: Puedes tener hasta **1 oferta activa**. **No** se pueden promocionar ofertas.
