@@ -33,10 +33,14 @@
 ## Tabla de Contenidos
 
 1. [Introducción](#1-introducción)
-2. [Prerrenderizado](#2-prerrenderizado)
+2. [Crawlers y prerrenderizado](#2-crawlers-y-prerrenderizado)  
+  2.1. [Controlar crawlers](#21-controlar-crawlers)
 3. [Enlazado interno](#3-enlazado-interno)
 4. [Menos carga dinámica en los listados](#4-menos-carga-dinámica-en-listados)
 5. [Añadir etiquetas](#5-añadir-etiquetas)
+6. [Google Search Console](#6-google-search-console)  
+  6.1. [Sitemap](#61-sitemap)
+7. [Datos estructurados](#7-datos-estructurados)
 
 ## 1. Introducción
 
@@ -44,7 +48,7 @@ La optimización de motores de búsqueda (*search engine optimisation* en inglé
 
 Este documento tiene el fin de evaluar las distintas técnicas de SEO que podrían ser utilizadas en Camyo, cómo utilizarlas y las palabras clave que definen mejor a nuestra aplicación y que deberían devolver Camyo como resultado al buscarlas.
 
-## 2. Prerrenderizado
+## 2. Crawlers y prerrenderizado
 
 Los motores de búsqueda más populares hacen uso de arañas web (*web crawler*) para encontrar sitios web. Las páginas encontradas mediante *crawling* son indizadas, para recopilar etiquetas y atributos como el idioma, la fecha de creación/actualización y la localización geográfica de la página.
 
@@ -52,7 +56,11 @@ Sin embargo, estas etiquetas y atributos no son suficientes para describir la fi
 
 Para solucionar este problema, existen soluciones de mercado que permiten prerrenderizar páginas y así optimizarlas para las arañas web. [Prerender.io](https://prerender.io/) es la herramienta más popular para el SEO de páginas web con JavaScript.
 
-Sin embargo, no todas las páginas deberían ser accedidas por las arañas web (por ejemplo, paneles de admin o la interfaz de pago). Para estos casos, se debe añadir un archivo `robots.txt` en la raíz del sitio web, que permite establecer un listado de direcciones dentro del sitio web que los bots no tendrán permitido acceder. Más información acerca de este tipo de archivo está disponible en [robotstxt.org](https://www.robotstxt.org/robotstxt.html).
+### 2.1. Controlar crawlers
+
+Sin embargo, no todas las páginas deberían ser accedidas por las arañas web (por ejemplo, paneles de admin o la interfaz de pago). Para estos casos, se debe añadir un archivo `robots.txt` en la raíz del sitio web que establezca un listado de direcciones dentro del sitio web que los bots no tendrán permitido acceder. Más información acerca de este tipo de archivo está disponible en [robotstxt.org](https://www.robotstxt.org/robotstxt.html).
+
+Hay una directiva en el archivo `robots.txt` que establece con qué frecuencia las arañas pueden *crawlear* el sitio web. En el caso de Googlebot, hay que establecer esta frecuencia en Google Search Console (véase [6. Google Search Console](#6-google-search-console)). Con esta herramienta, además de poder controlar la actividad de los *crawlers*, se pueden recibir informes de la misma y descubrir errores o posibles problemas con el sitio web que afectan al comportamiento de los *crawlers*.
 
 ## 3. Enlazado interno
 
@@ -75,3 +83,26 @@ Las etiquetas más importantes para el SEO son los siguientes:
 Las imágenes y los vídeos también pueden ser optimizados para motores de búsqueda. A estos se les puede añadir texto alternativo que no solo permite dar más información sobre la imagen a los buscadores, sino que también mejora la accesibilidad de la página, al darle a los lectores de pantalla una descripción de la imagen.
 
 Para que se muestren más detalles de la página al compartir enlaces de la misma por redes sociales, se pueden utilizar las etiquetas de gráfico abierto. Estas son `<meta property=”og:X”>` donde X es `title`, `description`, `type`, `image`, `url` o `site_name`.
+
+## 6. Google Search Console
+
+Google dispone de una herramienta para *webmasters* llamada Google Search Console que permite, entre otras funcionalidades:
+
+- Comprobar errores de indizado, spam u otros problemas detectados por Googlebot
+- Recibir estadísticas de acceso a la página por Googlebot
+- Mostrar qué paginas, tanto internas como externas, están enlazadas con el sitio web
+- Escribir un archivo robots.txt y probarlo
+- Enviar un *sitemap*
+- Ver reportes de velocidad
+
+Todas estas funciones pueden ser de ayuda para la optimización de Camyo.
+
+### 6.1. Sitemap
+
+Un sitemap es un archivo XML con un listado de los enlaces de un sitio web. En el caso de Camyo, si no se cambian los botones para convertirlos en `<a href>`, la araña web no podrá ver qué páginas de Camyo están enlazadas entre ellas. Por tanto, crear un *sitemap* permitiría proveerle a los motores de búsqueda un archivo en lenguaje de ordenador estructurado de forma que se vean los contenidos enlazados. [SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) es un buen ejemplo de una herramienta que permite generar un *sitemap* automáticamente para sitios web con un número reducido de enlaces.
+
+Tras crear y enviar el *sitemap*, es importante analizar si este contiene mucho contenido duplicado, o si contiene demasiadas páginas que aportan poco valor al usuario. Esto también se puede comprobar desde Google Search Console.
+
+## 7. Datos estructurados
+
+Google utiliza varios tipos de datos estructurados según la especificación de Schema.org. Estos se muestran de otra forma en las búsquedas. En vez de mostrar solo un resultado con el enlace, el título, una descripción y una imágen del sitio web, pueden mostrar mucha más información relevante al usuario sin que este tenga que hacer clic para antes descubrirla. En el caso de Camyo, puede ser muy útil [JobPosting](https://developers.google.com/search/docs/appearance/structured-data/job-posting), ya que muestra un resumen de ofertas de empleo. Para utilizar datos estructurados, hay que añadir código JSON-LD en la cabeza o el cuerpo de la página web. En el caso de páginas web que usan JavaScript, como Camyo, [hay un procedimiento específico para generar estos datos.](https://developers.google.com/search/docs/appearance/structured-data/generate-structured-data-with-javascript)
