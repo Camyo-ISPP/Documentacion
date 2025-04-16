@@ -41,6 +41,8 @@
 6. [Google Search Console](#6-google-search-console)  
   6.1. [Sitemap](#61-sitemap)
 7. [Datos estructurados](#7-datos-estructurados)
+8. [Palabras clave](#8-palabras-clave)  
+  8.1. [Herramientas para la búsqueda y el análisis de palabras clave](#81-herramientas-para-la-búsqueda-y-el-análisis-de-palabras-clave)
 
 ## 1. Introducción
 
@@ -84,7 +86,7 @@ Las imágenes y los vídeos también pueden ser optimizados para motores de bús
 
 Para que se muestren más detalles de la página al compartir enlaces de la misma por redes sociales, se pueden utilizar las etiquetas de gráfico abierto. Estas son `<meta property=”og:X”>` donde X es `title`, `description`, `type`, `image`, `url` o `site_name`.
 
-## 6. Google Search Console
+## 6. [Google Search Console](https://search.google.com/search-console/about?hl=es-419)
 
 Google dispone de una herramienta para *webmasters* llamada Google Search Console que permite, entre otras funcionalidades:
 
@@ -106,3 +108,37 @@ Tras crear y enviar el *sitemap*, es importante analizar si este contiene mucho 
 ## 7. Datos estructurados
 
 Google utiliza varios tipos de datos estructurados según la especificación de Schema.org. Estos se muestran de otra forma en las búsquedas. En vez de mostrar solo un resultado con el enlace, el título, una descripción y una imágen del sitio web, pueden mostrar mucha más información relevante al usuario sin que este tenga que hacer clic para antes descubrirla. En el caso de Camyo, puede ser muy útil [JobPosting](https://developers.google.com/search/docs/appearance/structured-data/job-posting), ya que muestra un resumen de ofertas de empleo. Para utilizar datos estructurados, hay que añadir código JSON-LD en la cabeza o el cuerpo de la página web. En el caso de páginas web que usan JavaScript, como Camyo, [hay un procedimiento específico para generar estos datos.](https://developers.google.com/search/docs/appearance/structured-data/generate-structured-data-with-javascript)
+
+## 8. Palabras clave
+
+### 8.1. Herramientas para la búsqueda y el análisis de palabras clave
+
+Para encontrar las mejores palabras clave, es necesario conocer el mercado al que va dirigida la página web, las modas actuales y cómo lo hacen nuestros competidores.
+
+#### [Google Trends](https://trends.google.com/trends/)
+
+A pesar de no ser una herramienta específicamente diseñada para la búsqueda de palabras clave, permite ver qué es lo más popular en el momento y la evolución de la popularidad de distintos términos de búsqueda. Además, ofrece puntuaciones divididas por comunidad autónoma, permitiendo así realizar optimización o campañas publicitarias localizadas. Es una herramienta gratuita.
+
+#### Google Search Console
+
+La anteriormente mencionada Google Search Console permite ver qué consultas llevan a nuestro sitio web y analizar las impresiones, los clics y la posición del mismo en las búsquedas de Google.
+
+#### [Semrush Keyword Magic Tool](https://es.semrush.com/analytics/keywordmagic/start)
+
+Crea palabras clave a partir de una palabra clave inicial, ofreciendo estadísticas como tráfico, volumen y la dificultad de optimizar una página para esas palabras clave. Necesita registro para utilizarse, pero solo se pueden realizar 10 búsquedas gratis al día.
+
+#### [WordStream Free Keyword Tool](https://www.wordstream.com/keywords)
+
+Herramienta gratuita y sin registro para la sugerencia de palabras clave a partir de una palabra clave inicial o una página web. Además de palabras clave, devuelve el volumen de búsquedas, la competencia y la rentabilidad mínima y máxima.
+
+#### [Keywordtool.io](https://keywordtool.io)
+
+Ofrece un buscador sencillo para encontrar palabras clave similares a la búsqueda. Sin embargo, la información más útil (volumen de búsquedas, competencia, moda y CPC) no está disponible sin una suscripción.
+
+#### [Ahrefs Website Traffic Checker](https://ahrefs.com/traffic-checker)
+
+Permite ver estimaciones del tráfico de otros sitios web. Ofrece información limitada en su plan gratuito (estimación y valor del tráfico, top 5 de países, top 5 palabras clave, top 5 subdominios).
+
+#### [SimilarWeb](https://www.similarweb.com/)
+
+Parecida a la anterior, con más detalles para el análisis de competidores. Ofrece la misma información que la anterior sin registrarse, además de un listado de competidores.
