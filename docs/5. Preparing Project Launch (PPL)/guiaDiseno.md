@@ -33,20 +33,13 @@
 
 ## Tabla de Contenidos
 
-1. [Paleta de colores](#paleta-de-colores--camyo)
+1. [Guía de Diseño](#guía-de-diseño)
 
+#1. Guía de diseño 
 
-## 1. Paleta de Colores – Camyo
-
-| Nombre del Color       | HEX       | RGB              | HSL               |
-|------------------------|-----------|------------------|-------------------|
-| **Naranja Camyo**      | `#f15025` | (241, 80, 37)     | 13, 85%, 55%      |
-| **Azul Camyo**         | `#0b4f6c` | (11, 79, 108)     | 198, 90%, 23%     |
-| **Blanco Camyo**       | `#ffffff` | (255, 255, 255)   | 0, 0%, 100%       |
-| **Gris Claro Camyo**   | `#e6e8e6` | (230, 232, 230)   | 120, 1%, 91%      |
-| **Gris Medio Camyo**   | `#ced0ce` | (206, 208, 206)   | 120, 1%, 81%      | 
-
+[Accede a la Guía de Diseño en Canva](https://www.canva.com/design/DAGkyles6uw/5wVVy2zpqW_FGF76vjCqTA/edit?utm_content=DAGkyles6uw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <p align="center">
-<img src="PaletaColores.png">
+<img src="/images/guiaDiseno.png">
 </p>
+
