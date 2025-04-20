@@ -142,3 +142,77 @@ Permite ver estimaciones del tráfico de otros sitios web. Ofrece información l
 #### [SimilarWeb](https://www.similarweb.com/)
 
 Parecida a la anterior, con más detalles para el análisis de competidores. Ofrece la misma información que la anterior sin registrarse, además de un listado de competidores.
+
+### 8.2. Listado de palabras clave
+
+Tras utilizar WordStream y Ahrefs Website Traffic Checker para analizar palabras clave de nuestros competidores más similares y más populares y filtrar las propias de su marca o página web o las más genéricas con las que es más difícil competir, estas son algunas palabras clave para las que podemos optimizar:
+
+- servicio de transporte de carga
+- servicios transporte de carga
+- servicio de transporte de mercancias
+- servicios transportistas
+- transporte de cargo
+- soluciones de gestion de transporte
+- bolsa de cargas
+- bolsa de carga
+- empresa de transporte cercana
+- empresas de transporte cercanas
+- empresa de logistica cercana
+- empresas de logistica cercanas
+- transporte de vehiculos
+- transporte de coches
+- transporte de motos
+- empleo conductor
+- empleo camionero
+- empleo transportista
+- empleo de camionero
+- empleo de transportista
+- ofertas de empleo transportista
+- ofertas de empleo de transportista
+- ofertas de empleo camionero
+- ofertas de empleo de camionero
+- ofertas de trabajo transportista
+- ofertas de trabajo de transportista
+- ofertas de trabajo camionero
+- ofertas de trabajo de camionero
+- trabajos de transportista
+- trabajo de transportista
+- trabajos de camionero
+- trabajo de camionero
+- bolsa de trabajo camionero
+- bolsa de trabajo transportista
+- empresas de transporte que necesitan conductores
+- empresas de transporte que necesitan camioneros
+- empresas de logistica que necesitan conductores
+- empresas de logistica que necesitan camioneros
+- empresas de logistica que necesitan transportistas
+- carta de porte
+- carnet de camion
+- carnet camion
+- renovar cap
+
+Y con ayuda de de Semrush Keyword Magic Tool, podemos encontrar algunas palabras más que están relacionadas a las de la lista. De aquí, encontramos:
+
+- ofertas de empleo transporte y logistica
+- bolsa de carga para camioneta
+- bolsa de carga transporte ligero
+- bolsa de carga para camiones
+- bolsa de carga express
+- camionero empleo
+- empresas que necesitan servicio de transporte de carga
+- empresas que solicitan servicio de transporte de carga
+- servicios de transporte de carga terrestre
+- carnet c de camion
+- autoescuela para carnet de camion
+- que tipo de camion puedo conducir con el carnet c
+- empresa de transporte por camion
+- empresa de transporte de mercancias
+- empresas de transporte de carga
+- trabajo de camionero en españa
+- empleo de camionero en españa
+- como trabajar de camionero en españa
+- como trabajar de transportista en españa
+
+### 8.3. Propuesta de crear un blog o publicaciones para optimizar para estas palabras clave
+
+Como parte de la presencia en redes sociales que buscamos tener durante este sprint, podríamos realizar publicaciones centradas en algunas de las palabras clave de la lista, para así aparecer más fácilmente en los resultados de búsqueda. Esta sugerencia viene de mi observación propia. Muchas de las empresas que ofrecen un servicio online que aparecen en los primeros resultados de búsquedas lo hacen escribiendo un artículo o publicación en un blog propio que busca responder a una pregunta u ofrecer información sobre algunos términos de búsqueda y, dentro de la publicación, relacionarlo con el servicio que ofrecen, para así tratar de obtener nuevos usuarios. Crear un blog no solo nos daría un SEO mejor, sino que además permitiría enlazar las publicaciones de este con las que hacemos en redes sociales. 
