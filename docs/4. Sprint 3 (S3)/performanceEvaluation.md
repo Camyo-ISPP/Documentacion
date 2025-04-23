@@ -32,11 +32,13 @@
 
 ## Tabla de Contenidos
 
-1. [Agreed Individual Performance Evaluation ](#agreed-individual-performance-evaluation)
-2. [Individual Contribution Summary](#individual-contribution-summary)
-   - [Devising a Project (#DP1)](#devising-a-project-dp1)
-   - [Sprint 1 (#S1)](#sprint-1-s1)
-   - [Sprint 2 (#S2)](#sprint-2-s2)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Agreed Individual Performance Evaluation](#agreed-individual-performance-evaluation)
+  - [Individual Contribution Summary](#individual-contribution-summary)
+    - [Devising a Project (#DP1)](#devising-a-project-dp1)
+    - [Sprint 1 (#S1)](#sprint-1-s1)
+    - [Sprint 2 (#S2)](#sprint-2-s2)
+    - [Sprint 3 (#S3)](#sprint-3-s3)
 
 ### Agreed Individual Performance Evaluation
 
@@ -44,23 +46,23 @@
 
 | Student                             | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total Weight |
 | ----------------------------------- | ---- | --- | --- | --- | ---- | ---- | ------------ |
-| Baños Botón, José Ramón         | 10   | 10  | 10  |     |      |      | 10           |
-| Bruni, Martina                      | 10   | 10  | 10  |     |      |      | 10           |
-| Cantero Corchero, Isabel            | 10   | 10  | 10  |     |      |      | 10           |
-| Chen, Sheng                         | 10   | 10  | 10  |     |      |      | 10           |
-| García Martínez, Carlos           | 10   | 10  | 10  |     |      |      | 10           |
-| García Ortíz, Carlos              | 10   | 10  | 10  |     |      |      | 10           |
-| Heras Pérez, Raúl                 | 10   | 10  | 10  |     |      |      | 10           |
-| Jiménez Guerrero, Pedro            | 10   | 10  | 10  |     |      |      | 10           |
-| Meana Iturri, Claudia               | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Garrido, Rubén              | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Gutiérrez, Lucía           | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Manzano, Francisco           | 10   | 10  | 10  |     |      |      | 10           |
-| Pérez Vargas, Diego José          | 10   | 10  | 10  |     |      |      | 10           |
-| Rodríguez Millán, María Cristina | 10   | 10  | 10  |     |      |      | 10           |
-| Rus Morales, Sonia María           | 10   | 10  | 10  |     |      |      | 10           |
-| Vento Conesa, Adriana               | 10   | 10  | 10  |     |      |      | 10           |
-| Yao, Jun                            | 10   | 10  | 10  |     |      |      | 10           |
+| Baños Botón, José Ramón         | 10   | 10  | 10  |  10   |      |      | 10           |
+| Bruni, Martina                      | 10   |  |  |   |      |      |           |
+| Cantero Corchero, Isabel            | 10   | 10  | 10  |  10   |      |      | 10           |
+| Chen, Sheng                         | 10   | 10  | 10  |  10   |      |      | 10           |
+| García Martínez, Carlos           | 10   | 10  | 10  |  10   |      |      | 10           |
+| García Ortíz, Carlos              | 10   | 10  | 10  |  10   |      |      | 10           |
+| Heras Pérez, Raúl                 | 10   | 10  | 10  |  10   |      |      | 10           |
+| Jiménez Guerrero, Pedro            | 10   | 10  | 10  | 10    |      |      | 10           |
+| Meana Iturri, Claudia               | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Garrido, Rubén              | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Gutiérrez, Lucía           | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Manzano, Francisco           | 10   | 10  | 10  |  10   |      |      | 10           |
+| Pérez Vargas, Diego José          | 10   | 10  | 10  |  10   |      |      | 10           |
+| Rodríguez Millán, María Cristina | 10   | 10  | 10  |  10   |      |      | 10           |
+| Rus Morales, Sonia María           | 10   | 10  | 10  |  10   |      |      | 10           |
+| Vento Conesa, Adriana               | 10   | 10  | 10  |  10   |      |      | 10           |
+| Yao, Jun                            | 10   | 10  | 10  |  10   |      |      | 10           |
 
 ### Individual Contribution Summary
 
@@ -623,8 +625,25 @@
 - Participó en todas las reuniones del equipo.
 
 **Cantero Corchero, Isabel:**
+- Revisó pull requests.
+- Realizó múltiples correcciones y mejoras, resolviendo diversos problemas en el Frontend.
+- Mejoró la interfaz visual (UI) de varias pantallas (login, registro, listado de empresas, explorar, mis ofertas).
+- Optimizó la experiencia de usuario (UX) mediante la implementación de medidas de feedback visual, colores y botones intuitivos.
+- Desarrolló componentes reutilizables como modales, listados de ofertas, indicadores de carga, entre otros.
+- Implementó el panel de administrador.
+- Aseguró la calidad y mejoras finales del frontend.
+- Grabó los anuncios para las 2 semanas + recortó y exportó los videos.
+- Añadió la funcionalidad para eliminar cuentas de usuario.
+- Participó en todas las reuniones del equipo.
 
 **Chen, Sheng:**
+
+- Implementó los tests de la funcionalidad de oferta, tanto de controlador como de service.
+- Participó en todas las reuniones organizadas.
+- Participó en una refactorización de la funcionalidad de oferta y sus controladores/servicios.
+- Participó en la solución de errores presentes en algunos tests.
+- Revisó pull requests.
+- Comprobó la cobertura de algunos tests.
 
 **García Martínez, Carlos:**
 
@@ -648,17 +667,55 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
+- Implementó los mapas y el componente de elección de ciudad en ofertas.
+- Revisó 2 pull requests.
+- Realizó ajustes en frontend para implementar anuncios (trabajo en desarrollo).
+- Revisó los documentos y la aplicación antes de la entrega.
+- Ayudó a elaborar la presentación mid-sprint.
 
 **Jiménez Guerrero, Pedro:**
-
+- Elaboró los tests de las clases EmpresaService, EmpresaController, AuthController y AuthService.
+- Redactó el documento de plan de pruebas.
+- Revisó pull requests.
+- Preparó las pruebas para los usuarios piloto.
+- Participó en todas las reuniones del equipo.
+- 
 **Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Revisó y añadió validaciones en las creaciones y ediciones de perfil y oferta.
+- Realizó las encuestas de rendimiento y revisó que todo el mundo la rellenara.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Revisó pull requests.
+- Participó en todas las reuniones del equipo.
+- Presentó ambas semanas.
 
 **Pérez Garrido, Rubén:**
+- Colaboró en la elaboración y revisión de presentaciones.
+- Participó en las reuniones del equipo haciendo el rol de secretario.
+- Creó actas de reuniones para tener recogida la información que se trató.
+- Revisó pull requests.
+- Editó los 2 anuncios.
+- Creó y editó las 2 demos de la aplicación.
 
 **Pérez Gutiérrez, Lucía:**
+- Realizó la planificación de frontend del sprint
+- Participó en todas las reuniónes
+- Participó en la redacción del plan de PPL
+- Participó en el primer anuncio
+- Mejoró la lógica general de reseñas en la aplicación añadiendo funcionalidades importantes
+- Participó en la mejora de borradores
+- Arreglo diversos fallos pequeños como margenes, y pequeños errores en la aplicación
+- Revisó Pull Requests 
 
 **Pérez Manzano, Francisco:**
 
+- Participo en las reuniones de equipo
+- Creo los tests para pago de stripe en banco, tanto mockeados e von integración
+- Reviso pull requests
+- Creo la encuesta y recopiló los resultados del uso de IA
+- Comparo CodiumAI y Copilot para ver que herramienta era más eficiente implementar al flujo de trabajo de pull requests
+- Preparó cambios para la implementación de eliminar anuncios en backend
+  
 **Pérez Vargas, Diego José:**
 
 - Realizó la implementación de validaciones semánticas para DNI/NIF y números de teléfono y validación sintáctica para archivos y nombres de usuario.
@@ -671,6 +728,16 @@
 
 **Rodríguez Millán, María Cristina:**
 
+- Comenzó la implementación del modo borrador de las ofertas.
+- Comenzó la implementación de edición de ofertas.
+- Planificó y redactó un documento para el primer anuncio.
+- Ayudó con la grabación del primer anuncio.
+- Revisó pull request.
+- Arregló algunos conflictos de la rama de borrador.
+- Planificó el segundo anuncio.
+- Ayudó con la grabación del segundo anuncio.
+- Presentó las 2 semanas.
+
 **Rus Morales, Sonia María:**
 
 - Implementó la lógica de suscripciones en las rutas y botones.
@@ -681,4 +748,19 @@
 
 **Vento Conesa, Adriana:**
 
+- Participó activamente en reuniones de planificación con los coordinadores y sesiones grupales.
+- Implementó mejoras frontend clave, como la mejora de filtros e interfaz (Tarea Frontend 70), el rediseño de la pasarela de pago (Tarea Frontend 68) y la mejora del estilo del chat (Tarea Frontend 79).
+- Contribuyó a la unificación y mejora de la UI, incluyendo ajustes en la barra de navegación y estandarización de estilos visuales.
+- Redactó y actualizó documentación obligatoria para el Sprint 3.
+- Proporcionó feedback grupal e individual, documentando observaciones en la BCC correspondiente a varias semanas.
+- Realizó revisiones técnicas, identificando y corrigiendo errores relacionados con el despliegue y la base de datos antes de la entrega.
+- Participó activamente en la configuración y pruebas necesarias para el despliegue del Sprint.
+
 **Yao, Jun:**
+- Implementó los tests de la funcionalidad de usuario,suscripción y reseña, tanto de controlador como de service.
+- Participó en todas las reuniones organizadas.
+- Participó en la solución de errores presentes en algunos tests.
+- Revisó pull requests.
+- Comprobó la cobertura de algunos tests.
+- Arregló algunos conflictos de testing usuario.
+- Revisó los documentos.
