@@ -399,7 +399,12 @@ A fecha de la redacción de este documento, se han recibido 27 respuestas de lo 
 
 #### Feedback de prioridad alta:
 
-#### Feedback de prioridad media:
+* En las cards de ofertas, los apartados de Carga/Trabajo, licencia y experiencia son demasiado vivos y pueden llegar a molestar visualmente.
+* En detalles de oferta de carga, debería de quedar más claro la fecha limite, representándolo por ejemplo como "Fecha límite: Desde x hasta y".
+
+#### Feedback de prioridad baja:
+
+* Los filtrados podrían actualizarse con cada cambio en lugar de tener que darle al botón.
 
 #### Feedback positivo:
 
@@ -413,6 +418,10 @@ A fecha de la redacción de este documento, se han recibido 27 respuestas de lo 
 * Los mapas son bien recibidos.
 
 ### 1.4. Caso de uso: Hacer una reseña
+
+#### Feedback de prioridad media:
+
+* Podría volver a ponerse que se puedan hacer reseñas desde el propio perfil del usuario a comentar.
 
 ### 1.5. Caso de uso: Subir curriculum
 
