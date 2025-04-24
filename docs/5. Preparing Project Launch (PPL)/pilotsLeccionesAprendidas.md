@@ -54,7 +54,16 @@
    - [1.8 Patrocinar o cancelar patrocinio de oferta](#18-patrocinar-o-cancelar-patrocinio-de-oferta)
    - [1.9 Sistema de suscripciones](#19-sistema-de-suscripciones)
    - [1.10 Gestionar (aceptar/rechazar) camioneros](#110-gestionar-aceptarrechazar-camioneros)
-5. [Sprint 3](#sprint-3)
+5. [Sprint 3](#sprint-3)  
+   - [1.1. En general](#11-en-general-1)  
+   - [1.2. Ver listado de ofertas recientes y filtrado de ofertas](#12-caso-de-uso-ver-listado-de-ofertas-recientes-y-filtrado-de-ofertas-1)  
+   - [1.3. Ver mis ofertas](#13-caso-de-uso-ver-mis-ofertas)  
+   - [1.4. Hacer una reseña](#14-caso-de-uso-hacer-una-reseña)  
+   - [1.5. Subir curriculum](#15-caso-de-uso-subir-curriculum)  
+   - [1.6. Gestión de camioneros solicitantes](#16-caso-de-uso-gestión-de-camioneros-solicitantes)  
+   - [1.7. Publicar oferta de empleo](#17-caso-de-uso-publicar-oferta-de-empleo)  
+   - [1.8. Sistema de suscripciones y patrocinio de ofertas](#18-sistema-de-suscripciones-y-patrocinio-de-ofertas)  
+   - [1.9. Anuncios](#19-anuncios)
 6. [Conclusiones](#conclusiones)
 
 ## Introducción
