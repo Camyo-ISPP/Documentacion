@@ -55,6 +55,7 @@
    - [1.9 Sistema de suscripciones](#19-sistema-de-suscripciones)
    - [1.10 Gestionar (aceptar/rechazar) camioneros](#110-gestionar-aceptarrechazar-camioneros)
 5. [Sprint 3](#sprint-3)
+6. [Conclusiones](#conclusiones)
 
 ## Introducción
 
@@ -459,3 +460,9 @@ A fecha de la redacción de este documento, se han recibido 27 respuestas de lo 
 #### Feedback positivo:
 
 * En general ambos anuncios han sido bien aceptados por tanto transportistas como por empresas.
+
+## Conclusiones
+
+Las pruebas de usuarios pilotos han sido un punto clave durante todo el desarrollo del proyecto, pues no sólo nos han ayudado a encontrar múltiples errores que aún no habían sido detectados sino que, además el flujo de feedback ha sido constante y nos ha ayudado a poco a poco ajustar el producto según el criterio de tanto personas propias del sector de logística como personas del sector de la informática.
+
+Al final este proyecto está desarrollado a poder ofrecer un servicio con una experiencia satisfactoria y dicho objetivo no se podría haber realizado sin las sugerencias y opiniones de nuestros usuarios pilotos.
