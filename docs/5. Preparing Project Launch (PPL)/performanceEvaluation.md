@@ -780,6 +780,15 @@
 
 **García Ortíz, Carlos:**
 
+- Implementó las mejoras relacionadas con el feedback de la última prueba de pilotos y solucionó algunos bugs adicionales.
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
+- Analizó y adjuntó el feedback de los usuarios pilotos correspondiende a la tercera prueba.
+- Realizó un par de optimizaciones a las reseñas.
+- Revisó 2 pull requests.
+- Apoyó a la issue de anuncios.
+- Investigó sobre oportunidades de inversión para el anuncio de inversores.
+- Participó en todas las reuniones.
+
 **Heras Pérez, Raúl:**
 
 **Jiménez Guerrero, Pedro:**
