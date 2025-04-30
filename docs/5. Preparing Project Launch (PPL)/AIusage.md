@@ -45,6 +45,7 @@
     - [Sprint 1](#sprint-1) 
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
+    - [Preparing project launch](#preparing-project-launch)
 5. [Alucinaciones de IA](#5-alucinaciones-de-ia)
     - [Sprint 1](#sprint-1-1)
     - [Sprint 2](#sprint-2-1)
@@ -248,6 +249,41 @@ Entre otros valores a destacar son el máximo y el mínimo de prompts y chats us
 
 También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 29 recomendaciones o fragmentos de código generados por IA, siendo utilizado menos por el equipo.
 
+### Preparing project launch
+
+Esta sección contendrá los usos de IA en el entregable de "preparing project launch" además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. En el caso de que no hayan usado IA, se les ha preguntado sobre su ponión de IA y el porque de no utilizarlo.
+
+#### Usos genéricos
+
+Este entregable no ha habido ningún uso destacable, solo habiendo los usos generales de refactorización de código, modficación de texto, arreglo de errores y busqueda de información.
+
+#### Encuesta Preparing project launch
+
+De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el sprint, enfocado principalmente para saber la ponión de los miembros del grupo de IA, debido al bajo uso de IA esta semana.
+
+En este entregable ha habido una considerable reducción de personas utilizando IA en el proyecto, esto se debe a que en los últimos entregables de esta asignatura, el equipo se ha centrado más en actividades de documentación que requieren usar menos la IA como soporte, por lo que se ha reducido en general.
+
+Tenemos un total de 7 personas este sprint que no han usado IA, a los cuales se les preguntó sobre sus razones para no usar IA. Entre respuestas se encuentran razones morales y éticas sobre su uso y simplemente la falta de necesidad de usar IA este entregable al ser principalmente de documentación. 
+
+No ha habido ninguna herramienta de IA nueva utilizada en el proyecto, con Github con un total de 5 personas utilizándola, y otras herramientas solo siendo utilizadas por una persona máximo.
+
+##### Chatbots
+
+Respecto a chatbot en el entregable, se contabilizaron un total de 41 prompts en total, comprimidos en un total de 15 chats, siendo un total de 2.73 promp, bastante menor al número de prompts del sprint 3, que fue una proporción de 3.86, que se ha visto tan reducido por el equipo no necesitando IA para tareas de documentación o diseño.
+
+
+\(Prompts/chat=41/15=2.73\) _Prompts por chat_
+
+Otros valores que se pueden destacar de estre sprint son los máximos y mínimos, esta vez mucho más cercanos entre ellos debido al menor uso de IA
+
+| Máximo prompts  | Minimo prompts | Máximo chats | Mínimo chats |
+|-----------------|----------------|--------------|--------------|
+| 15              | 2              | 3           |   1          |
+
+##### Otras herramientas IA
+
+Como en el último entregable, también se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrellenado de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 6 recomendaciones o fragmentos de código generados por IA, siendo bastante más bajo que el último sprint ya que la cantidad de código necesaria para este entregable es mucho menor.
+
 ## 5. Alucinaciones de IA 
 
 Dado el impacto que puede tener la fiabilidad de la IA en el desarrollo del proyecto, hemos decidido analizar la tasa de alucinaciones observadas durante los sprints. Este análisis nos permite comprender mejor la precisión de las respuestas de la IA y tomar decisiones sobre su uso en el futuro.
@@ -401,6 +437,49 @@ Haciendo la media ponderada respecto al uso de otras herramientas IA de cada mie
 Según un 57% de los encuestados que usan IA, se considerá que ha habido una mejora respecto a su uso de IA en el último sprint, centrado en el objetivo de reducir las alucinaciones al máximo posible.
 
 Para mejorar y conseguir esto, el equipo seguirá aplicando metodologías sobre herramientas para reducir el número de alucinaciones que obtenemos en nuestro proyecto, y asi, mejorando nuestra productividad.
+
+### Preparing 
+
+Como entregables anteriores, la encuesta recopiló errores y alucinaciones de la IA, esta vez preguntando al grupo si pensaban que habían mejorado su uso de la IA. Como siempre, estos resultados serán comparados con el entregable anterior para decir con certeza si nuestro uso de IA ha mejorado respecto a alucinaciones y asi tener un flujo de trabajo más eficiente.
+
+#### ChatBots
+
+- Respuestas de Miembros que hayan usado Chatbots sobre el porcentaje de alucinaciones
+
+| Prompts |Alucinaciones| %     |
+|---------|-------------|-------|
+| 7       |    2        | 28.5% |
+| 2       | 0           | 0%    | 
+| 10      | 6           | 60%   |
+|  15     | 3           | 20%   |
+| 2       | 1           | 50%   |
+| 2       | 0           | 0%    |
+| 3       | 0           | 0%    |
+
+
+
+**Media de alucinaciones ponderada**
+
+Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 29.% de errores medio. Esto es una pequeña mejora del porcentage de alucionaciones, un 7% de diferencia respecto al entregable anterior por lo que podemos decir que hemos mejorado en este sprint para evitar errores.
+
+Aún asi, nuestro objetivo será bajar estas alucinaciones el máximo posible, asi que se continuará utilizando aquellas lecciones definidas al final de este reportepra poder mejorar en nuestra efectividad con la IA.
+
+#### Autorrellenado y CodiumAI
+
+- Respuestas de Miembros que hayan usado otras herramientas sobre el porcentaje de alucinaciones
+
+| Usos| Errores | %     |
+|-----|---------|-------|
+| 1   |    0    | 0%    |
+| 5   | 0       | 0%    |
+
+**Media de alucinaciones ponderada**
+
+Debido al bajo uso que utilizaron estas herramientas en este entregable, asi como el razonamiento crítico que se esta usando en estas herramientas para evitar sugerencias que puedan romper la aplicación, hemos vuelto a conseguir un 0% de errores de media, lo cual indica que estamos siguiendo de forma adecuada el proceso para evitar errores en estos tipos de herramientas IA.
+
+#### Opinión del equipo
+
+Según otra vez un 57% de los encuestados que usan IA, se considerá que ha habido una mejora respecto a su uso de IA en el último entregable. Aún asi, hay un 28% de las personas que debido al poco uso de IA del entregable muestran indecisión al decidir si han mejorado.
 
 ## 6. Lecciones aprendidas
 
