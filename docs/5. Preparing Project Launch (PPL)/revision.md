@@ -29,6 +29,8 @@
 | Nombre(s) y Apellido(s) | Tipo de Contribución |
 | --- | --- |
 | Adriana Vento Conesa | Datos para la revisión y actualización de algunas imágenes. |
+| José Ramón Baños Botón | Actualización de algunas imágenes. |
+
 | Placeholder | Placeholder |
 
 # Tabla de Contenidos
