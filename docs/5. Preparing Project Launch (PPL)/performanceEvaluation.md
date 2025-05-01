@@ -771,6 +771,13 @@
 #### Preparing Project Launch (#PPl)
 
 **Baños Botón, José Ramón:**
+- Participó en el storyboard de inversores.
+- Implementó ver mas información del camionero a simple vista.
+- Implementó poder seguir viendo a los camioneros rechazados.
+- Implementó el botón para iniciar chat con los camioneros asignados.
+- Implementó el botón para patrocinar una oferta en la pantalla de la oferta.
+- Participó en el revision.md.
+- Participó en todas las reuniones.
 
 **Cantero Corchero, Isabel:**
 
