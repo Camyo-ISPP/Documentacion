@@ -799,6 +799,7 @@
 
 **García Ortíz, Carlos:**
 
+- Creó un test de pago y suscripciones.
 - Implementó las mejoras relacionadas con el feedback de la última prueba de pilotos y solucionó algunos bugs adicionales.
 - Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP.
 - Analizó y adjuntó el feedback de los usuarios pilotos correspondiende a la tercera prueba.
