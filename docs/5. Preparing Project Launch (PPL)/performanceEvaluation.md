@@ -855,3 +855,10 @@
 - Participó en todas las reuniones (tanto las generales como del subgrupo de diseño).
 
 **Yao, Jun:**
+- Redactó el documento de informe de crecimiento de la comunidad inicial.
+- Revisó pull request de oferta testing.
+- Revisó landing page.
+- Participó la implementación de workflow testing automatico.
+- Realizó pruebas de rendimiento para los módulos de "pago" , "suscripcion" ,"resena" y "camionero".
+- Redactó el readme para la prueba de rendimiento.
+- Participó en todas las reuniones.
