@@ -167,15 +167,19 @@ Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado
 
 En el caso de estar iniciado sesión como empresa, y entramos en detalle de oferta en una oferta propia. Veríamos las camioneros que han solicitado la oferta:
 
-![image](https://github.com/user-attachments/assets/be61c861-5a6e-4e8a-b41b-7600c6f25798)
+![image](images/camionerosSolicitantes.png)
+
+En el caso de haber asignado a un camionero, podremos contactar con él:
+
+![image](images/camioneroAsignado.png)
 
 Los camioneros que han aplicado a la oferta y la empresa que ha hecho la oferta ha rechazado:
 
-![image](https://github.com/user-attachments/assets/d9d500cc-4dac-4926-bfd3-ed2ebcb470a9)
+![image](images/camionerosRechazados.png)
 
 Y la opción de eliminar la oferta:
 
-![image](https://github.com/user-attachments/assets/c0850258-e05e-49ce-8438-f22a1b2456eb)
+![image](images/botonEliminar.png)
 
 
 ### 4.4 Listado de empresas
@@ -327,6 +331,10 @@ En el perfil de oferta se podrán ver las ofertas abiertas de las empresas, y en
 ![{912305FD-41BC-4465-BCCC-A0536648E1C0}](https://github.com/user-attachments/assets/c95849b0-f5cb-4d65-90ec-7f40e6f348c3)
 ![{F0746BA6-175E-44E2-8332-96C3D89CD76C}](https://github.com/user-attachments/assets/7f536a66-8892-4337-8ed2-6608f97b1404)
 ![{E9148651-6596-4819-809D-2CE320397739}](https://github.com/user-attachments/assets/12a47bb5-791f-4081-9928-319051e8b21e)
+
+Además, desde los detalles de alguna oferta creada, también se podrá promocionar: 
+
+![image](images/detallesDeOferta.png)
 
 ### 6.5 Chat
 Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes". Tienen las mismas características que el panel de mensajes de camioneros (véase [5.3 Chat](#53-chat)).
