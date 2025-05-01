@@ -780,6 +780,12 @@
 - Participó en todas las reuniones.
 
 **Cantero Corchero, Isabel:**
+- Diseñó posts para redes sociales
+- Añadió los loadings a las pantallas faltantes
+- Revisó pull requests
+- Arregló algunos fallos de frontend e implementó mejoras en la app
+- Actualizó las pantallas de crear y editar oferta acorde con la estética nueva
+- Creó un bento.me para centralizar las redes sociales
 
 **Chen, Sheng:**
 
