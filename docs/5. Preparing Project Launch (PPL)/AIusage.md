@@ -45,11 +45,12 @@
     - [Sprint 1](#sprint-1) 
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
-    - [Preparing project launch](#preparing-project-launch)
+    - [Preparing Project Launch](#preparing-project-launch)
 5. [Alucinaciones de IA](#5-alucinaciones-de-ia)
     - [Sprint 1](#sprint-1-1)
     - [Sprint 2](#sprint-2-1)
     - [Sprint 3](#sprint-3-1)
+    - [Preparing Project Launch](#preparing-project-launch-1)
 6. [Lecciones Aprendidas](#6-lecciones-aprendidas)
 
 
@@ -249,7 +250,7 @@ Entre otros valores a destacar son el máximo y el mínimo de prompts y chats us
 
 También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 29 recomendaciones o fragmentos de código generados por IA, siendo utilizado menos por el equipo.
 
-### Preparing project launch
+### Preparing Project Launch
 
 Esta sección contendrá los usos de IA en el entregable de "preparing project launch" además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. En el caso de que no hayan usado IA, se les ha preguntado sobre su ponión de IA y el porque de no utilizarlo.
 
@@ -257,7 +258,7 @@ Esta sección contendrá los usos de IA en el entregable de "preparing project l
 
 Este entregable no ha habido ningún uso destacable, solo habiendo los usos generales de refactorización de código, modficación de texto, arreglo de errores y busqueda de información.
 
-#### Encuesta Preparing project launch
+#### Encuesta Preparing Project Launch
 
 De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el sprint, enfocado principalmente para saber la ponión de los miembros del grupo de IA, debido al bajo uso de IA esta semana.
 
@@ -438,7 +439,7 @@ Según un 57% de los encuestados que usan IA, se considerá que ha habido una me
 
 Para mejorar y conseguir esto, el equipo seguirá aplicando metodologías sobre herramientas para reducir el número de alucinaciones que obtenemos en nuestro proyecto, y asi, mejorando nuestra productividad.
 
-### Preparing 
+### Preparing Project Launch
 
 Como entregables anteriores, la encuesta recopiló errores y alucinaciones de la IA, esta vez preguntando al grupo si pensaban que habían mejorado su uso de la IA. Como siempre, estos resultados serán comparados con el entregable anterior para decir con certeza si nuestro uso de IA ha mejorado respecto a alucinaciones y asi tener un flujo de trabajo más eficiente.
 
