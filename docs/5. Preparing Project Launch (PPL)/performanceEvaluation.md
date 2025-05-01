@@ -820,6 +820,10 @@
 
 
 **Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Presentó todas las semanas.
+- Participó en todas las reuniones del equipo.
 
 **Pérez Garrido, Rubén:**
 - Colaboró en la elaboración y revisión de presentaciones.
