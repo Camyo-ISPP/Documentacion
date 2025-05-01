@@ -771,6 +771,13 @@
 #### Preparing Project Launch (#PPl)
 
 **Baños Botón, José Ramón:**
+- Participó en el storyboard de inversores.
+- Implementó ver mas información del camionero a simple vista.
+- Implementó poder seguir viendo a los camioneros rechazados.
+- Implementó el botón para iniciar chat con los camioneros asignados.
+- Implementó el botón para patrocinar una oferta en la pantalla de la oferta.
+- Participó en el revision.md.
+- Participó en todas las reuniones.
 
 **Cantero Corchero, Isabel:**
 
@@ -810,6 +817,13 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
+- Terminó de implementar los anuncios de manera manual.
+- Revisó algunas pull requests.
+- Realizó mejoras visuales en la aplicación.
+- Añadió funcionalidades nuevas y añadió detalles visuales al chat.
+- Creó un test de interfaz de chat.
+- Añadió navegación mejorada hacia el chat.
+
 
 **Jiménez Guerrero, Pedro:**
 
@@ -850,6 +864,12 @@
 **Rodríguez Millán, María Cristina:**
 
 **Rus Morales, Sonia María:**
+- Participó en el storyboard del anuncio de inversores.
+- Revisó que no hubiera incoherencias en el lenguaje en la aplicación.
+- Revisó la pantalla de oferta por ID.
+- Revisó pull request.
+- Realizó el documento de storyboard para inversores.
+- Participó en todas las reuniones.
 
 **Vento Conesa, Adriana:**
 - Implementó mejoras en frontend, como la mejora del listado de ofertas (Tarea Frontend 83), optimización de detalles de suscripciones y patrocinios (Tarea Frontend 84).

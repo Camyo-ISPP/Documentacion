@@ -42,7 +42,9 @@
   6.1. [Sitemap](#61-sitemap)
 7. [Datos estructurados](#7-datos-estructurados)
 8. [Palabras clave](#8-palabras-clave)  
-  8.1. [Herramientas para la búsqueda y el análisis de palabras clave](#81-herramientas-para-la-búsqueda-y-el-análisis-de-palabras-clave)
+  8.1. [Herramientas para la búsqueda y el análisis de palabras clave](#81-herramientas-para-la-búsqueda-y-el-análisis-de-palabras-clave)  
+  8.2. [Listado de palabras clave](#82-listado-de-palabras-clave)  
+  8.3. [Propuesta de crear un blog o publicaciones para optimizar para estas palabras clave](#83-propuesta-de-crear-un-blog-o-publicaciones-para-optimizar-para-estas-palabras-clave)
 
 ## 1. Introducción
 
@@ -125,7 +127,7 @@ La anteriormente mencionada Google Search Console permite ver qué consultas lle
 
 #### [Semrush Keyword Magic Tool](https://es.semrush.com/analytics/keywordmagic/start)
 
-Crea palabras clave a partir de una palabra clave inicial, ofreciendo estadísticas como tráfico, volumen y la dificultad de optimizar una página para esas palabras clave. Necesita registro para utilizarse, pero solo se pueden realizar 10 búsquedas gratis al día.
+Crea palabras clave a partir de una palabra clave inicial, ofreciendo estadísticas como tráfico, volumen y la dificultad de optimizar una página para esas palabras clave. Necesita registro para utilizarse.
 
 #### [WordStream Free Keyword Tool](https://www.wordstream.com/keywords)
 
