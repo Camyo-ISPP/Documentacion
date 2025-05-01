@@ -778,6 +778,16 @@
 
 **García Martínez, Carlos:**
 
+- Creó de posts para redes.
+- Coordinó de redes sociales.
+- Creó y redactó el documento de Community Management.
+- Manejó Instagram en su completitud.
+- Manejó LinkedIn en su completitud.
+- Manejó TikTok en su completitud.
+- Configuró y creó el TikTok de la empresa.
+- Configuró el Instagram de la empresa.
+- Arregló un problema en backend
+
 **García Ortíz, Carlos:**
 
 - Implementó las mejoras relacionadas con el feedback de la última prueba de pilotos y solucionó algunos bugs adicionales.
