@@ -822,6 +822,13 @@
 **Meana Iturri, Claudia:**
 
 **Pérez Garrido, Rubén:**
+- Colaboró en la elaboración y revisión de presentaciones.
+- Presentó el día de la evaluación.
+- Participó en las reuniones del equipo haciendo el rol de secretario.
+- Creó actas de reuniones para tener recogida la información que se trató.
+- Creó el anuncio de inversores.
+- Actualizó los anuncios de empresas y camioneros según el feedback de clase.
+- Creó la demo final de la aplicación y la actualizó según el feedback de clase.
 
 **Pérez Gutiérrez, Lucía:**
 
