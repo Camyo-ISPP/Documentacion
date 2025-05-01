@@ -780,6 +780,12 @@
 - Participó en todas las reuniones.
 
 **Cantero Corchero, Isabel:**
+- Diseñó posts para redes sociales
+- Añadió los loadings a las pantallas faltantes
+- Revisó pull requests
+- Arregló algunos fallos de frontend e implementó mejoras en la app
+- Actualizó las pantallas de crear y editar oferta acorde con la estética nueva
+- Creó un bento.me para centralizar las redes sociales
 
 **Chen, Sheng:**
 
@@ -850,6 +856,12 @@
 - Creó la demo final de la aplicación y la actualizó según el feedback de clase.
 
 **Pérez Gutiérrez, Lucía:**
+- Organizó las tareas de frontend en función de los comentarios aportados por pilotos
+- Reviso múltiples PR
+- Realizó la Guía de Diseño
+- Creó el kit de Prensa
+- Diseño 3 anuncios para la aplicación
+- Participó en la reunión general y en la del equipo de Diseño
 
 **Pérez Manzano, Francisco:**
 
