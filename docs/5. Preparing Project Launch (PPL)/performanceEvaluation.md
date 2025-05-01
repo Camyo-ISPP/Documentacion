@@ -793,6 +793,13 @@
 
 **Jiménez Guerrero, Pedro:**
 
+- Implementó el testing de las clases AuthController y AuthService.
+- Revisó pull request.
+- Diseñó gráficamente varios anuncios en la aplicación y posts de redes sociales.
+- Aseguró el funcionamiento del Github Action "Test automático"
+- Participó en todas las reuniones.
+
+
 **Meana Iturri, Claudia:**
 
 **Pérez Garrido, Rubén:**
