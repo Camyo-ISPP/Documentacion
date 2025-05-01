@@ -831,5 +831,11 @@
 **Rus Morales, Sonia María:**
 
 **Vento Conesa, Adriana:**
+- Implementó mejoras en frontend, como la mejora del listado de ofertas (Tarea Frontend 83), optimización de detalles de suscripciones y patrocinios (Tarea Frontend 84).
+- Apoyó en tareas de diseño y redes sociales, incluyendo publicaciones *Landscape* en Facebook y LinkedIn, publicación sobre el sistema de referidos, y la actualización de perfiles como bento.me y otros.  
+- Redactó y actualizó documentación técnica, como la guía de UI testing, el archivo revision.md, otros documentos para la entrega del PPL y el feedback grupal para la BCC de una de las dos semanas.  
+- Hizo la configuración y pruebas de despliegue.
+- Realizó revisiones de pull requests (PR #250).
+- Participó en todas las reuniones (tanto las generales como del subgrupo de diseño).
 
 **Yao, Jun:**
