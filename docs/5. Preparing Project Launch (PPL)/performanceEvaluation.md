@@ -852,6 +852,11 @@
 **Pérez Gutiérrez, Lucía:**
 
 **Pérez Manzano, Francisco:**
+
+- Arreglo los tests del módulo de pago
+- Arreglo errores con los datos iniciales, haciendolos más realistas.
+- Mejoró la landing page de camyo, dando más información sobre nuestro contacto y la aplicación
+- Empezo a preparar los recursos para la publicidad física
   
 **Pérez Vargas, Diego José:**
 
