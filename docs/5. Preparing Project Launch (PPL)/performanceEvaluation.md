@@ -810,6 +810,12 @@
   
 **Pérez Vargas, Diego José:**
 
+- Redactó el documento de investigación de técnicas SEO y palabras clave.
+- Diseñó varios anuncios para posts de redes sociales.
+- Solucionó un bug por el cual se podía suscribir o patrocinar una oferta sin realizar un pago.
+- Revisó 2 pull requests, proponiendo mejoras en una de ellas.
+- Participó en todas las reuniones.
+
 **Rodríguez Millán, María Cristina:**
 
 **Rus Morales, Sonia María:**
