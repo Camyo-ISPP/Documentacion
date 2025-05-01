@@ -862,6 +862,10 @@
 - Participó en todas las reuniones.
 
 **Rodríguez Millán, María Cristina:**
+- Participó en la reunión del equipo-
+- Presentó todas las semanas.
+- Ayudó con la elaboración de presentaciones.
+- Comenzó el testing de algunas pantallas de frontend con selenium.
 
 **Rus Morales, Sonia María:**
 - Participó en el storyboard del anuncio de inversores.
