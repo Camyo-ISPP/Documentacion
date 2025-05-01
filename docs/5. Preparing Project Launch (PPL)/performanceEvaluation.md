@@ -776,6 +776,15 @@
 
 **Chen, Sheng:**
 
+- Creó y manejó la página de Facebook de la empresa.
+- Creó la portada para Facebook.
+- Publicó en Facebook los posts creados por sus compañeros.
+- Revisó pull request.
+- Mejoró las pruebas unitarias del módulo de "Oferta" para aumentar la cobertura.
+- Realizó pruebas de rendimiento para los módulos de "Oferta" y "Empresa".
+- Participó en el arreglo del workflow de Github Action para pruebas automáticas.
+- Participó en todas las reuniones.
+
 **García Martínez, Carlos:**
 
 - Creó de posts para redes.
