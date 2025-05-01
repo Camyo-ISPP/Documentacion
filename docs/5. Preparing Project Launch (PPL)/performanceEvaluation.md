@@ -857,6 +857,12 @@
 **Rodríguez Millán, María Cristina:**
 
 **Rus Morales, Sonia María:**
+- Participó en el storyboard del anuncio de inversores.
+- Revisó que no hubiera incoherencias en el lenguaje en la aplicación.
+- Revisó la pantalla de oferta por ID.
+- Revisó pull request.
+- Realizó el documento de storyboard para inversores.
+- Participó en todas las reuniones.
 
 **Vento Conesa, Adriana:**
 - Implementó mejoras en frontend, como la mejora del listado de ofertas (Tarea Frontend 83), optimización de detalles de suscripciones y patrocinios (Tarea Frontend 84).
