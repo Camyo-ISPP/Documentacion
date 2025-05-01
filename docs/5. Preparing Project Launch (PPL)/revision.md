@@ -30,8 +30,9 @@
 | --- | --- |
 | Adriana Vento Conesa | Datos para la revisión y actualización de algunas imágenes. |
 | José Ramón Baños Botón | Actualización de algunas imágenes. |
+| Raúl Heras Pérez | Añadir apartado de anuncios |
 
-| Placeholder | Placeholder |
+
 
 # Tabla de Contenidos
 
@@ -62,8 +63,12 @@
 7. [Reseñas](#7-reseñas)  
    7.1 [Crear y ver Reseñas](#71-crear-y-ver-reseñas)  
    7.2 [Editar y Eliminar reseñas](#72-editar-y-eliminar-reseñas)
-8. [Pagos](#8-pagos)  
-   8.1 [Finalizar compra](#81-finalizar-compra)  
+8. [Anuncios](#8-anuncios)  
+   8.1 [Anuncios en la aplicación](#81-anuncios-en-la-aplicacion)  
+   8.2 [Eliminar anuncios](#82-eliminar-anuncios)   
+9. [Pagos](#9-pagos)  
+   9.1 [Finalizar compra](#91-finalizar-compra)  
+
 
 
 ## 1. Resumen Ejecutivo
@@ -379,16 +384,37 @@ Cuando un usuario visite un perfil público en el que ha dejado una reseña podr
 </p>
 
 
+## 8. Anuncios
 
+### 8.1 Anuncios en la aplicación
+Cuando no hay sesión iniciada o cuando el usuario no ha adquirido la compra para eliminar los anuncios, aparecerán diferentes anuncios en la plataforma. Existen dos tipos principales de anuncios implementados:
 
-## 8. Pagos
+- Pop-up, que aparece cada 5 minutos en la aplicación para cualquier pantalla. Se puede cerrar mediante el icono de la "X" en la esquina superior derecha.
+<p align="center">
+<img src="images/anuncios_pop_up.png">
+</p>
 
-### 8.1 Finalizar compra
+- Banners estáticos que aparecen en diversas pantallas de la aplicación.
+<p align="center">
+<img src="images/anuncio_ofertas.png">
+</p>
+
+### 8.2 Eliminar anuncios
+
+Para poder eliminar los anuncios, es necesario pagar una cantidad de 4,99 euros. A dicho pago se puede acceder desde la pantalla de perfil.
+<p align="center">
+<img src="images/eliminar_anuncios_perfil.png">
+</p>
+
+## 9. Pagos
+
+### 9.1 Finalizar compra
 
 Para acceder a la página para finalizar la compra, primero se deberá interactuar con un botón que lleve a ella. Este puede ser:
 
 - El botón **Cambiar a este plan** en uno de los planes de suscripción (véase [6.3 Suscripciones](#63-suscripciones))
 - El botón **Patrocinar** en los listados de oferta para empresas (véase [6.4 Promocionar Oferta](#64-promocionar-oferta) o [6.6 Mis Ofertas](#66-mis-ofertas))
+- El botón **Eliminar anuncios** en la página de perfil (véase [8.2 Eliminar anuncios](#82-eliminar-anuncios))
 
 Una vez se haya pulsado uno de estos botones, el usuario será redirigido a la siguiente página:
 

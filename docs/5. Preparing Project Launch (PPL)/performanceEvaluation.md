@@ -817,6 +817,13 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
+- Terminó de implementar los anuncios de manera manual.
+- Revisó algunas pull requests.
+- Realizó mejoras visuales en la aplicación.
+- Añadió funcionalidades nuevas y añadió detalles visuales al chat.
+- Creó un test de interfaz de chat.
+- Añadió navegación mejorada hacia el chat.
+
 
 **Jiménez Guerrero, Pedro:**
 
