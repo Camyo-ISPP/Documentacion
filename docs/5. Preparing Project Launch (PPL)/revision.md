@@ -26,13 +26,12 @@
 
 # Contribuciones del Equipo
 
-| Nombre(s) y Apellido(s) | Tipo de Contribución |
-| --- | --- |
-| Adriana Vento Conesa | Datos para la revisión y actualización de algunas imágenes. |
-| José Ramón Baños Botón | Actualización de algunas imágenes. |
-| Raúl Heras Pérez | Añadir apartado de anuncios |
-
-
+| Nombre(s) y Apellido(s)    | Tipo de Contribución                                          |
+| -------------------------- | -------------------------------------------------------------- |
+| Adriana Vento Conesa       | Datos para la revisión y actualización de algunas imágenes. |
+| José Ramón Baños Botón | Actualización de algunas imágenes.                           |
+| Raúl Heras Pérez         | Añadir apartado de anuncios                                   |
+| Carlos García Ortiz       | Actualizar imágenes                                           |
 
 # Tabla de Contenidos
 
@@ -69,8 +68,6 @@
 9. [Pagos](#9-pagos)  
    9.1 [Finalizar compra](#91-finalizar-compra)  
 
-
-
 ## 1. Resumen Ejecutivo
 
 Este documento proporciona una guía detallada para revisar la aplicación web de *matchmaking* de camioneros. Incluye un mapeo explícito de los casos de uso (UC) a las interacciones en el software, datos necesarios para la revisión, requisitos del sistema y un enlace a la demostración.
@@ -101,33 +98,30 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 ## 3. Autenticación
 
 ### 3.1 Registro
-Pantalla inicial del registro donde el usuario debe elegir si se registrará como Camionero o Empresa.
 
+Pantalla inicial del registro donde el usuario debe elegir si se registrará como Camionero o Empresa.
 
 ![image](./images/registro_opciones.png)
 
 #### 3.1.1 Registro como camionero
+
 Formulario detallado para el registro de camioneros, donde se solicitan datos personales, licencias, experiencia, CAP, y condición de autónomo. Cabe destacar la obligación de aceptar términos y condiciones.
 
 ![image](images/registro_camionero.png)
 ![image](images/registro_camionero2.png)
 
 #### 3.1.2 Registro como empresa
+
 Formulario de registro para empresas, incluyendo información básica, datos de contacto, sitio web y número de identificación fiscal. Cabe destacar la obligación de aceptar términos y condiciones.
 
 ![image](images/registro_empresa.png)
 ![image](images/registro_empresa2.png)
 
-
 ### 3.2 Inicio de sesión
+
 Formulario para que usuarios registrados ingresen con su nombre de usuario y contraseña. Incluye opción para redirigirse al registro si aún no tienen cuenta.
 
 ![image](images/inicio_sesion.png)
-
-
-
-
-
 
 ## 4. General
 
@@ -157,11 +151,11 @@ La pantalla tiene una seccion de búsqueda que permite filtrar ofertas según lo
 
 ![image](images/buscarofertas2.png)
 
-
 ### 4.3 Detalle de oferta
+
 Vista del detalle de una oferta visible para visitantes, que muestra los datos pero requiere iniciar sesión para poder solicitarla.
 
-![image](https://github.com/user-attachments/assets/e2797c89-e28d-4faa-8a91-5a8ba054da2b)
+![image](images/detalles oferta.png)
 
 Pantalla de detalle de una oferta para usuarios autenticados, con botón activo para solicitarla y toda la información relevante del transporte: presupuesto, licencias, origen/destino, fechas y carga. Para las ofertas de carga se incluye un mapa con la ruta entre origen y destino.
 
@@ -169,38 +163,32 @@ Pantalla de detalle de una oferta para usuarios autenticados, con botón activo 
 
 Si solicitamos la oferta nos saldrá un mensaje si la solicitud se ha completado.
 
-![image](https://github.com/user-attachments/assets/a5e70e85-f033-4b50-a4fa-80aecd7cb693)
-
+![image](images/solicitar.png)
 
 En el caso de estar iniciado sesión como empresa, y entramos en detalle de oferta en una oferta propia. Veríamos las camioneros que han solicitado la oferta:
 
-![image](images/camionerosSolicitantes.png)
-
-En el caso de haber asignado a un camionero, podremos contactar con él:
-
-![image](images/camioneroAsignado.png)
+![image](https://github.com/user-attachments/assets/be61c861-5a6e-4e8a-b41b-7600c6f25798)
 
 Los camioneros que han aplicado a la oferta y la empresa que ha hecho la oferta ha rechazado:
 
-![image](images/camionerosRechazados.png)
+![image](https://github.com/user-attachments/assets/d9d500cc-4dac-4926-bfd3-ed2ebcb470a9)
 
 Y la opción de eliminar la oferta:
 
-![image](images/botonEliminar.png)
-
+![image](https://github.com/user-attachments/assets/c0850258-e05e-49ce-8438-f22a1b2456eb)
 
 ### 4.4 Listado de empresas
+
 Pantalla que muestra un listado de empresas registradas en la plataforma con información básica como nombre, web, identificación, ubicación y teléfono, además de acceso a sus perfiles detallados. Se accede mediante el botón de menú sobre empresa.
 
 ![image](https://github.com/user-attachments/assets/dc310496-9942-4df9-ba42-b47a2b8f8ade)
 
-
 ### 4.5 Detalle de empresa
+
 Vista del perfil de una empresa con su información de contacto, descripción, sitio web, ofertas activas y opción para contactar o dejar una reseña. Se ve las ofertas patrocinadas de la empresa en las ofertas activas. También se muestra una sección para valoraciones de otros usuarios.
 
-![image](https://github.com/user-attachments/assets/76b45642-924d-4f57-a49d-cc7f5a74e7d1)
-![image](https://github.com/user-attachments/assets/a11b1288-a9a7-402d-af08-ea9252bea6a9)
-
+![image](images/perfilempresa.png)
+![image](images/perfilempresa2.png)
 
 ## 5. Camionero
 
@@ -209,7 +197,9 @@ Vista del perfil de una empresa con su información de contacto, descripción, s
 Vista privada del perfil del camionero, donde puede ver su información profesional y reseñas recibidas. Además puede editar los datos de su perfil haciendo click sobre la imagen de perfil en la parte superior derecha de la pantalla, y después en ver perfil. Dentro de tu perfil podrás editar el perfil haciendo click sobre el lapiz al lado de la foto de perfil y si quisiera eliminar su cuenta se hace abajo en eliminar cuenta
 ![image](https://github.com/user-attachments/assets/fc43da7f-31e1-434d-8b50-5a74741dbcaf)
 
-![image](https://github.com/user-attachments/assets/5d392ae6-7f58-492a-99c6-3d9ef42345cd)
+![image](images/miperfilcamionero.png)
+
+![image](images/miperfilcamionero2.png)
 
 En la edición de perfil el usuario podrá editar:
 ![image](https://github.com/user-attachments/assets/896b41fa-3256-4014-a6f8-a641d5c306ba)
@@ -220,21 +210,22 @@ En la edición de perfil el usuario podrá editar:
 
 Perfil público visible para las empresas, donde se muestra información laboral, contacto y reseñas recibidas.
 
-![image](https://github.com/user-attachments/assets/4be39ed4-dd9a-4004-8e57-66e8b0f7015e)
+![image](images/perfilcamionero.png)
 
+![image](images/perfilcamionero2.png)
 
 ### 5.2 Mis Ofertas
 
 Una vez iniciada la sesión como camionero, aparece en la barra de navegación la sección "Mis Ofertas" que muestra las solicitudes que ha realizado el camionero y se pueden filtrar por ofertas pendientes (en espera de respuesta por parte de la empresa), asignadas (ofertas aceptadas por la empresa) o descartadas (ofertas en las que el camionero no fue seleccionado para el trabajo o carga).
 
-![image](https://github.com/user-attachments/assets/58a0555d-3912-4dc7-93d3-8f9c75e38aff)
+![image](images/misofertaspendientes.png)
 
 ![image](https://github.com/user-attachments/assets/3d0413f7-da11-4017-aca2-5b7c410aa7a2)
 
 ![image](https://github.com/user-attachments/assets/06c63099-cb29-4ebb-b9e1-92e6aa617da8)
 
-
 ### 5.3 Chat
+
 Una vez iniciado sesión como transportista se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes".
 
 <p align="center">
@@ -257,7 +248,8 @@ La pantalla también cuenta con un buscador que filtra por el nombre del usuario
 <img src="images/buscarchat.png">
 </p>
 
-En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente. 
+En la pantalla de chat se podrá visualizar las notificaciones para saber si tienes alguna pendiente.
+
 <p align="center">
 <img src="images/Notificaciones.png">
 </p>
@@ -268,14 +260,12 @@ En la pantalla de chat se podrá visualizar las notificaciones para saber si tie
 
 Vista privada del perfil de empresa, con acceso para editar información, publicar nuevas ofertas y gestionar el plan de suscripción. Muestra también las ofertas activas y las reseñas recibidas.
 
-![image](https://github.com/user-attachments/assets/379229be-c4b6-43d8-abad-2766d1d74b5b)
-![image](https://github.com/user-attachments/assets/5dfb7fcb-bba5-4599-a230-5409ba1279da)
-
+![image](images/miperfilempresa.png)
+![image](images/miperfilempresa2.png)
 
 Perfil público de empresa donde se pueden consultar los datos de contacto, descripción, web, ofertas abiertas y reseñas de la empresa.
 
-![image](https://github.com/user-attachments/assets/9dee2df4-2f18-439e-97c8-1c0636a0bb2f)
-
+![image](images/perfilempresa1.png)
 
 ### 6.2 Crear Oferta
 
@@ -285,8 +275,7 @@ Al acceder a la plataforma como empresa, podrás crear ofertas para camioneros d
 <img src="images/crearoferta.jpg">
 </p>
 
-
-Además, hay un botón para poder guardar borradores de las ofertas. 
+Además, hay un botón para poder guardar borradores de las ofertas.
 
 <p align="center">
 <img src="images/Guardar Borrador.png">
@@ -299,11 +288,10 @@ En la pantalla de "Mis Ofertas" en "Borradores" podremos ver los borradores que 
 </p>
 
 Además está la posibilidad de editar estos borradores, eliminarlos o publicarlos
+
 <p align="center">
 <img src="images/editarBorrador.png">
 </p>
-
-
 
 Sin embargo, el número de ofertas activas que puedes tener simultáneamente depende del nivel de tu suscripción actual:
 
@@ -318,45 +306,41 @@ En la pantalla de perfil de empresa, verás un botón para crear una nueva ofert
 - Si aún no has alcanzado el límite de ofertas permitidas por tu suscripción:
   - El botón estará habilitado y podrás crear una nueva oferta.
 
-![image](https://i.imgur.com/EwcgGR6.png)
+![image](images/miperfilempresa1.png)
 
 - Si has alcanzado el límite de ofertas activas permitidas:
-  - El botón se bloqueará y mostrará el mensaje **"Límite de Ofertas Alcanzado"**.
+  - El botón se bloqueará y mostrará el mensaje **"Límite de ofertas activas alcanzado"**.
 
-![image](https://i.imgur.com/2mRysoa.png)
+![image](images/miperfilempresa.png)
 
 Pantalla donde las empresas pueden elegir entre tres planes: Gratis, Básico y Premium, con distintas capacidades para publicar ofertas de empleo según el nivel de suscripción.
 
-![image](../3.%20Sprint%202%20(S2)/images/suscripciones.png)
+![image](images/suscripciones.png)
 
 ### 6.4 Promocionar Oferta
 
-En el perfil de oferta se podrán ver las ofertas abiertas de las empresas, y en función del plan elegido se pondrá en disposición la posibilidad de promocionar una o varias ofertas.
+En el perfil de oferta se podrán ver las ofertas abiertas de las empresas, y en función del plan elegido se pondrá en disposición la posibilidad de promocionar una o varias ofertas tras una microtransacción.
 
-![{A65EA168-802A-4C21-9DAD-2229F2E718C9}](https://github.com/user-attachments/assets/33300bab-a28a-49a9-94dd-38dd821fca5a)
-![{AF644063-2EA6-4867-8162-4B62EA0D72FE}](https://github.com/user-attachments/assets/645be8f3-ec23-41f8-9dd1-ba596338e237)
-![{912305FD-41BC-4465-BCCC-A0536648E1C0}](https://github.com/user-attachments/assets/c95849b0-f5cb-4d65-90ec-7f40e6f348c3)
-![{F0746BA6-175E-44E2-8332-96C3D89CD76C}](https://github.com/user-attachments/assets/7f536a66-8892-4337-8ed2-6608f97b1404)
-![{E9148651-6596-4819-809D-2CE320397739}](https://github.com/user-attachments/assets/12a47bb5-791f-4081-9928-319051e8b21e)
-
-Además, desde los detalles de alguna oferta creada, también se podrá promocionar: 
-
-![image](images/detallesDeOferta.png)
+![{A65EA168-802A-4C21-9DAD-2229F2E718C9}](images/hacerpatrocinio.png)
+![{AF644063-2EA6-4867-8162-4B62EA0D72FE}](images/exitopatrocinio.png)
+![{912305FD-41BC-4465-BCCC-A0536648E1C0}](images/cancelarpatrocinio.png)
+![{F0746BA6-175E-44E2-8332-96C3D89CD76C}](images/cancelarpatrocinio2.png)
 
 ### 6.5 Chat
+
 Una vez iniciado sesión como empresa se podrá acceder a la pantalla de mensajería mediante la barra de navegación, en el apartado de "Mis Mensajes". Tienen las mismas características que el panel de mensajes de camioneros (véase [5.3 Chat](#53-chat)).
 
 ### 6.6 Mis Ofertas
+
 Listado de ofertas de trabajo o carga creadas por la empresa que han sido asignadas (abiertas) o no (cerrradas) a algún camionero.
 
-![image](../3.%20Sprint%202%20(S2)/images/misofertasemp1.png)
-![image](../3.%20Sprint%202%20(S2)/images/misofertasemp2.png)
-
-
-
+![image](images/misofertasabiertas.png)
+![image](images/misofertascerradas.png)
 
 ## 7. Reseñas
-### 7.1 Crear y ver reseñas 
+
+### 7.1 Crear y ver reseñas
+
 Tanto para camionero como para perfil se les permitirá valorar a las empresas o camioneros recientes y ver los comentarios que han sido dejados por la empresas o camioneros con los q se ha trabajado recientemente.
 
 <p align="center">
@@ -372,8 +356,8 @@ También pueden ver las reseñas de un usuario y su valoración media. En este c
 <img src="images/recibirReseñas.png">
 </p>
 
-
 ### 7.2 Editar y Eliminar reseñas
+
 Cuando un usuario visite un perfil público en el que ha dejado una reseña podrá editar y borrar su reseña
 
 <p align="center">
@@ -434,5 +418,3 @@ La compra se puede cancelar pulsando la flecha a la izquierda del título **Fina
 Nota: si se intenta acceder a la página de finalización de compra de otra forma que no sea las indicadas anteriormente, se mostrará un error. Esto se debe a que la interacción con los botones, además de redirigir al pago, le pasan a esta página el tipo de compra y, en caso de ser el patrocinio de una oferta, su ID.
 
 ![image](https://i.imgur.com/AfiY2PL.png)
-
-
