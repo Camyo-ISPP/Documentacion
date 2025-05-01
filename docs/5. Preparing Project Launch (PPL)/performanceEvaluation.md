@@ -850,6 +850,12 @@
 - Creó la demo final de la aplicación y la actualizó según el feedback de clase.
 
 **Pérez Gutiérrez, Lucía:**
+- Organizó las tareas de frontend en función de los comentarios aportados por pilotos
+- Reviso múltiples PR
+- Realizó la Guía de Diseño
+- Creó el kit de Prensa
+- Diseño 3 anuncios para la aplicación
+- Participó en la reunión general y en la del equipo de Diseño
 
 **Pérez Manzano, Francisco:**
 
