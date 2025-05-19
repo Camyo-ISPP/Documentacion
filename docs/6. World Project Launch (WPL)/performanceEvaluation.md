@@ -922,6 +922,9 @@
 **García Martínez, Carlos:**
 
 **García Ortíz, Carlos:**
+- Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP para la evaluación final.
+- Revisó toda la documentación de pilotos.
+- Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
 
