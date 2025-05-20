@@ -933,6 +933,9 @@
 **Meana Iturri, Claudia:**
 
 **Pérez Garrido, Rubén:**
+- Participó en la reunión final.
+- Ayudó a preparar la presentación final.
+- Presentó el WPL.
 
 **Pérez Gutiérrez, Lucía:**
 
