@@ -941,6 +941,9 @@
 **Pérez Vargas, Diego José:**
 
 **Rodríguez Millán, María Cristina:**
+- Participó en la reunión final.
+- Ayudó a preparar la presentación final.
+- Presentó el WPL.
 
 **Rus Morales, Sonia María:**
 
