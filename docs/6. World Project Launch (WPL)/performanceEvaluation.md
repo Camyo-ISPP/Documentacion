@@ -918,6 +918,8 @@
 **Cantero Corchero, Isabel:**
 
 **Chen, Sheng:**
+- Participó en la reunión final.
+- Publicó un anuncio en Facebook.
 
 **García Martínez, Carlos:**
 
