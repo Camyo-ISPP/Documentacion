@@ -953,3 +953,6 @@
 **Vento Conesa, Adriana:**
 
 **Yao, Jun:**
+- Ayudó el documento de *Producción Física de Publicidad*.
+- Participó en la reunión final.
+- Ayudó hacer la plantilla de la pegatina.
