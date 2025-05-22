@@ -920,7 +920,6 @@
 - Participó en la reunión final
 - Ayudó con el WPL promotion slides
 - Fue al ensayo en el salón de actos
-- Añadir imágenes de anuncios al código
 
 **Chen, Sheng:**
 - Participó en la reunión final.
@@ -936,14 +935,12 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
-- Participó en la reunión final
-- Realizó posts de X
-- Revisó la documentación y aplicación antes de la entrega.
 
 **Jiménez Guerrero, Pedro:**
 
 - Diseñó posts de redes 
 - Fue al ensayo del WPL en el salón de actos
+- Ayudó a poner las imágenes de los anuncios en la web
 - Participó en todas las reuniones del grupo
 
 
@@ -961,11 +958,6 @@
 - Presentó el WPL.
 
 **Pérez Gutiérrez, Lucía:**
-- Participó en la reunión de revisión de la presentación
-- Colaboro para del cartel de promoción en las pantallas
-- Creo el post de la feria en diseño
-- Creo las identificaciones de los presentaciones para el WPL
-- Creó el post de anuncio del WPL
 
 **Pérez Manzano, Francisco:**
 - Ayudo a preparar la presentación de evaluación individual
