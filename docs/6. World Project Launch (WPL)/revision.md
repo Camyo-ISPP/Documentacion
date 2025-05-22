@@ -84,7 +84,7 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Url del repositorio de Github | https://github.com/Camyo-ISPP/CamyoApp |
 | Url del repositorio de Documentación | https://github.com/Camyo-ISPP/Documentacion |
 | Url de la Landing Page | https://sites.google.com/view/camyo-landing-page/ |
-| Url del despliegue Frontend | **[Placeholder, reemplazar.]** |
+| Url del despliegue Frontend | https://camyo-app.web.app/ |
 | Url de la herramienta de seguimiento  | https://app.clockify.me/login |
 | Credenciales para la herramienta de seguimiento  | Email: [profesores.camyo@gmail.com](mailto:profesores.camyo@gmail.com)<br>Contraseña de la cuenta de google: Profesores.camyo!01 <br> Para acceder, hagan login con este email y recibirán un correo al correo con el código para acceder. |
 | Requisitos potenciales para usar el sistema | Ninguno. |
