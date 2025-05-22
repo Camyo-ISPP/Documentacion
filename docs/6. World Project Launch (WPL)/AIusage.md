@@ -285,6 +285,47 @@ Otros valores que se pueden destacar de estre sprint son los máximos y mínimos
 
 Como en el último entregable, también se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrellenado de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 6 recomendaciones o fragmentos de código generados por IA, siendo bastante más bajo que el último sprint ya que la cantidad de código necesaria para este entregable es mucho menor.
 
+### World Project Launch
+
+Esta sección contendrá los usos de IA en el entregable de "world project launch" además de los datos recogidos de una encuesta hecha a los miembros del grupo. Aún asi, debido a que se ha reportado un total de 0 personas usando IA en el entregable, se ha hecho una pequeña encuesta para determinar durante todo el entregable, cual ha sido la IA clasificada como más util y la que menos.
+
+### Encuesta World Project Launch
+
+De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el entregable, esta vez preguntando al equipo sobre las IA más y menos utiles, y una pequeña sección para opinar de la IA como una conclusión final.
+
+Lo primero que se pregunto al equipo fue que IA consideraban más utiles, seguido de la que consideraban menos útil de estas encuestas los siguientes resultados salieron.
+
+#### IA más útil
+
+En los resultados de las encuestas se establecieron las IA de GitHub Copilot y ChatGPT como las más útiles durante todo el proyecto, con 3 votos cada una, seguidos de IAs como Qwen AI y Deepseek.
+
+A continuación se pondrá una tabla con los resultados:
+
+[PONER LA FOTO]
+
+#### IA menos útil
+
+En los resultados de las encuestas la IA de ChatGPT fue también considerada como la menos útil durante todo el proyecto. Esta IA estando primera en ambos puestos nos hace ver la gran cantidad de gente que ha llegado a usarla, y las diferentes experiencias que puede haber al usar IA, dependiendo si usas una metodología fiable para conseguir un resultado favorable por parte de la IA. 
+
+Otras IAs que encontramos en las ocpiones son GitHub Copilot estando segunda, principalmente se puede usar el mismo razonamiento para esta parte y la aparición de Microsoft Copilot exclusivamente en menos útil y no en la otras tabla, esto se debe a un bajo uso de caracter negativo por parte del equipo.
+
+A continuación se pondrá una tabla con los resultados:
+
+[PONER LA FOTO]
+
+#### Conclusiones
+
+Esta sección recoje las opiniones del equipo y las combina en una pequeña conclusión sobre la IA.
+
+Gran parte del equipo piensa que las herramienta IA son muy utiles para muchas tareas rutinarias; ayudar con markdown, b uscar errores leves, refactorizar código, etc. Ayuda a acelerar el proceso de cosas que pueden ser consideradas como lentas o repetitivas. 
+
+Aún así, es una herramienta que realmente no puede ver más atraves de eso, errores más grandes o tareas de mayor calibre son cosas que estas herramientas no pueden proporcionarnos ni ayudarnos. Hay que usar un razonamiento crítico para poder aprovechar la IA y debemos usarla de forma responsable.
+
+De esta parte sale la preocupación de algunos de los miembros muestran preocupación sobre algunos usos de la IA, principalmente en el concepto del arte, ya que quita la expresión humana de una forma de expresarnos. Esto tamién se podría llegar a aplicar en un futuro hasta en el código, ya que, llegados a un punto donde la IA puede ejercer mejores cargas donde programar predomine, terminará quitando la expresión nuestra de aquí tambien dependiendo si ves el hecho de programar con un arte o como algo solo técnico.
+
+Por lo tanto, estos usos deberían siempre limitarse a ayudar en tareas repetitivas y mundanas, para siempre poder aprender individualmente mediante el aprendidaje a base del trabajo humano real.
+
+
 ## 5. Alucinaciones de IA 
 
 Dado el impacto que puede tener la fiabilidad de la IA en el desarrollo del proyecto, hemos decidido analizar la tasa de alucinaciones observadas durante los sprints. Este análisis nos permite comprender mejor la precisión de las respuestas de la IA y tomar decisiones sobre su uso en el futuro.
@@ -461,7 +502,7 @@ Como entregables anteriores, la encuesta recopiló errores y alucinaciones de la
 
 **Media de alucinaciones ponderada**
 
-Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 29.% de errores medio. Esto es una pequeña mejora del porcentage de alucionaciones, un 7% de diferencia respecto al entregable anterior por lo que podemos decir que hemos mejorado en este sprint para evitar errores.
+Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 29% de errores medio. Esto es una pequeña mejora del porcentage de alucionaciones, un 7% de diferencia respecto al entregable anterior por lo que podemos decir que hemos mejorado en este sprint para evitar errores.
 
 Aún asi, nuestro objetivo será bajar estas alucinaciones el máximo posible, asi que se continuará utilizando aquellas lecciones definidas al final de este reportepra poder mejorar en nuestra efectividad con la IA.
 
@@ -478,9 +519,28 @@ Aún asi, nuestro objetivo será bajar estas alucinaciones el máximo posible, a
 
 Debido al bajo uso que utilizaron estas herramientas en este entregable, asi como el razonamiento crítico que se esta usando en estas herramientas para evitar sugerencias que puedan romper la aplicación, hemos vuelto a conseguir un 0% de errores de media, lo cual indica que estamos siguiendo de forma adecuada el proceso para evitar errores en estos tipos de herramientas IA.
 
+
 #### Opinión del equipo
 
 Según otra vez un 57% de los encuestados que usan IA, se considerá que ha habido una mejora respecto a su uso de IA en el último entregable. Aún asi, hay un 28% de las personas que debido al poco uso de IA del entregable muestran indecisión al decidir si han mejorado.
+
+### World Project Launch
+
+Debido a la falta de uso de IA durante el entregable, no se ha realizado ningún analisis de alucionaciones en la encuesta. Aunque se cojerán las medias de todos los valores en entregables anteriores para ver como ha sido el desarrollo de nuestro uso con la IA.
+
+Porcentaje general es el porcentaje de alucinaciones si no se ha establecido una clara diferenciación entre tipos de IA. Otro se refiere al porcentaje de aquellas alucinaciones pertenecientes a autorrellenado y bots para pull request principalmente.
+
+| Entregable| General %| Chatbots %|Otro %|
+|-----------|----------|-----------|------|
+|DP         |    -     |    -      |   -  |
+| Sprint 1  |    32%   | -         |  -   |
+| Sprint 2  | -        | 37%       |19.48%|
+|Sprint 3   | -        | 36%       |  0%  |
+|  PPL      | -       | 29%       |  0%  |
+| WPL       | -        | -         |  -   |
+
+Podemos analizar una clara mejoría entre entregables tanto con el uso de Chatbots como con otras IAs, aunque Chatbots tuvieron que recurrir hasta el entregable "Preparing Project Launch" para mostrar una mejoría substancial. Aún asi el equipo puede decir que en genral se ha podido mejorar y optimizar nuestro uso de IA para no afectar a nuestro rendimiento y eficacia a la hora de trabajar.
+
 
 ## 6. Lecciones aprendidas
 
