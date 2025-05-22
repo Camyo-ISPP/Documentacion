@@ -28,14 +28,14 @@
 
 | Nombre(s) y Apellido(s)       | Tipo de Contribución          |
 |-|-|
-| Francisco Pérez Manzano       | Analisis de Uso de IA, Alucinaciones de IA  y Lecciones Aprendidas      |
+| Francisco Pérez Manzano       | Análisis de Uso de IA, Alucinaciones de IA  y Lecciones Aprendidas      |
 | Isabel Cantero Corchero       | Primera iteración del reporte. |
 
 
 ## Tabla de Contenidos
 
 1. [Introducción](#1-introducción)
-2. [Herramientas IA y su proposito](#2-herramientas-ia-y-su-proposito)
+2. [Herramientas IA y su propósito](#2-herramientas-ia-y-su-proposito)
     - [Chatbots](#chatbots)
     - [Desarrollo de Código](#desarrollo-de-código)
     - [Herramientas de Diseño Gráfico](#herramientas-de-diseño-gráfico)
@@ -62,7 +62,7 @@ Hoy en día, la Inteligencia Artificial (IA) es una herramienta imprescindible e
 
 Además, revisaremos minuciosamente la información / el resultado que nos proporcione y lo modificaremos según las necesidades del proyecto. Pensamos que el uso de la IA nos puede ayudar a trabajar de forma más eficiente y reducir el tiempo invertido en tareas menos relevantes y así poder dedicar nuestra capacidad de concentración y creatividad al verdadero problema que queremos solucionar. 
 
-## 2. Herramientas IA y su proposito
+## 2. Herramientas IA y su propósito
 
 ### Chatbots
 
@@ -132,7 +132,7 @@ Para detallar mejor el uso de IA durante el sprint, se desarrolló una encuesta 
 
 En los resultados, solo 2 personas en el proyecto no han requerido de la IA en ningún estado del desarrollo, con el resto del equipo utilizando las herramientas una media estimada del 50%, con las restricciones de no utilizar la IA como base para construir sino para la refactorización y resolución de errores.
 
-En las herramientas más utilizadas se destaca ChatGPT con 11 personas utilizandola, con otras opciones con menor uso, incluyendo Deepseek, Copilot y Qwen AI. Los usos varían entre muchos destacando suo de herramientas IA para refactorización y arreglo de errores.
+En las herramientas más utilizadas se destaca ChatGPT con 11 personas utilizándola, con otras opciones con menor uso, incluyendo Deepseek, Copilot y Qwen AI. Los usos varían entre muchos destacando suo de herramientas IA para refactorización y arreglo de errores.
 
 ### Sprint 2 
 
@@ -140,11 +140,11 @@ Esta sección contendrá los usos de IA en el entregable del sprint 2 además de
 
 #### Usos genéricos
 
-Como en el sprint 1, nos encontramos los usos normales en los que suelen usar la IA, encontrandos entre estos refactorización de código, autorrellenado de código y búsqueda de errores. 
+Como en el sprint 1, nos encontramos los usos normales en los que suelen usar la IA, encontrando entre estos refactorización de código, autorrellenado de código y búsqueda de errores. 
 
-#### Analisis de librerias y dependencias
+#### Análisis de librerías y dependencias
 
-El único caso destacable que ha sido usado en este sprint se trata de la obtención de información sobre el uso y beneficios que aportan dependencias o librerias nuevas para su potencial inclusión a la estructura de la aplicación, pudiendo llegar a incluirse tras un posterior analisis del equipo.
+El único caso destacable que ha sido usado en este sprint se trata de la obtención de información sobre el uso y beneficios que aportan dependencias o librerías nuevas para su potencial inclusión a la estructura de la aplicación, pudiendo llegar a incluirse tras un posterior análisis del equipo.
 
 #### Encuesta Sprint 2
 
@@ -166,24 +166,24 @@ En los resultados obtenidos, se contabilizaron un total de 543 prompts en total,
 
 Entre otros valores a destacar son el máximo y el mínimo de prompts y chats usados por el equipo, sin contar a aquellos integrantes que no hayan usado IA.
 
-| Máximo prompts  | Minimo prompts | Máximo chats | Mínimo chats |
+| Máximo prompts  | Mínimo prompts | Máximo chats | Mínimo chats |
 |-----------------|----------------|--------------|--------------|
 | 137             | 5              | 42           |   1          |
 
 ##### Otras herramientas IA
 
-También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodiumAI o Copilot.
+También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este análisis, se contabilizaron un total de 56 recomendaciones o fragmentos de código generados por IA, ya sea a través de CodiumAI o Copilot.
 
 ### Sprint 3 
 
 Esta sección contendrá los usos de IA en el entregable del sprint 3 además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. Esta sección a su vez contendrá una sección que establecerá el proceso de decisión seguido sobre que IA utilizar para la solicitudes de cambios de las ramas.
 
 #### Usos genéricos
-Como otros sprints, , nos encontramos los usos convencionales en los que suelen usar la IA, encontrando entre estos refactorización de código, autorrellenado de código, búsqueda de errores y el uso del bot de analisis de pull requests.
+Como otros sprints, , nos encontramos los usos convencionales en los que suelen usar la IA, encontrando entre estos refactorización de código, autorrellenado de código, búsqueda de errores y el uso del bot de análisis de pull requests.
 
 #### Claudette
 
-Para asegurar que nuestros terminos y servicios no fueran abusivos para nuestros clientes, usamos la herramienta IA Claudette, cuyo objetivo principal es la busqueda de clausulas abusivas en la política y términos de una compañia.
+Para asegurar que nuestros términos y servicios no fueran abusivos para nuestros clientes, usamos la herramienta IA Claudette, cuyo objetivo principal es la búsqueda de clausulas abusivas en la política y términos de una compañía.
 
 #### Ayuda para Configuración de AdSense
 
@@ -201,25 +201,25 @@ CodiumAI o QodoAI es una herramienta de código abierto cuyo objetivo es ayudar 
 
 - **Resumen de cambios**: Contiene descripciones y archivos modificados en la rama.
 
-- **Guia de revisor**: Contiene una dificultad estimada por parte de la IA para revisar la rama, asi como la denotación posibles areas de interés a la hora de realizar la revisión. Estas areas de interes son tests, problemas de seguridad y areas sugeridas por la IA para revisión.
+- **Guía de revisor**: Contiene una dificultad estimada por parte de la IA para revisar la rama, asi como la denotación posibles areas de interés a la hora de realizar la revisión. Estas areas de interés son tests, problemas de seguridad y areas sugeridas por la IA para revisión.
 
 - **Sugerencias de código**: Contiene algunas sugerencias, ya sea por errores o recomendaciones generales para aplicarlas a la rama. Es importante notar de que se debe tener cuidado con esta sección a la hora de tocar archivos de configuración, ya que ha resultado en dos errores por parte de CodiumAI.
 
-- **Gratis**: Esta heramienta, o, al menos, las funcionalidades de las que se establecen aqui forman parte de la versión gratis de bot, lo que nos permite ahorrar en gasto de software para nuestro equipo.
+- **Gratis**: Esta herramienta, o, al menos, las funcionalidades de las que se establecen aquí forman parte de la versión gratis de bot, lo que nos permite ahorrar en gasto de software para nuestro equipo.
 
 GitHub Copilot es una herramienta de IA de código cerrado cuyo objetivo es similar a CodiumAI; ayuda a los desarrolladores de código a escribir código de forma más eficiente. Esta nos es la funcionalidad que nosotros vamos a comparar, sino su funcionalidad de manejo de solicitudes de cambio de ramas, cuya características principales son:
 
 - **Resumen de cambios**: Contiene descripciones y archivos modificados en la rama, con enlaces a aquellas líneas de código modificadas.
 
-- **Revisión Automática**: Permite a GitHub Copilot automaticamente revisar una pull request por si misma, organizando los cambios que ha hecho por confianza. Enseña los cambios que haría en una solicitud de cambios de rama, los cuales deben de ser aprobados y revisados por una persona.
+- **Revisión Automática**: Permite a GitHub Copilot automáticamente revisar una pull request por si misma, organizando los cambios que ha hecho por confianza. Enseña los cambios que haría en una solicitud de cambios de rama, los cuales deben de ser aprobados y revisados por una persona.
 
 **Puntos Negativos**
 
-Un problema que muestran principalmente las dos herramientas es su enjque local que se aplica solo a aquellos archivos modificados en una rama, pudiendo generar fallos al focalizar los problemas en un solo archivo.
+Un problema que muestran principalmente las dos herramientas es su enfoque local que se aplica solo a aquellos archivos modificados en una rama, pudiendo generar fallos al focalizar los problemas en un solo archivo.
 
-Un problema que resulta problemático para la gestión de GitHub Copilot y su inabilidad de automatización del resumen, ya que gran parte de las funciones de Copilot requieren de input humano para generar resumenes y sugerencias de código. Esto se podría aún asi arreglar con un workflow con GitGub Actions que se encarge de añadir el resumen, asi que no es un problema grave.
+Un problema que resulta problemático para la gestión de GitHub Copilot y su inhabilidad de automatización del resumen, ya que gran parte de las funciones de Copilot requieren de input humano para generar resúmenes y sugerencias de código. Esto se podría aún asi arreglar con un workflow con GitGub Actions que se encargue de añadir el resumen, asi que no es un problema grave.
 
-El mayor problema que muestra Github Copilot a la hora de hacer resumen es su inabilidad de poder usarse con el plan gratuito de GitHub Copilot, requiriendo el plan PRO para poder crear resumenes. Este plan, aunque siendo gratis para nosotros al ser estudiantes de la universidad de Sevilla, es una versión con enfoque individual, y no se puede utilizar eficientemente en una orgnación, ya que todos los integrantes del equipo deberían tener el plan en PRO para que se pudiera manejar de forma eficaz.
+El mayor problema que muestra Github Copilot a la hora de hacer resumen es su inhabilidad de poder usarse con el plan gratuito de GitHub Copilot, requiriendo el plan PRO para poder crear resúmenes. Este plan, aunque siendo gratis para nosotros al ser estudiantes de la universidad de Sevilla, es una versión con enfoque individual, y no se puede utilizar eficientemente en una organización, ya que todos los integrantes del equipo deberían tener el plan en PRO para que se pudiera manejar de forma eficaz.
 
 **Conclusión**
 
@@ -229,14 +229,14 @@ Como conclusión, continuaremos con el uso del bot de CodiumAI para nuestro proc
 
 De forma similar a los dos sprints anteriores, se hizo una encuesta para determinar el uso de IA durante el sprint, con una estructura enfocada en las alucinaciones de IA y sobre las mejoras respecto a los errores cometidos por la IA en el sprint anterior.
 
-A diferencia del sprint anterior, esta vez hemos tenido a 4 personas que no han usado IA de ningún motivo durante este sprint y para profundizar más sobre las razones de esto, se les hizo una pequeña pregunta donde podían opcionalmente poner sus opiniones sobre la misma. Los motivos principales encontrados sobre el uso de IA es la preocupación a desarrollar una dependencia en la IA, eliminando el razonimiento crítico al desarrollar código o hacer cualquier tipo de tareas.
+A diferencia del sprint anterior, esta vez hemos tenido a 4 personas que no han usado IA de ningún motivo durante este sprint y para profundizar más sobre las razones de esto, se les hizo una pequeña pregunta donde podían opcionalmente poner sus opiniones sobre la misma. Los motivos principales encontrados sobre el uso de IA es la preocupación a desarrollar una dependencia en la IA, eliminando el razonamiento crítico al desarrollar código o hacer cualquier tipo de tareas.
 Como en el sprint anterior tenemos a 2 personas en el grupo aún no utilizando IA para ningún motivo en el desarrollo del proyecto.
 
-Herramientas de IA son las mismas de Sprints anteriores, aunque reduciéndose el uso de las herramientas al haber menos personas usando de IA en el proyecto, habiendo 9 personas usando ChatGPT, una reducción sustancial de Copilot y CodiumAI, habiendo 4 personas en ambas usandolos, y Deepseek como Qwen AI con los mismos usos que el sprint anterior, siendo utilizado por 4 y 3 personas.
+Herramientas de IA son las mismas de Sprints anteriores, aunque reduciéndose el uso de las herramientas al haber menos personas usando de IA en el proyecto, habiendo 9 personas usando ChatGPT, una reducción sustancial de Copilot y CodiumAI, habiendo 4 personas en ambas usándolos, y Deepseek como Qwen AI con los mismos usos que el sprint anterior, siendo utilizado por 4 y 3 personas.
 
 ##### Chatbots
 
-Lo primero que se pregunto en la encuesta es sobre uso de Chatbots, obteniendo de cada miembro el numero de chats y prompts que hayan abierto a lo largo del tercer sprint. En este sprint se mostro una reducción substancial por parte del equipo sobre la IA, muy presente en los resultados.
+Lo primero que se pregunto en la encuesta es sobre uso de Chatbots, obteniendo de cada miembro el numero de chats y prompts que hayan abierto a lo largo del tercer sprint. En este sprint se mostró una reducción substancial por parte del equipo sobre la IA, muy presente en los resultados.
 
 En los resultados obtenidos, se contabilizaron un total de 147 prompts en total, comprimidos en un total de 38 chats, dándonos una proporción de 3.86 prompts por chat abierto, una diferencia de uso bastante alta respecto al sprint anterior, pudiendo asumir una cierta reducción de dependencia de usar herramientas IA en el proyecto.
 
@@ -244,25 +244,25 @@ En los resultados obtenidos, se contabilizaron un total de 147 prompts en total,
 
 Entre otros valores a destacar son el máximo y el mínimo de prompts y chats usados por el equipo, sin contar a aquellos integrantes que no hayan usado IA, que han sido reducidos de forma considerable respecto al último sprint, especialmente los máximos.
 
-| Máximo prompts  | Minimo prompts | Máximo chats | Mínimo chats |
+| Máximo prompts  | Mínimo prompts | Máximo chats | Mínimo chats |
 |-----------------|----------------|--------------|--------------|
 | 50              | 2              | 20           |   1          |
 
 ##### Otras herramientas IA
 
-También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 29 recomendaciones o fragmentos de código generados por IA, siendo utilizado menos por el equipo.
+También se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrelleno de código y las sugerencias automatizadas. En este análisis, se contabilizaron un total de 29 recomendaciones o fragmentos de código generados por IA, siendo utilizado menos por el equipo.
 
 ### Preparing Project Launch
 
-Esta sección contendrá los usos de IA en el entregable de "preparing project launch" además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. En el caso de que no hayan usado IA, se les ha preguntado sobre su ponión de IA y el porque de no utilizarlo.
+Esta sección contendrá los usos de IA en el entregable de "preparing project launch" además de los datos recogidos de una encuesta hecha a los miembros del grupo, sobre su uso de IA a lo largo de este entregable. En el caso de que no hayan usado IA, se les ha preguntado sobre su opinión de IA y el porque de no utilizarlo.
 
 #### Usos genéricos
 
-Este entregable no ha habido ningún uso destacable, solo habiendo los usos generales de refactorización de código, modficación de texto, arreglo de errores y busqueda de información.
+Este entregable no ha habido ningún uso destacable, solo habiendo los usos generales de refactorización de código, modificación de texto, arreglo de errores y búsqueda de información.
 
 #### Encuesta Preparing Project Launch
 
-De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el sprint, enfocado principalmente para saber la ponión de los miembros del grupo de IA, debido al bajo uso de IA esta semana.
+De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el sprint, enfocado principalmente para saber la opinión de los miembros del grupo de IA, debido al bajo uso de IA esta semana.
 
 En este entregable ha habido una considerable reducción de personas utilizando IA en el proyecto, esto se debe a que en los últimos entregables de esta asignatura, el equipo se ha centrado más en actividades de documentación que requieren usar menos la IA como soporte, por lo que se ha reducido en general.
 
@@ -272,20 +272,20 @@ No ha habido ninguna herramienta de IA nueva utilizada en el proyecto, con Githu
 
 ##### Chatbots
 
-Respecto a chatbot en el entregable, se contabilizaron un total de 41 prompts en total, comprimidos en un total de 15 chats, siendo un total de 2.73 promp, bastante menor al número de prompts del sprint 3, que fue una proporción de 3.86, que se ha visto tan reducido por el equipo no necesitando IA para tareas de documentación o diseño.
+Respecto a chatbot en el entregable, se contabilizaron un total de 41 prompts en total, comprimidos en un total de 15 chats, siendo un total de 2.73 prompts por chat, bastante menor al número de prompts del sprint 3, que fue una proporción de 3.86, que se ha visto tan reducido por el equipo no necesitando IA para tareas de documentación o diseño.
 
 
 \(Prompts/chat=41/15=2.73\) _Prompts por chat_
 
-Otros valores que se pueden destacar de estre sprint son los máximos y mínimos, esta vez mucho más cercanos entre ellos debido al menor uso de IA
+Otros valores que se pueden destacar de este sprint son los máximos y mínimos, esta vez mucho más cercanos entre ellos debido al menor uso de IA
 
-| Máximo prompts  | Minimo prompts | Máximo chats | Mínimo chats |
+| Máximo prompts  | Mínimo prompts | Máximo chats | Mínimo chats |
 |-----------------|----------------|--------------|--------------|
 | 15              | 2              | 3           |   1          |
 
 ##### Otras herramientas IA
 
-Como en el último entregable, también se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrellenado de código y las sugerencias automatizadas. En este analisis, se contabilizaron un total de 6 recomendaciones o fragmentos de código generados por IA, siendo bastante más bajo que el último sprint ya que la cantidad de código necesaria para este entregable es mucho menor.
+Como en el último entregable, también se realizó un análisis sobre el uso de otras herramientas IA, centrándose en funciones como el autorrellenado de código y las sugerencias automatizadas. En este análisis, se contabilizaron un total de 6 recomendaciones o fragmentos de código generados por IA, siendo bastante más bajo que el último sprint ya que la cantidad de código necesaria para este entregable es mucho menor.
 
 ### World Project Launch
 
@@ -293,9 +293,9 @@ Esta sección contendrá los usos de IA en el entregable de "world project launc
 
 ### Encuesta World Project Launch
 
-De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el entregable, esta vez preguntando al equipo sobre las IA más y menos utiles, y una pequeña sección para opinar de la IA como una conclusión final.
+De la misma forma que en entregables anteriores, se hizo una encuesta para determinar el uso de IA durante el entregable, esta vez preguntando al equipo sobre las IA más y menos útiles, y una pequeña sección para opinar de la IA como una conclusión final.
 
-Lo primero que se pregunto al equipo fue que IA consideraban más utiles, seguido de la que consideraban menos útil de estas encuestas los siguientes resultados salieron.
+Lo primero que se pregunto al equipo fue que IA consideraban más útiles, seguido de la que consideraban menos útil de estas encuestas los siguientes resultados salieron.
 
 #### IA más útil
 
@@ -309,7 +309,7 @@ A continuación se pondrá una tabla con los resultados:
 
 En los resultados de las encuestas la IA de ChatGPT fue también considerada como la menos útil durante todo el proyecto. Esta IA estando primera en ambos puestos nos hace ver la gran cantidad de gente que ha llegado a usarla, y las diferentes experiencias que puede haber al usar IA, dependiendo si usas una metodología fiable para conseguir un resultado favorable por parte de la IA. 
 
-Otras IAs que encontramos en las ocpiones son GitHub Copilot estando segunda, principalmente se puede usar el mismo razonamiento para esta parte y la aparición de Microsoft Copilot exclusivamente en menos útil y no en la otras tabla, esto se debe a un bajo uso de caracter negativo por parte del equipo.
+Otras IAs que encontramos en las opciones son GitHub Copilot estando segunda, principalmente se puede usar el mismo razonamiento para esta parte y la aparición de Microsoft Copilot exclusivamente en menos útil y no en la otras tabla, esto se debe a un bajo uso de carácter negativo por parte del equipo.
 
 A continuación se pondrá una tabla con los resultados:
 
@@ -317,15 +317,15 @@ A continuación se pondrá una tabla con los resultados:
 
 #### Conclusiones
 
-Esta sección recoje las opiniones del equipo y las combina en una pequeña conclusión sobre la IA.
+Esta sección recoge las opiniones del equipo y las combina en una pequeña conclusión sobre la IA.
 
-Gran parte del equipo piensa que las herramienta IA son muy utiles para muchas tareas rutinarias; ayudar con markdown, b uscar errores leves, refactorizar código, etc. Ayuda a acelerar el proceso de cosas que pueden ser consideradas como lentas o repetitivas. 
+Gran parte del equipo piensa que las herramienta IA son muy útiles para muchas tareas rutinarias; ayudar con markdown, buscar errores leves, refactorizar código, etc. Ayuda a acelerar el proceso de cosas que pueden ser consideradas como lentas o repetitivas. 
 
-Aún así, es una herramienta que realmente no puede ver más atraves de eso, errores más grandes o tareas de mayor calibre son cosas que estas herramientas no pueden proporcionarnos ni ayudarnos. Hay que usar un razonamiento crítico para poder aprovechar la IA y debemos usarla de forma responsable.
+Aún así, es una herramienta que realmente no puede ver más a traves de eso, errores más grandes o tareas de mayor calibre son cosas que estas herramientas no pueden proporcionarnos ni ayudarnos. Hay que usar un razonamiento crítico para poder aprovechar la IA y debemos usarla de forma responsable.
 
-De esta parte sale la preocupación de algunos de los miembros muestran preocupación sobre algunos usos de la IA, principalmente en el concepto del arte, ya que quita la expresión humana de una forma de expresarnos. Esto tamién se podría llegar a aplicar en un futuro hasta en el código, ya que, llegados a un punto donde la IA puede ejercer mejores cargas donde programar predomine, terminará quitando la expresión nuestra de aquí tambien dependiendo si ves el hecho de programar con un arte o como algo solo técnico.
+De esta parte sale la preocupación de algunos de los miembros muestran preocupación sobre algunos usos de la IA, principalmente en el concepto del arte, ya que quita la expresión humana de una forma de expresarnos. Esto también se podría llegar a aplicar en un futuro hasta en el código, ya que, llegados a un punto donde la IA puede ejercer mejores cargas donde programar predomine, terminará quitando la expresión nuestra de aquí también dependiendo si ves el hecho de programar con un arte o como algo solo técnico.
 
-Por lo tanto, estos usos deberían siempre limitarse a ayudar en tareas repetitivas y mundanas, para siempre poder aprender individualmente mediante el aprendidaje a base del trabajo humano real.
+Por lo tanto, estos usos deberían siempre limitarse a ayudar en tareas repetitivas y mundanas, para siempre poder aprender individualmente mediante el aprendizaje a base del trabajo humano real.
 
 
 ## 5. Alucinaciones de IA 
@@ -377,7 +377,7 @@ Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un t
 
 ### Sprint 2
 
-En este sprint, a diferencia del anterior, se estableció el concepto de contabilizar prompts y chats, asi como los fallos y alucinaciones que la IA tuvo para calcular con mayor eficacia los porcentajes de alucinación de la IA. Esta vez, solo se calculará la media ponderada, respecto a los chatbots y otra respecto a las otras heramientas IA, cuyos valores se compararán con el sprint anterior para ver la eficacia de la IA en nuestro entorno de trabajo.
+En este sprint, a diferencia del anterior, se estableció el concepto de contabilizar prompts y chats, asi como los fallos y alucinaciones que la IA tuvo para calcular con mayor eficacia los porcentajes de alucinación de la IA. Esta vez, solo se calculará la media ponderada, respecto a los chatbots y otra respecto a las otras herramientas IA, cuyos valores se compararán con el sprint anterior para ver la eficacia de la IA en nuestro entorno de trabajo.
 
 #### ChatBots
 
@@ -402,7 +402,7 @@ En este sprint, a diferencia del anterior, se estableció el concepto de contabi
 
 **Media de alucinaciones ponderada**
 
-Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 37.4% de errores medio. Este valor se aproxima exactamente a la estimación que hicimos sobre el sprint anterior, aunque debemos reducir este porcentaje para entregables fututos si queremos un uso productivo de la IA, ya que un 37% puede implicar un malgasto de uso de nuestro tiempo en intentar resolver aquellas alucinaciones que la IA nos presenta.
+Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 37.4% de errores medio. Este valor se aproxima exactamente a la estimación que hicimos sobre el sprint anterior, aunque debemos reducir este porcentaje para entregables futuros si queremos un uso productivo de la IA, ya que un 37% puede implicar un malgasto de uso de nuestro tiempo en intentar resolver aquellas alucinaciones que la IA nos presenta.
 
 #### Autorrellenado y CodiumAI
 
@@ -474,11 +474,11 @@ Para seguir bajando nuestra tasa de errores, continuaremos utilizando aquellas l
 
 **Media de alucinaciones ponderada**
 
-Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 0% de errores medio. Este valor se debe a una combinación de un menor uso del autorrellenado y sugerencias de estas heramientas, asi como de un proceso más definido para evitar errores de ambas partes.
+Haciendo la media ponderada respecto al uso de otras herramientas IA de cada miembro obtenemos un total de 0% de errores medio. Este valor se debe a una combinación de un menor uso del autorrellenado y sugerencias de estas herramientas, asi como de un proceso más definido para evitar errores de ambas partes.
 
 #### Opinión del equipo
 
-Según un 57% de los encuestados que usan IA, se considerá que ha habido una mejora respecto a su uso de IA en el último sprint, centrado en el objetivo de reducir las alucinaciones al máximo posible.
+Según un 57% de los encuestados que usan IA, se considera que ha habido una mejora respecto a su uso de IA en el último sprint, centrado en el objetivo de reducir las alucinaciones al máximo posible.
 
 Para mejorar y conseguir esto, el equipo seguirá aplicando metodologías sobre herramientas para reducir el número de alucinaciones que obtenemos en nuestro proyecto, y asi, mejorando nuestra productividad.
 
@@ -504,9 +504,9 @@ Como entregables anteriores, la encuesta recopiló errores y alucinaciones de la
 
 **Media de alucinaciones ponderada**
 
-Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 29% de errores medio. Esto es una pequeña mejora del porcentage de alucionaciones, un 7% de diferencia respecto al entregable anterior por lo que podemos decir que hemos mejorado en este sprint para evitar errores.
+Haciendo la media ponderada respecto al uso de IA de cada miembro obtenemos un total de 29% de errores medio. Esto es una pequeña mejora del porcentaje de alucinaciones, un 7% de diferencia respecto al entregable anterior por lo que podemos decir que hemos mejorado en este sprint para evitar errores.
 
-Aún asi, nuestro objetivo será bajar estas alucinaciones el máximo posible, asi que se continuará utilizando aquellas lecciones definidas al final de este reportepra poder mejorar en nuestra efectividad con la IA.
+Aún asi, nuestro objetivo será bajar estas alucinaciones el máximo posible, asi que se continuará utilizando aquellas lecciones definidas al final de este reporte para poder mejorar en nuestra efectividad con la IA.
 
 #### Autorrellenado y CodiumAI
 
@@ -524,11 +524,11 @@ Debido al bajo uso que utilizaron estas herramientas en este entregable, asi com
 
 #### Opinión del equipo
 
-Según otra vez un 57% de los encuestados que usan IA, se considerá que ha habido una mejora respecto a su uso de IA en el último entregable. Aún asi, hay un 28% de las personas que debido al poco uso de IA del entregable muestran indecisión al decidir si han mejorado.
+Según otra vez un 57% de los encuestados que usan IA, se considera que ha habido una mejora respecto a su uso de IA en el último entregable. Aún asi, hay un 28% de las personas que debido al poco uso de IA del entregable muestran indecisión al decidir si han mejorado.
 
 ### World Project Launch
 
-Debido a la falta de uso de IA durante el entregable, no se ha realizado ningún analisis de alucionaciones en la encuesta. Aunque se cojerán las medias de todos los valores en entregables anteriores para ver como ha sido el desarrollo de nuestro uso con la IA.
+Debido a la falta de uso de IA durante el entregable, no se ha realizado ningún análisis de alucinaciones en la encuesta. Aunque se cogerán las medias de todos los valores en entregables anteriores para ver como ha sido el desarrollo de nuestro uso con la IA.
 
 Porcentaje general es el porcentaje de alucinaciones si no se ha establecido una clara diferenciación entre tipos de IA. Otro se refiere al porcentaje de aquellas alucinaciones pertenecientes a autorrellenado y bots para pull request principalmente.
 
@@ -541,7 +541,7 @@ Porcentaje general es el porcentaje de alucinaciones si no se ha establecido una
 |  PPL      | -       | 29%       |  0%  |
 | WPL       | -        | -         |  -   |
 
-Podemos analizar una clara mejoría entre entregables tanto con el uso de Chatbots como con otras IAs, aunque Chatbots tuvieron que recurrir hasta el entregable "Preparing Project Launch" para mostrar una mejoría substancial. Aún asi el equipo puede decir que en genral se ha podido mejorar y optimizar nuestro uso de IA para no afectar a nuestro rendimiento y eficacia a la hora de trabajar.
+Podemos analizar una clara mejoría entre entregables tanto con el uso de Chatbots como con otras IAs, aunque Chatbots tuvieron que recurrir hasta el entregable "Preparing Project Launch" para mostrar una mejoría substancial. Aún asi el equipo puede decir que en general se ha podido mejorar y optimizar nuestro uso de IA para no afectar a nuestro rendimiento y eficacia a la hora de trabajar.
 
 
 ## 6. Lecciones aprendidas
@@ -554,10 +554,10 @@ El role prompting consiste en establecer a la IA un papel específico que debe t
 
 - **Razonamiento crítico**
 
- Aunque la IA pueda procesar grandes cantidades de datos y generar respuestas rápidas, no siempre garantiza precisión ni entendimiento real del contexto que queremos resolver. Las alucinaciones de IA son un claro ejemplo de esto, por lo que debemos constrastar estos resultados que la IA nos otorga con fuentes reales y fiables, y modificar dicha información para obtener un resultado que pueda ser utilizado en su máximo potencial.
+ Aunque la IA pueda procesar grandes cantidades de datos y generar respuestas rápidas, no siempre garantiza precisión ni entendimiento real del contexto que queremos resolver. Las alucinaciones de IA son un claro ejemplo de esto, por lo que debemos contrastar estos resultados que la IA nos otorga con fuentes reales y fiables, y modificar dicha información para obtener un resultado que pueda ser utilizado en su máximo potencial.
 
  - **Cuando usar la IA y No**
 
 La IA es una herramienta muy útil que nos ayuda a acelerar procesos mundanos y repetitivos, pero debemos, como equipo, tener en cuenta que no podemos depender de una IA para elaborar todo. Aquellas tareas como automatización, o asistencia en decisiones humanas, siempre y cuando sea verificado, es beneficioso para nuestro equipo. 
 
-Por lo tanto debemos evitar eliminar esa verificación humana cuando haya que tomar decisiones en el proyecto, el factor humano es clave para garantizar su calidad, precisión, y para evitar errores causados por la IA, deshaciéndonos de aquella dependencia que puede ser detrimente para la precisión y la calidad del proyecto.
+Por lo tanto debemos evitar eliminar esa verificación humana cuando haya que tomar decisiones en el proyecto, el factor humano es clave para garantizar su calidad, precisión, y para evitar errores causados por la IA, deshaciéndonos de aquella dependencia que puede ser perjudicial para la precisión y la calidad del proyecto.
