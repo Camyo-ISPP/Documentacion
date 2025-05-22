@@ -916,6 +916,10 @@
 **Baños Botón, José Ramón:**
 
 **Cantero Corchero, Isabel:**
+- Diseñó posts para redes sociales
+- Participó en la reunión final
+- Ayudó con el WPL promotion slides
+- Fue al ensayo en el salón de actos
 
 **Chen, Sheng:**
 - Participó en la reunión final.
