@@ -935,6 +935,9 @@
 - Participó en todas las reuniones.
 
 **Heras Pérez, Raúl:**
+- Participó en la reunión final
+- Realizó posts de X
+- Revisó la documentación y aplicación antes de la entrega.
 
 **Jiménez Guerrero, Pedro:**
 
