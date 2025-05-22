@@ -922,6 +922,8 @@
 - Publicó un anuncio en Facebook.
 
 **García Martínez, Carlos:**
+- Participó en la reunión final.
+- Realizo posts de redes sociales.
 
 **García Ortíz, Carlos:**
 - Redactó el documento de *Evaluación de Usuarios Piloto* de ISPP para la evaluación final.
