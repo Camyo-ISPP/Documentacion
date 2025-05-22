@@ -935,6 +935,12 @@
 **Jiménez Guerrero, Pedro:**
 
 **Meana Iturri, Claudia:**
+- Coordinó y organizó las tareas para elaborar las presentaciones.
+- Colaboró en la elaboración y revisión de presentaciones.
+- Reivisió y corrigió los guiones para la presentación WPL.
+- Fue al ensayo en el salón de actos.
+- Presentó todas la presentación de rendimiento del equipo.
+- Participó en todas las reuniones del equipo.
 
 **Pérez Garrido, Rubén:**
 - Participó en la reunión final.
