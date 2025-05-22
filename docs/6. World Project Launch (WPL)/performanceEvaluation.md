@@ -920,6 +920,7 @@
 - Participó en la reunión final
 - Ayudó con el WPL promotion slides
 - Fue al ensayo en el salón de actos
+- Añadir imágenes de anuncios al código
 
 **Chen, Sheng:**
 - Participó en la reunión final.
