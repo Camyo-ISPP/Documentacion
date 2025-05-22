@@ -402,19 +402,19 @@ Para acceder a la página para finalizar la compra, primero se deberá interactu
 
 Una vez se haya pulsado uno de estos botones, el usuario será redirigido a la siguiente página:
 
-![image](https://i.imgur.com/MkW51XP.png)
+![image](images/resumencompra.png)
 
 En ella, se muestra un resumen de la compra, con el precio de la misma. El pago comienza cuando se interactúa con el botón **Continuar al pago**. A partir de aquí, se podrá introducir la información de pago.
 
-![image](https://i.imgur.com/BVs4iyd.png)
+![image](images/continuacionpago.png)
 
 El pago se realiza cuando se pulsa **Confirmar pago**. Si el pago se realiza correctamente, se mostrará un mensaje de éxito y se redirigirá al usuario a la página principal. De lo contrario, se mostrará un error debajo del botón **Confirmar pago** y en alguno de los campos de información de pago, si el problema proviene de ahí.
 
-![image](https://i.imgur.com/pnrKbFg.png)
-![image](https://i.imgur.com/BQ3H5Es.png)
+![image](images/tarjetarechazada.png)
+![image](images/pagocompletado.png)
 
 La compra se puede cancelar pulsando la flecha a la izquierda del título **Finalizar compra**. El usuario volverá a la página en la que estaba antes.
 
 Nota: si se intenta acceder a la página de finalización de compra de otra forma que no sea las indicadas anteriormente, se mostrará un error. Esto se debe a que la interacción con los botones, además de redirigir al pago, le pasan a esta página el tipo de compra y, en caso de ser el patrocinio de una oferta, su ID.
 
-![image](https://i.imgur.com/AfiY2PL.png)
+![image](images/compranovalida.png)
