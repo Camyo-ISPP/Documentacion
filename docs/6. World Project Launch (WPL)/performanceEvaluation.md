@@ -944,6 +944,9 @@
 **Pérez Gutiérrez, Lucía:**
 
 **Pérez Manzano, Francisco:**
+- Ayudo a preparar la presentación de evaluación individual
+- Hizo la impresión de pegatinas
+- Redactó la última versión del documento de reporte de uso de IA.
   
 **Pérez Vargas, Diego José:**
 
