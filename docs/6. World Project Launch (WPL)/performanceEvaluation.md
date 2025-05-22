@@ -934,6 +934,11 @@
 
 **Jiménez Guerrero, Pedro:**
 
+- Diseñó posts de redes 
+- Fue al ensayo del WPL en el salón de actos
+- Participó en todas las reuniones del grupo
+
+
 **Meana Iturri, Claudia:**
 - Coordinó y organizó las tareas para elaborar las presentaciones.
 - Colaboró en la elaboración y revisión de presentaciones.
