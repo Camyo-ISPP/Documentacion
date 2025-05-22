@@ -958,6 +958,11 @@
 - Presentó el WPL.
 
 **Pérez Gutiérrez, Lucía:**
+- Participó en la reunión de revisión de la presentación
+- Colaboro para del cartel de promoción en las pantallas
+- Creo el post de la feria en diseño
+- Creo las identificaciones de los presentaciones para el WPL
+- Creó el post de anuncio del WPL
 
 **Pérez Manzano, Francisco:**
 - Ayudo a preparar la presentación de evaluación individual
