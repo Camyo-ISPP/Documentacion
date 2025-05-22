@@ -974,6 +974,9 @@
   
 **Pérez Vargas, Diego José:**
 
+- Participó en la reunión final.
+- Revisó la calidad de la documentación y el código antes de la entrega.
+
 **Rodríguez Millán, María Cristina:**
 - Participó en la reunión final.
 - Ayudó a preparar la presentación final.
