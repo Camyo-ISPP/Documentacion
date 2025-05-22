@@ -35,7 +35,7 @@
 ## Tabla de Contenidos
 
 1. [Introducción](#1-introducción)
-2. [Herramientas IA estimadas y su proposito](#2-herramientas-ia-estimadas-y-su-proposito)
+2. [Herramientas IA y su proposito](#2-herramientas-ia-y-su-proposito)
     - [Chatbots](#chatbots)
     - [Desarrollo de Código](#desarrollo-de-código)
     - [Herramientas de Diseño Gráfico](#herramientas-de-diseño-gráfico)
@@ -46,11 +46,13 @@
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
     - [Preparing Project Launch](#preparing-project-launch)
+    - [World Project Launch](#world-project-launch)
 5. [Alucinaciones de IA](#5-alucinaciones-de-ia)
     - [Sprint 1](#sprint-1-1)
     - [Sprint 2](#sprint-2-1)
     - [Sprint 3](#sprint-3-1)
     - [Preparing Project Launch](#preparing-project-launch-1)
+    - [World Project Launch](#world-project-launch-1)
 6. [Lecciones Aprendidas](#6-lecciones-aprendidas)
 
 
@@ -301,7 +303,7 @@ En los resultados de las encuestas se establecieron las IA de GitHub Copilot y C
 
 A continuación se pondrá una tabla con los resultados:
 
-[PONER LA FOTO]
+![Tabla de IA más útil](./images/IA_Más_Util.png)
 
 #### IA menos útil
 
@@ -311,7 +313,7 @@ Otras IAs que encontramos en las ocpiones son GitHub Copilot estando segunda, pr
 
 A continuación se pondrá una tabla con los resultados:
 
-[PONER LA FOTO]
+![Tabla de IA menos útil](./images/IA_Menos_Util.png)
 
 #### Conclusiones
 
