@@ -93,7 +93,7 @@ En esta tabla aparece toda la información necesaria para la revisión de Camyo.
 | Usuario de Empresa (Camyo) | **Usuario:** emp_etsii1  **Contraseña:** etsiipass<br>**Usuario:** emp_etsii2  **Contraseña:** etsiipass <br>**Usuario:** emp_test  **Contraseña:** pass <br>**Usuario:** transportessa  **Contraseña:** pass |
 | Usuario de Camionero(Camyo) | **Usuario:** cam_etsii1  **Contraseña:** etsiipass<br>**Usuario:** cam_etsii2  **Contraseña:** etsiipass (Autónomo) |
 | Usuario Administrador  | **Usuario:** admin  **Contraseña:** etsiipass |
-| Cuenta para Realizar los Pagos  | 4242 4242 4242 4242, cualquier fecha y cualquier CVV. |
+| Cuenta para Realizar los Pagos  | 4242 4242 4242 4242, cualquier fecha en el futuro y cualquier CVV. |
 
 ## 3. Autenticación
 
@@ -287,7 +287,7 @@ En la pantalla de "Mis Ofertas" en "Borradores" podremos ver los borradores que 
 <img src="images/listaBorradores.png">
 </p>
 
-Además está la posibilidad de editar estos borradores, eliminarlos o publicarlos
+Además está la posibilidad de editar estos borradores, eliminarlos o publicarlos.
 
 <p align="center">
 <img src="images/editarBorrador.png">
@@ -341,7 +341,7 @@ Listado de ofertas de trabajo o carga creadas por la empresa que han sido asigna
 
 ### 7.1 Crear y ver reseñas
 
-Tanto para camionero como para perfil se les permitirá valorar a las empresas o camioneros recientes y ver los comentarios que han sido dejados por la empresas o camioneros con los q se ha trabajado recientemente.
+Tanto para camionero como para perfil se les permitirá valorar a las empresas o camioneros recientes y ver los comentarios que han sido dejados por la empresas o camioneros con los que se ha trabajado recientemente.
 
 <p align="center">
 <img src="images/valorarEnPerfil.png">
@@ -358,7 +358,7 @@ También pueden ver las reseñas de un usuario y su valoración media. En este c
 
 ### 7.2 Editar y Eliminar reseñas
 
-Cuando un usuario visite un perfil público en el que ha dejado una reseña podrá editar y borrar su reseña
+Cuando un usuario visite un perfil público en el que ha dejado una reseña, podrá editar y borrar su reseña.
 
 <p align="center">
 <img src="images/editarReseña.png">
