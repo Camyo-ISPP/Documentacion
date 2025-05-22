@@ -914,6 +914,8 @@
 #### World Project Launch (#WPL)
 
 **Baños Botón, José Ramón:**
+- Participó en la reunión final.
+- Intentó realizar tests de frontend.
 
 **Cantero Corchero, Isabel:**
 - Diseñó posts para redes sociales
@@ -983,6 +985,8 @@
 - Presentó el WPL.
 
 **Rus Morales, Sonia María:**
+- Participó en la reunión final.
+- Intentó realizar tests de frontend.
 
 **Vento Conesa, Adriana:**
 - Realizó la configuración y pruebas de despliegue.
