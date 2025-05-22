@@ -974,6 +974,11 @@
 **Rus Morales, Sonia María:**
 
 **Vento Conesa, Adriana:**
+- Realizó la configuración y pruebas de despliegue.
+- Participó en la redacción y preparación de documentación para el WPL.
+- Ayudó con la plantilla del anuncio para las pantallas de la ETSII.
+- Añadió feedback individual y grupal a la BCC durante la semana del 10 al 17/05/2025.
+- Participó en la reunión final.
 
 **Yao, Jun:**
 - Ayudó el documento de *Producción Física de Publicidad*.
